@@ -3,8 +3,8 @@ Proses Render Data..
 Website : https://coinmarketcap.com/coins/ ID : currencies 
 Not Compare
               total        used        free      shared  buff/cache   available
-Mem:        8052712     1292296     4827856      256032     1932560     6161164
-Swap:       7999484           0     7999484
+Mem:        8052712     3077404     2154352      562996     2820956     4042456
+Swap:       7999484     1116316     6883168
 
 Website : https://coinmarketcap.com/coins/ ID : currencies 
 Begin Compare
@@ -16,14 +16,12 @@ array(100) {
   array(0) {
   }
   [2]=>
-  array(1) {
-    ["data_7"]=>
-    string(1) " "
+  array(0) {
   }
   [3]=>
   array(1) {
     ["data_5"]=>
-    string(10) "1745 MBCH "
+    string(9) "1745 MBCH"
   }
   [4]=>
   array(0) {
@@ -32,30 +30,24 @@ array(100) {
   array(0) {
   }
   [6]=>
-  array(1) {
-    ["data_1"]=>
-    string(11) "LTCLitecoin"
+  array(0) {
   }
   [7]=>
-  array(1) {
-    ["data_1"]=>
-    string(10) "ADACardano"
+  array(0) {
   }
   [8]=>
-  array(1) {
-    ["data_8"]=>
-    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  array(0) {
   }
   [9]=>
-  array(0) {
+  array(1) {
+    ["data_8"]=>
+    string(115) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView Markets View Historical DataKeep your crypto safe"
   }
   [10]=>
   array(0) {
   }
   [11]=>
-  array(1) {
-    ["data_5"]=>
-    string(10) "278 BMIOTA"
+  array(0) {
   }
   [12]=>
   array(0) {
@@ -64,12 +56,12 @@ array(100) {
   array(0) {
   }
   [14]=>
-  array(1) {
-    ["data_0"]=>
-    string(3) "15 "
+  array(0) {
   }
   [15]=>
-  array(0) {
+  array(1) {
+    ["data_8"]=>
+    string(115) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView Markets View Historical DataKeep your crypto safe"
   }
   [16]=>
   array(0) {
@@ -78,405 +70,39 @@ array(100) {
   array(0) {
   }
   [18]=>
-  array(0) {
-  }
-  [19]=>
-  array(0) {
-  }
-  [20]=>
-  array(0) {
-  }
-  [21]=>
-  array(0) {
-  }
-  [22]=>
-  array(1) {
-    ["data_7"]=>
-    string(1) " "
-  }
-  [23]=>
-  array(1) {
-    ["data_5"]=>
-    string(10) "11200 MLSK"
-  }
-  [24]=>
-  array(0) {
-  }
-  [25]=>
-  array(1) {
-    ["data_8"]=>
-    string(115) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe "
-  }
-  [26]=>
-  array(1) {
-    ["data_8"]=>
-    string(115) "Add to WatchlistRemove from WatchlistWatchlist full View ChartView MarketsView Historical DataKeep your crypto safe"
-  }
-  [27]=>
-  array(0) {
-  }
-  [28]=>
-  array(0) {
-  }
-  [29]=>
-  array(1) {
-    ["data_6"]=>
-    string(5) "330 M"
-  }
-  [30]=>
-  array(0) {
-  }
-  [31]=>
-  array(0) {
-  }
-  [32]=>
-  array(1) {
-    ["data_8"]=>
-    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
-  }
-  [33]=>
-  array(1) {
-    ["data_8"]=>
-    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
-  }
-  [34]=>
-  array(0) {
-  }
-  [35]=>
-  array(0) {
-  }
-  [36]=>
-  array(0) {
-  }
-  [37]=>
-  array(0) {
-  }
-  [38]=>
-  array(0) {
-  }
-  [39]=>
-  array(0) {
-  }
-  [40]=>
-  array(1) {
-    ["data_5"]=>
-    string(12) "99900 MARDR "
-  }
-  [41]=>
-  array(0) {
-  }
-  [42]=>
-  array(0) {
-  }
-  [43]=>
-  array(2) {
-    ["data_1"]=>
-    string(14) " HTHuobi Token"
-    ["data_8"]=>
-    string(115) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView Markets View Historical DataKeep your crypto safe"
-  }
-  [44]=>
-  array(0) {
-  }
-  [45]=>
-  array(0) {
-  }
-  [46]=>
-  array(1) {
-    ["data_5"]=>
-    string(8) "4353 MHC"
-  }
-  [47]=>
-  array(0) {
-  }
-  [48]=>
-  array(0) {
-  }
-  [49]=>
-  array(0) {
-  }
-  [50]=>
-  array(0) {
-  }
-  [51]=>
-  array(0) {
-  }
-  [52]=>
-  array(1) {
-    ["data_5"]=>
-    string(9) "4550 MNAS"
-  }
-  [53]=>
   array(1) {
     ["data_2"]=>
-    string(7) "0063788"
-  }
-  [54]=>
-  array(1) {
-    ["data_1"]=>
-    string(8) "XZCZcoin"
-  }
-  [55]=>
-  array(0) {
-  }
-  [56]=>
-  array(0) {
-  }
-  [57]=>
-  array(0) {
-  }
-  [58]=>
-  array(1) {
-    ["data_5"]=>
-    string(10) " 63079 MGO"
-  }
-  [59]=>
-  array(0) {
-  }
-  [60]=>
-  array(1) {
-    ["data_1"]=>
-    string(11) "EMCEmercoin"
-  }
-  [61]=>
-  array(0) {
-  }
-  [62]=>
-  array(0) {
-  }
-  [63]=>
-  array(0) {
-  }
-  [64]=>
-  array(0) {
-  }
-  [65]=>
-  array(0) {
-  }
-  [66]=>
-  array(0) {
-  }
-  [67]=>
-  array(0) {
-  }
-  [68]=>
-  array(1) {
-    ["data_8"]=>
-    string(115) " Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
-  }
-  [69]=>
-  array(0) {
-  }
-  [70]=>
-  array(0) {
-  }
-  [71]=>
-  array(0) {
-  }
-  [72]=>
-  array(0) {
-  }
-  [73]=>
-  array(0) {
-  }
-  [74]=>
-  array(0) {
-  }
-  [75]=>
-  array(1) {
-    ["data_5"]=>
-    string(10) "1565 MTPAY"
-  }
-  [76]=>
-  array(0) {
-  }
-  [77]=>
-  array(0) {
-  }
-  [78]=>
-  array(0) {
-  }
-  [79]=>
-  array(0) {
-  }
-  [80]=>
-  array(0) {
-  }
-  [81]=>
-  array(1) {
-    ["data_5"]=>
-    string(11) " 105 BSMART"
-  }
-  [82]=>
-  array(0) {
-  }
-  [83]=>
-  array(0) {
-  }
-  [84]=>
-  array(0) {
-  }
-  [85]=>
-  array(0) {
-  }
-  [86]=>
-  array(0) {
-  }
-  [87]=>
-  array(0) {
-  }
-  [88]=>
-  array(0) {
-  }
-  [89]=>
-  array(1) {
-    ["data_8"]=>
-    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
-  }
-  [90]=>
-  array(1) {
-    ["data_8"]=>
-    string(115) "Add to WatchlistRemove from WatchlistWatchlist full View ChartView MarketsView Historical DataKeep your crypto safe"
-  }
-  [91]=>
-  array(1) {
-    ["data_8"]=>
-    string(115) " Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
-  }
-  [92]=>
-  array(0) {
-  }
-  [93]=>
-  array(0) {
-  }
-  [94]=>
-  array(0) {
-  }
-  [95]=>
-  array(0) {
-  }
-  [96]=>
-  array(0) {
-  }
-  [97]=>
-  array(0) {
-  }
-  [98]=>
-  array(1) {
-    ["data_5"]=>
-    string(9) "5741 MXLQ"
-  }
-  [99]=>
-  array(1) {
-    ["data_6"]=>
-    string(7) "12021 K"
-  }
-}
-              total        used        free      shared  buff/cache   available
-Mem:        8052712     1290516     4817404      267952     1944792     6150932
-Swap:       7999484           0     7999484
-
-Website : https://coinmarketcap.com/coins/ ID : currencies 
-Begin Compare
-array(100) {
-  [0]=>
-  array(1) {
-    ["data_8"]=>
-    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
-  }
-  [1]=>
-  array(0) {
-  }
-  [2]=>
-  array(1) {
-    ["data_7"]=>
-    string(1) " "
-  }
-  [3]=>
-  array(1) {
-    ["data_5"]=>
-    string(10) "1745 MBCH "
-  }
-  [4]=>
-  array(0) {
-  }
-  [5]=>
-  array(0) {
-  }
-  [6]=>
-  array(0) {
-  }
-  [7]=>
-  array(0) {
-  }
-  [8]=>
-  array(1) {
-    ["data_8"]=>
-    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
-  }
-  [9]=>
-  array(0) {
-  }
-  [10]=>
-  array(0) {
-  }
-  [11]=>
-  array(0) {
-  }
-  [12]=>
-  array(0) {
-  }
-  [13]=>
-  array(0) {
-  }
-  [14]=>
-  array(1) {
-    ["data_0"]=>
-    string(3) "15 "
-  }
-  [15]=>
-  array(0) {
-  }
-  [16]=>
-  array(0) {
-  }
-  [17]=>
-  array(0) {
-  }
-  [18]=>
-  array(0) {
+    string(4) "2893"
   }
   [19]=>
-  array(0) {
+  array(1) {
+    ["data_2"]=>
+    string(8) " 0003050"
   }
   [20]=>
   array(0) {
   }
   [21]=>
-  array(1) {
-    ["data_8"]=>
-    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  array(0) {
   }
   [22]=>
-  array(1) {
-    ["data_7"]=>
-    string(1) " "
+  array(0) {
   }
   [23]=>
-  array(0) {
+  array(1) {
+    ["data_5"]=>
+    string(10) "11205 MLSK"
   }
   [24]=>
   array(0) {
   }
   [25]=>
-  array(1) {
-    ["data_8"]=>
-    string(115) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe "
+  array(0) {
   }
   [26]=>
   array(1) {
     ["data_8"]=>
-    string(115) "Add to WatchlistRemove from WatchlistWatchlist full View ChartView MarketsView Historical DataKeep your crypto safe"
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
   }
   [27]=>
   array(0) {
@@ -514,28 +140,28 @@ array(100) {
   array(0) {
   }
   [38]=>
-  array(0) {
+  array(1) {
+    ["data_8"]=>
+    string(115) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical Data Keep your crypto safe"
   }
   [39]=>
-  array(0) {
+  array(1) {
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
   }
   [40]=>
-  array(1) {
-    ["data_5"]=>
-    string(12) "99900 MARDR "
+  array(0) {
   }
   [41]=>
-  array(0) {
+  array(1) {
+    ["data_5"]=>
+    string(11) "10615 MWAN "
   }
   [42]=>
   array(0) {
   }
   [43]=>
-  array(2) {
-    ["data_1"]=>
-    string(14) " HTHuobi Token"
-    ["data_8"]=>
-    string(115) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView Markets View Historical DataKeep your crypto safe"
+  array(0) {
   }
   [44]=>
   array(0) {
@@ -550,17 +176,15 @@ array(100) {
   array(0) {
   }
   [48]=>
-  array(1) {
-    ["data_1"]=>
-    string(11) "RDDReddCoin"
+  array(0) {
   }
   [49]=>
-  array(1) {
-    ["data_0"]=>
-    string(2) "50"
+  array(0) {
   }
   [50]=>
-  array(0) {
+  array(1) {
+    ["data_1"]=>
+    string(11) " ZENHorizen"
   }
   [51]=>
   array(0) {
@@ -568,15 +192,13 @@ array(100) {
   [52]=>
   array(1) {
     ["data_5"]=>
-    string(9) "4550 MNAS"
+    string(10) "99900 MNXT"
   }
   [53]=>
   array(0) {
   }
   [54]=>
-  array(1) {
-    ["data_1"]=>
-    string(8) "XZCZcoin"
+  array(0) {
   }
   [55]=>
   array(0) {
@@ -590,23 +212,21 @@ array(100) {
   [58]=>
   array(1) {
     ["data_5"]=>
-    string(10) " 63079 MGO"
+    string(10) "45684 MBOS"
   }
   [59]=>
   array(0) {
   }
   [60]=>
-  array(0) {
+  array(1) {
+    ["data_1"]=>
+    string(9) "FCTFactom"
   }
   [61]=>
-  array(1) {
-    ["data_8"]=>
-    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  array(0) {
   }
   [62]=>
-  array(1) {
-    ["data_8"]=>
-    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  array(0) {
   }
   [63]=>
   array(0) {
@@ -618,17 +238,15 @@ array(100) {
   array(0) {
   }
   [66]=>
-  array(0) {
+  array(1) {
+    ["data_1"]=>
+    string(11) "PPCPeercoin"
   }
   [67]=>
-  array(1) {
-    ["data_8"]=>
-    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  array(0) {
   }
   [68]=>
-  array(1) {
-    ["data_8"]=>
-    string(115) " Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  array(0) {
   }
   [69]=>
   array(0) {
@@ -640,9 +258,7 @@ array(100) {
   array(0) {
   }
   [72]=>
-  array(1) {
-    ["data_8"]=>
-    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  array(0) {
   }
   [73]=>
   array(0) {
@@ -651,21 +267,27 @@ array(100) {
   array(0) {
   }
   [75]=>
-  array(1) {
-    ["data_5"]=>
-    string(10) "1565 MTPAY"
+  array(0) {
   }
   [76]=>
-  array(0) {
+  array(2) {
+    ["data_5"]=>
+    string(9) "101 MSLS "
+    ["data_6"]=>
+    string(5) "106 K"
   }
   [77]=>
   array(0) {
   }
   [78]=>
-  array(0) {
+  array(1) {
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
   }
   [79]=>
-  array(0) {
+  array(1) {
+    ["data_1"]=>
+    string(10) " NRGEnergi"
   }
   [80]=>
   array(0) {
@@ -683,40 +305,44 @@ array(100) {
   array(0) {
   }
   [85]=>
-  array(1) {
-    ["data_8"]=>
-    string(115) " Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  array(0) {
   }
   [86]=>
   array(0) {
   }
   [87]=>
-  array(0) {
+  array(1) {
+    ["data_5"]=>
+    string(8) "101 BBAY"
   }
   [88]=>
-  array(0) {
+  array(1) {
+    ["data_2"]=>
+    string(7) "0008806"
   }
   [89]=>
   array(0) {
   }
   [90]=>
-  array(1) {
-    ["data_8"]=>
-    string(115) "Add to WatchlistRemove from WatchlistWatchlist full View ChartView MarketsView Historical DataKeep your crypto safe"
+  array(0) {
   }
   [91]=>
+  array(0) {
+  }
+  [92]=>
   array(1) {
     ["data_8"]=>
     string(115) " Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
   }
-  [92]=>
-  array(0) {
-  }
   [93]=>
-  array(0) {
+  array(1) {
+    ["data_5"]=>
+    string(8) "526 MZCL"
   }
   [94]=>
-  array(0) {
+  array(1) {
+    ["data_2"]=>
+    string(7) "0000101"
   }
   [95]=>
   array(0) {
@@ -725,19 +351,4796 @@ array(100) {
   array(0) {
   }
   [97]=>
-  array(0) {
+  array(1) {
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
   }
   [98]=>
-  array(0) {
+  array(1) {
+    ["data_8"]=>
+    string(115) " Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
   }
   [99]=>
-  array(1) {
-    ["data_6"]=>
-    string(7) "12021 K"
+  array(0) {
   }
 }
               total        used        free      shared  buff/cache   available
-Mem:        8052712     1290240     4838244      246824     1924228     6172172
-Swap:       7999484           0     7999484
+Mem:        8052712     3046936     2176364      570184     2829412     4066072
+Swap:       7999484     1116060     6883424
 
 Website : https://coinmarketcap.com/coins/ ID : currencies 
+Begin Compare
+array(100) {
+  [0]=>
+  array(4) {
+    ["data_2"]=>
+    string(6) "638623"
+    ["data_3"]=>
+    string(3) "011"
+    ["data_4"]=>
+    string(7) "11094 B"
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [1]=>
+  array(4) {
+    ["data_2"]=>
+    string(5) "21108"
+    ["data_3"]=>
+    string(3) "029"
+    ["data_4"]=>
+    string(6) "2177 B"
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [2]=>
+  array(2) {
+    ["data_2"]=>
+    string(7) "0501912"
+    ["data_6"]=>
+    string(7) "32619 M"
+  }
+  [3]=>
+  array(5) {
+    ["data_2"]=>
+    string(5) "51476"
+    ["data_3"]=>
+    string(3) "532"
+    ["data_4"]=>
+    string(5) "898 B"
+    ["data_5"]=>
+    string(9) "1745 MBCH"
+    ["data_6"]=>
+    string(7) "88768 M"
+  }
+  [4]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0272523"
+    ["data_3"]=>
+    string(3) "164"
+    ["data_4"]=>
+    string(5) "516 B"
+    ["data_6"]=>
+    string(7) "11437 M"
+  }
+  [5]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "011"
+    ["data_4"]=>
+    string(5) "488 B"
+    ["data_6"]=>
+    string(7) "66857 M"
+  }
+  [6]=>
+  array(3) {
+    ["data_2"]=>
+    string(4) "5074"
+    ["data_3"]=>
+    string(3) "168"
+    ["data_6"]=>
+    string(7) "41167 M"
+  }
+  [7]=>
+  array(3) {
+    ["data_2"]=>
+    string(7) "0075650"
+    ["data_3"]=>
+    string(3) "064"
+    ["data_6"]=>
+    string(6) "2277 M"
+  }
+  [8]=>
+  array(1) {
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [9]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0022555"
+    ["data_3"]=>
+    string(3) "152"
+    ["data_6"]=>
+    string(6) "5483 M"
+    ["data_8"]=>
+    string(115) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView Markets View Historical DataKeep your crypto safe"
+  }
+  [10]=>
+  array(0) {
+  }
+  [11]=>
+  array(3) {
+    ["data_2"]=>
+    string(5) "16280"
+    ["data_3"]=>
+    string(3) "161"
+    ["data_6"]=>
+    string(7) "29796 M"
+  }
+  [12]=>
+  array(3) {
+    ["data_2"]=>
+    string(4) "1574"
+    ["data_3"]=>
+    string(3) "131"
+    ["data_6"]=>
+    string(7) "16138 M"
+  }
+  [13]=>
+  array(4) {
+    ["data_2"]=>
+    string(3) "923"
+    ["data_3"]=>
+    string(3) "174"
+    ["data_4"]=>
+    string(7) "97770 M"
+    ["data_6"]=>
+    string(7) "14489 M"
+  }
+  [14]=>
+  array(5) {
+    ["data_0"]=>
+    string(2) "15"
+    ["data_2"]=>
+    string(7) "0103587"
+    ["data_3"]=>
+    string(4) "1123"
+    ["data_4"]=>
+    string(7) "93229 M"
+    ["data_6"]=>
+    string(6) "3470 M"
+  }
+  [15]=>
+  array(4) {
+    ["data_2"]=>
+    string(3) "131"
+    ["data_3"]=>
+    string(3) "036"
+    ["data_4"]=>
+    string(7) "79334 M"
+    ["data_8"]=>
+    string(115) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView Markets View Historical DataKeep your crypto safe"
+  }
+  [16]=>
+  array(0) {
+  }
+  [17]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0009926"
+    ["data_3"]=>
+    string(3) "273"
+    ["data_4"]=>
+    string(7) "55042 M"
+    ["data_6"]=>
+    string(5) "970 M"
+  }
+  [18]=>
+  array(2) {
+    ["data_3"]=>
+    string(3) "386"
+    ["data_4"]=>
+    string(7) "50155 M"
+  }
+  [19]=>
+  array(3) {
+    ["data_2"]=>
+    string(8) " 0003050"
+    ["data_3"]=>
+    string(3) "472"
+    ["data_4"]=>
+    string(7) "35674 M"
+  }
+  [20]=>
+  array(0) {
+  }
+  [21]=>
+  array(4) {
+    ["data_3"]=>
+    string(3) "272"
+    ["data_4"]=>
+    string(7) "33611 M"
+    ["data_6"]=>
+    string(7) "11304 M"
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [22]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "202"
+    ["data_4"]=>
+    string(7) "33082 M"
+    ["data_6"]=>
+    string(6) "1932 M"
+  }
+  [23]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "224"
+    ["data_4"]=>
+    string(7) "31414 M"
+    ["data_6"]=>
+    string(5) "747 M"
+  }
+  [24]=>
+  array(2) {
+    ["data_3"]=>
+    string(3) "152"
+    ["data_4"]=>
+    string(7) "25956 M"
+  }
+  [25]=>
+  array(3) {
+    ["data_2"]=>
+    string(7) "0094014"
+    ["data_3"]=>
+    string(3) "067"
+    ["data_4"]=>
+    string(7) "25114 M"
+  }
+  [26]=>
+  array(3) {
+    ["data_2"]=>
+    string(3) "183"
+    ["data_3"]=>
+    string(3) "029"
+    ["data_4"]=>
+    string(7) "24404 M"
+  }
+  [27]=>
+  array(3) {
+    ["data_2"]=>
+    string(7) "0001277"
+    ["data_4"]=>
+    string(7) "23499 M"
+    ["data_6"]=>
+    string(7) "55695 K"
+  }
+  [28]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0573567"
+    ["data_3"]=>
+    string(3) "328"
+    ["data_4"]=>
+    string(7) "22222 M"
+    ["data_6"]=>
+    string(5) "814 M"
+  }
+  [29]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0019495"
+    ["data_3"]=>
+    string(3) "163"
+    ["data_4"]=>
+    string(7) "21530 M"
+    ["data_6"]=>
+    string(5) "125 M"
+  }
+  [30]=>
+  array(3) {
+    ["data_2"]=>
+    string(7) "0005708"
+    ["data_3"]=>
+    string(3) "527"
+    ["data_4"]=>
+    string(7) "21507 M"
+  }
+  [31]=>
+  array(3) {
+    ["data_2"]=>
+    string(7) "0730118"
+    ["data_4"]=>
+    string(7) "20705 M"
+    ["data_6"]=>
+    string(7) "94257 K"
+  }
+  [32]=>
+  array(2) {
+    ["data_3"]=>
+    string(3) "217"
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [33]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0182824"
+    ["data_3"]=>
+    string(3) "159"
+    ["data_4"]=>
+    string(7) "18328 M"
+    ["data_6"]=>
+    string(6) "4000 M"
+  }
+  [34]=>
+  array(0) {
+  }
+  [35]=>
+  array(2) {
+    ["data_3"]=>
+    string(3) "188"
+    ["data_4"]=>
+    string(7) "16051 M"
+  }
+  [36]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "263"
+    ["data_4"]=>
+    string(7) "14149 M"
+    ["data_6"]=>
+    string(7) "73282 K"
+  }
+  [37]=>
+  array(2) {
+    ["data_4"]=>
+    string(7) "12690 M"
+    ["data_6"]=>
+    string(7) "58448 K"
+  }
+  [38]=>
+  array(5) {
+    ["data_2"]=>
+    string(7) "0015168"
+    ["data_3"]=>
+    string(3) "057"
+    ["data_4"]=>
+    string(7) "12614 M"
+    ["data_6"]=>
+    string(5) "399 M"
+    ["data_8"]=>
+    string(115) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical Data Keep your crypto safe"
+  }
+  [39]=>
+  array(4) {
+    ["data_2"]=>
+    string(3) "205"
+    ["data_3"]=>
+    string(3) "401"
+    ["data_4"]=>
+    string(7) "11376 M"
+    ["data_6"]=>
+    string(5) "715 M"
+  }
+  [40]=>
+  array(0) {
+  }
+  [41]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0922059"
+    ["data_3"]=>
+    string(3) "304"
+    ["data_4"]=>
+    string(6) "9788 M"
+    ["data_5"]=>
+    string(11) "10615 MWAN "
+  }
+  [42]=>
+  array(3) {
+    ["data_3"]=>
+    string(4) "2098"
+    ["data_4"]=>
+    string(6) "8882 M"
+    ["data_6"]=>
+    string(7) "25819 K"
+  }
+  [43]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0037427"
+    ["data_3"]=>
+    string(3) "462"
+    ["data_4"]=>
+    string(6) "8333 M"
+    ["data_6"]=>
+    string(5) "833 M"
+  }
+  [44]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "194"
+    ["data_4"]=>
+    string(6) "7754 M"
+    ["data_6"]=>
+    string(5) "629 M"
+  }
+  [45]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "042"
+    ["data_4"]=>
+    string(6) "7693 M"
+    ["data_6"]=>
+    string(7) "16070 K"
+  }
+  [46]=>
+  array(1) {
+    ["data_5"]=>
+    string(10) "5678 MPIVX"
+  }
+  [47]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0702921"
+    ["data_3"]=>
+    string(3) "154"
+    ["data_4"]=>
+    string(6) "7474 M"
+    ["data_6"]=>
+    string(7) "33316 K"
+  }
+  [48]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "336"
+    ["data_4"]=>
+    string(6) "7350 M"
+    ["data_6"]=>
+    string(7) "69576 K"
+  }
+  [49]=>
+  array(2) {
+    ["data_3"]=>
+    string(3) "006"
+    ["data_6"]=>
+    string(7) "40036 K"
+  }
+  [50]=>
+  array(4) {
+    ["data_1"]=>
+    string(11) " ZENHorizen"
+    ["data_2"]=>
+    string(4) "1422"
+    ["data_3"]=>
+    string(3) "095"
+    ["data_4"]=>
+    string(6) "7304 M"
+  }
+  [51]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0002490"
+    ["data_3"]=>
+    string(3) "294"
+    ["data_4"]=>
+    string(6) "7174 M"
+    ["data_6"]=>
+    string(7) "56645 K"
+  }
+  [52]=>
+  array(3) {
+    ["data_2"]=>
+    string(7) "0064498"
+    ["data_3"]=>
+    string(3) "184"
+    ["data_6"]=>
+    string(7) "75157 K"
+  }
+  [53]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "202"
+    ["data_4"]=>
+    string(6) "6319 M"
+    ["data_6"]=>
+    string(5) "754 M"
+  }
+  [54]=>
+  array(0) {
+  }
+  [55]=>
+  array(5) {
+    ["data_0"]=>
+    string(2) "56"
+    ["data_2"]=>
+    string(3) "658"
+    ["data_3"]=>
+    string(3) "066"
+    ["data_4"]=>
+    string(6) "5082 M"
+    ["data_6"]=>
+    string(5) "238 M"
+  }
+  [56]=>
+  array(3) {
+    ["data_2"]=>
+    string(7) "0076482"
+    ["data_3"]=>
+    string(3) "613"
+    ["data_4"]=>
+    string(6) "4893 M"
+  }
+  [57]=>
+  array(5) {
+    ["data_2"]=>
+    string(7) "0088932"
+    ["data_3"]=>
+    string(3) "208"
+    ["data_4"]=>
+    string(6) "4831 M"
+    ["data_6"]=>
+    string(7) "55605 K"
+    ["data_7"]=>
+    string(0) ""
+  }
+  [58]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0105109"
+    ["data_3"]=>
+    string(4) "1539"
+    ["data_4"]=>
+    string(6) "4802 M"
+    ["data_6"]=>
+    string(7) "60344 K"
+  }
+  [59]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "209"
+    ["data_4"]=>
+    string(6) "4190 M"
+    ["data_6"]=>
+    string(7) "11421 K"
+  }
+  [60]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "119"
+    ["data_4"]=>
+    string(6) "3882 M"
+    ["data_6"]=>
+    string(6) "7223 K"
+  }
+  [61]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0224377"
+    ["data_3"]=>
+    string(3) "059"
+    ["data_4"]=>
+    string(6) "3812 M"
+    ["data_6"]=>
+    string(5) "445 M"
+  }
+  [62]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0632669"
+    ["data_3"]=>
+    string(3) "111"
+    ["data_4"]=>
+    string(6) "3778 M"
+    ["data_6"]=>
+    string(7) "14193 K"
+  }
+  [63]=>
+  array(1) {
+    ["data_3"]=>
+    string(3) "122"
+  }
+  [64]=>
+  array(3) {
+    ["data_2"]=>
+    string(7) "0489710"
+    ["data_3"]=>
+    string(3) "033"
+    ["data_6"]=>
+    string(7) "82230 K"
+  }
+  [65]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0823626"
+    ["data_3"]=>
+    string(3) "799"
+    ["data_4"]=>
+    string(6) "3469 M"
+    ["data_6"]=>
+    string(7) "26173 K"
+  }
+  [66]=>
+  array(4) {
+    ["data_2"]=>
+    string(3) "132"
+    ["data_3"]=>
+    string(3) "859"
+    ["data_4"]=>
+    string(6) "3316 M"
+    ["data_6"]=>
+    string(7) "38521 K"
+  }
+  [67]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "088"
+    ["data_6"]=>
+    string(7) "21491 K"
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [68]=>
+  array(0) {
+  }
+  [69]=>
+  array(6) {
+    ["data_1"]=>
+    string(19) "GBYTEByteball Bytes"
+    ["data_2"]=>
+    string(4) "4320"
+    ["data_3"]=>
+    string(3) "424"
+    ["data_4"]=>
+    string(6) "2863 M"
+    ["data_5"]=>
+    string(12) "66281 KGBYTE"
+    ["data_6"]=>
+    string(6) "2609 K"
+  }
+  [70]=>
+  array(6) {
+    ["data_1"]=>
+    string(11) "VTCVertcoin"
+    ["data_2"]=>
+    string(7) "0610814"
+    ["data_3"]=>
+    string(3) "300"
+    ["data_4"]=>
+    string(6) "2860 M"
+    ["data_5"]=>
+    string(9) "4682 MVTC"
+    ["data_6"]=>
+    string(7) "28083 K"
+  }
+  [71]=>
+  array(1) {
+    ["data_2"]=>
+    string(7) "0106404"
+  }
+  [72]=>
+  array(5) {
+    ["data_2"]=>
+    string(7) "0541934"
+    ["data_3"]=>
+    string(3) "332"
+    ["data_4"]=>
+    string(6) "2309 M"
+    ["data_6"]=>
+    string(6) "9221 K"
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [73]=>
+  array(4) {
+    ["data_2"]=>
+    string(3) "145"
+    ["data_3"]=>
+    string(3) "183"
+    ["data_4"]=>
+    string(6) "2271 M"
+    ["data_6"]=>
+    string(7) "23869 K"
+  }
+  [74]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "244"
+    ["data_4"]=>
+    string(6) "2232 M"
+    ["data_6"]=>
+    string(6) "3500 K"
+  }
+  [75]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0335657"
+    ["data_3"]=>
+    string(3) "482"
+    ["data_4"]=>
+    string(6) "2135 M"
+    ["data_6"]=>
+    string(7) "20582 K"
+  }
+  [76]=>
+  array(4) {
+    ["data_2"]=>
+    string(4) "2004"
+    ["data_3"]=>
+    string(3) "016"
+    ["data_4"]=>
+    string(6) "2027 M"
+    ["data_5"]=>
+    string(9) "101 MSLS "
+  }
+  [77]=>
+  array(1) {
+    ["data_3"]=>
+    string(4) "4565"
+  }
+  [78]=>
+  array(6) {
+    ["data_1"]=>
+    string(18) "APLApollo Currency"
+    ["data_2"]=>
+    string(7) "0001319"
+    ["data_3"]=>
+    string(3) "421"
+    ["data_4"]=>
+    string(6) "1937 M"
+    ["data_5"]=>
+    string(9) "1469 BAPL"
+    ["data_6"]=>
+    string(6) "6566 K"
+  }
+  [79]=>
+  array(6) {
+    ["data_1"]=>
+    string(10) " NRGEnergi"
+    ["data_2"]=>
+    string(3) "196"
+    ["data_3"]=>
+    string(4) "2918"
+    ["data_4"]=>
+    string(6) "1937 M"
+    ["data_5"]=>
+    string(8) "988 MNRG"
+    ["data_6"]=>
+    string(6) "6615 K"
+  }
+  [80]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0086231"
+    ["data_3"]=>
+    string(3) "261"
+    ["data_4"]=>
+    string(6) "1899 M"
+    ["data_6"]=>
+    string(7) "28008 K"
+  }
+  [81]=>
+  array(3) {
+    ["data_2"]=>
+    string(7) "0819222"
+    ["data_5"]=>
+    string(9) "2310 MVIA"
+    ["data_6"]=>
+    string(7) "84565 K"
+  }
+  [82]=>
+  array(1) {
+    ["data_2"]=>
+    string(7) "0017957"
+  }
+  [83]=>
+  array(6) {
+    ["data_1"]=>
+    string(17) "XHVHaven Protocol"
+    ["data_2"]=>
+    string(3) "324"
+    ["data_3"]=>
+    string(4) "1988"
+    ["data_4"]=>
+    string(6) "1882 M"
+    ["data_5"]=>
+    string(8) "580 MXHV"
+    ["data_6"]=>
+    string(5) "397 M"
+  }
+  [84]=>
+  array(6) {
+    ["data_1"]=>
+    string(9) "ACTAchain"
+    ["data_2"]=>
+    string(7) "0025009"
+    ["data_3"]=>
+    string(3) "207"
+    ["data_4"]=>
+    string(6) "1827 M"
+    ["data_5"]=>
+    string(10) "73060 MACT"
+    ["data_6"]=>
+    string(7) "69701 K"
+  }
+  [85]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "180"
+    ["data_4"]=>
+    string(6) "1813 M"
+    ["data_6"]=>
+    string(7) "58277 K"
+  }
+  [86]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0423339"
+    ["data_3"]=>
+    string(3) "625"
+    ["data_4"]=>
+    string(6) "1774 M"
+    ["data_6"]=>
+    string(7) "10778 K"
+  }
+  [87]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0017405"
+    ["data_3"]=>
+    string(3) "134"
+    ["data_4"]=>
+    string(6) "1762 M"
+    ["data_6"]=>
+    string(6) "2027 K"
+  }
+  [88]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0008806"
+    ["data_3"]=>
+    string(4) "1207"
+    ["data_4"]=>
+    string(6) "1760 M"
+    ["data_6"]=>
+    string(7) "43170 K"
+  }
+  [89]=>
+  array(2) {
+    ["data_3"]=>
+    string(3) "913"
+    ["data_6"]=>
+    string(6) "8953 K"
+  }
+  [90]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0534107"
+    ["data_3"]=>
+    string(3) "367"
+    ["data_4"]=>
+    string(6) "1681 M"
+    ["data_6"]=>
+    string(6) "7711 K"
+  }
+  [91]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "184"
+    ["data_4"]=>
+    string(6) "1666 M"
+    ["data_6"]=>
+    string(6) "6401 K"
+  }
+  [92]=>
+  array(5) {
+    ["data_2"]=>
+    string(7) "0064602"
+    ["data_3"]=>
+    string(3) "620"
+    ["data_4"]=>
+    string(6) "1615 M"
+    ["data_6"]=>
+    string(7) "13053 K"
+    ["data_8"]=>
+    string(115) " Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [93]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "306"
+    ["data_4"]=>
+    string(6) "1510 M"
+    ["data_6"]=>
+    string(7) "14809 K"
+  }
+  [94]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "344"
+    ["data_4"]=>
+    string(6) "1494 M"
+    ["data_6"]=>
+    string(7) "20312 K"
+  }
+  [95]=>
+  array(3) {
+    ["data_2"]=>
+    string(7) "0802755"
+    ["data_3"]=>
+    string(3) "203"
+    ["data_6"]=>
+    string(7) "10956 K"
+  }
+  [96]=>
+  array(3) {
+    ["data_2"]=>
+    string(7) "0973131"
+    ["data_6"]=>
+    string(7) "35162 K"
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [97]=>
+  array(2) {
+    ["data_3"]=>
+    string(3) "567"
+    ["data_6"]=>
+    string(7) "27803 K"
+  }
+  [98]=>
+  array(6) {
+    ["data_2"]=>
+    string(7) "0183915"
+    ["data_3"]=>
+    string(3) "087"
+    ["data_4"]=>
+    string(6) "1347 M"
+    ["data_5"]=>
+    string(9) "7322 MXSN"
+    ["data_6"]=>
+    string(7) "14627 K"
+    ["data_8"]=>
+    string(115) " Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [99]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "010"
+    ["data_4"]=>
+    string(6) "1344 M"
+    ["data_6"]=>
+    string(5) "289 K"
+  }
+}
+              total        used        free      shared  buff/cache   available
+Mem:        8052712     3075900     2279924      437080     2696888     4170264
+Swap:       7999484     1115804     6883680
+
+Website : https://coinmarketcap.com/coins/ ID : currencies 
+Begin Compare
+array(100) {
+  [0]=>
+  array(4) {
+    ["data_2"]=>
+    string(6) "638623"
+    ["data_3"]=>
+    string(3) "011"
+    ["data_4"]=>
+    string(7) "11094 B"
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [1]=>
+  array(3) {
+    ["data_2"]=>
+    string(5) "21108"
+    ["data_3"]=>
+    string(3) "029"
+    ["data_4"]=>
+    string(6) "2177 B"
+  }
+  [2]=>
+  array(2) {
+    ["data_2"]=>
+    string(7) "0501912"
+    ["data_6"]=>
+    string(7) "32619 M"
+  }
+  [3]=>
+  array(4) {
+    ["data_2"]=>
+    string(5) "51476"
+    ["data_3"]=>
+    string(3) "532"
+    ["data_4"]=>
+    string(5) "898 B"
+    ["data_6"]=>
+    string(7) "88768 M"
+  }
+  [4]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0272523"
+    ["data_3"]=>
+    string(3) "164"
+    ["data_4"]=>
+    string(5) "516 B"
+    ["data_6"]=>
+    string(7) "11437 M"
+  }
+  [5]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "011"
+    ["data_4"]=>
+    string(5) "488 B"
+    ["data_6"]=>
+    string(7) "66857 M"
+  }
+  [6]=>
+  array(4) {
+    ["data_1"]=>
+    string(11) "LTCLitecoin"
+    ["data_2"]=>
+    string(4) "5074"
+    ["data_3"]=>
+    string(3) "168"
+    ["data_6"]=>
+    string(7) "41167 M"
+  }
+  [7]=>
+  array(3) {
+    ["data_2"]=>
+    string(7) "0075650"
+    ["data_3"]=>
+    string(3) "064"
+    ["data_6"]=>
+    string(6) "2277 M"
+  }
+  [8]=>
+  array(1) {
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [9]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0022555"
+    ["data_3"]=>
+    string(3) "152"
+    ["data_6"]=>
+    string(6) "5483 M"
+    ["data_8"]=>
+    string(115) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView Markets View Historical DataKeep your crypto safe"
+  }
+  [10]=>
+  array(0) {
+  }
+  [11]=>
+  array(4) {
+    ["data_2"]=>
+    string(5) "16280"
+    ["data_3"]=>
+    string(3) "161"
+    ["data_5"]=>
+    string(9) "844 MDASH"
+    ["data_6"]=>
+    string(7) "29796 M"
+  }
+  [12]=>
+  array(3) {
+    ["data_2"]=>
+    string(4) "1574"
+    ["data_3"]=>
+    string(3) "131"
+    ["data_6"]=>
+    string(7) "16138 M"
+  }
+  [13]=>
+  array(4) {
+    ["data_2"]=>
+    string(3) "923"
+    ["data_3"]=>
+    string(3) "174"
+    ["data_4"]=>
+    string(7) "97770 M"
+    ["data_6"]=>
+    string(7) "14489 M"
+  }
+  [14]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0103587"
+    ["data_3"]=>
+    string(4) "1123"
+    ["data_4"]=>
+    string(7) "93229 M"
+    ["data_6"]=>
+    string(6) "3470 M"
+  }
+  [15]=>
+  array(4) {
+    ["data_2"]=>
+    string(3) "131"
+    ["data_3"]=>
+    string(3) "036"
+    ["data_4"]=>
+    string(7) "79334 M"
+    ["data_8"]=>
+    string(115) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView Markets View Historical DataKeep your crypto safe"
+  }
+  [16]=>
+  array(0) {
+  }
+  [17]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0009926"
+    ["data_3"]=>
+    string(3) "273"
+    ["data_4"]=>
+    string(7) "55042 M"
+    ["data_6"]=>
+    string(5) "970 M"
+  }
+  [18]=>
+  array(3) {
+    ["data_2"]=>
+    string(4) "2893"
+    ["data_3"]=>
+    string(3) "386"
+    ["data_4"]=>
+    string(7) "50155 M"
+  }
+  [19]=>
+  array(3) {
+    ["data_2"]=>
+    string(8) " 0003050"
+    ["data_3"]=>
+    string(3) "472"
+    ["data_4"]=>
+    string(7) "35674 M"
+  }
+  [20]=>
+  array(0) {
+  }
+  [21]=>
+  array(4) {
+    ["data_3"]=>
+    string(3) "272"
+    ["data_4"]=>
+    string(7) "33611 M"
+    ["data_6"]=>
+    string(7) "11304 M"
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [22]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "202"
+    ["data_4"]=>
+    string(7) "33082 M"
+    ["data_6"]=>
+    string(6) "1932 M"
+  }
+  [23]=>
+  array(4) {
+    ["data_3"]=>
+    string(3) "224"
+    ["data_4"]=>
+    string(7) "31414 M"
+    ["data_5"]=>
+    string(10) "11205 MLSK"
+    ["data_6"]=>
+    string(5) "747 M"
+  }
+  [24]=>
+  array(2) {
+    ["data_3"]=>
+    string(3) "152"
+    ["data_4"]=>
+    string(7) "25956 M"
+  }
+  [25]=>
+  array(3) {
+    ["data_2"]=>
+    string(7) "0094014"
+    ["data_3"]=>
+    string(3) "067"
+    ["data_4"]=>
+    string(7) "25114 M"
+  }
+  [26]=>
+  array(3) {
+    ["data_2"]=>
+    string(3) "183"
+    ["data_3"]=>
+    string(3) "029"
+    ["data_4"]=>
+    string(7) "24404 M"
+  }
+  [27]=>
+  array(3) {
+    ["data_2"]=>
+    string(7) "0001277"
+    ["data_4"]=>
+    string(7) "23499 M"
+    ["data_6"]=>
+    string(7) "55695 K"
+  }
+  [28]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0573567"
+    ["data_3"]=>
+    string(3) "328"
+    ["data_4"]=>
+    string(7) "22222 M"
+    ["data_6"]=>
+    string(5) "814 M"
+  }
+  [29]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0019495"
+    ["data_3"]=>
+    string(3) "163"
+    ["data_4"]=>
+    string(7) "21530 M"
+    ["data_6"]=>
+    string(5) "125 M"
+  }
+  [30]=>
+  array(3) {
+    ["data_2"]=>
+    string(7) "0005708"
+    ["data_3"]=>
+    string(3) "527"
+    ["data_4"]=>
+    string(7) "21507 M"
+  }
+  [31]=>
+  array(3) {
+    ["data_2"]=>
+    string(7) "0730118"
+    ["data_4"]=>
+    string(7) "20705 M"
+    ["data_6"]=>
+    string(7) "94257 K"
+  }
+  [32]=>
+  array(2) {
+    ["data_3"]=>
+    string(3) "217"
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [33]=>
+  array(5) {
+    ["data_2"]=>
+    string(7) "0182824"
+    ["data_3"]=>
+    string(3) "159"
+    ["data_4"]=>
+    string(7) "18328 M"
+    ["data_6"]=>
+    string(6) "4000 M"
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [34]=>
+  array(0) {
+  }
+  [35]=>
+  array(2) {
+    ["data_3"]=>
+    string(3) "188"
+    ["data_4"]=>
+    string(7) "16051 M"
+  }
+  [36]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "263"
+    ["data_4"]=>
+    string(7) "14149 M"
+    ["data_6"]=>
+    string(7) "73282 K"
+  }
+  [37]=>
+  array(2) {
+    ["data_4"]=>
+    string(7) "12690 M"
+    ["data_6"]=>
+    string(7) "58448 K"
+  }
+  [38]=>
+  array(5) {
+    ["data_2"]=>
+    string(7) "0015168"
+    ["data_3"]=>
+    string(3) "057"
+    ["data_4"]=>
+    string(7) "12614 M"
+    ["data_6"]=>
+    string(5) "399 M"
+    ["data_8"]=>
+    string(115) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical Data Keep your crypto safe"
+  }
+  [39]=>
+  array(4) {
+    ["data_2"]=>
+    string(3) "205"
+    ["data_3"]=>
+    string(3) "401"
+    ["data_4"]=>
+    string(7) "11376 M"
+    ["data_6"]=>
+    string(5) "715 M"
+  }
+  [40]=>
+  array(0) {
+  }
+  [41]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0922059"
+    ["data_3"]=>
+    string(3) "304"
+    ["data_4"]=>
+    string(6) "9788 M"
+    ["data_5"]=>
+    string(11) "10615 MWAN "
+  }
+  [42]=>
+  array(3) {
+    ["data_3"]=>
+    string(4) "2098"
+    ["data_4"]=>
+    string(6) "8882 M"
+    ["data_6"]=>
+    string(7) "25819 K"
+  }
+  [43]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0037427"
+    ["data_3"]=>
+    string(3) "462"
+    ["data_4"]=>
+    string(6) "8333 M"
+    ["data_6"]=>
+    string(5) "833 M"
+  }
+  [44]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "194"
+    ["data_4"]=>
+    string(6) "7754 M"
+    ["data_6"]=>
+    string(5) "629 M"
+  }
+  [45]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "042"
+    ["data_4"]=>
+    string(6) "7693 M"
+    ["data_6"]=>
+    string(7) "16070 K"
+  }
+  [46]=>
+  array(1) {
+    ["data_5"]=>
+    string(10) "5678 MPIVX"
+  }
+  [47]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0702921"
+    ["data_3"]=>
+    string(3) "154"
+    ["data_4"]=>
+    string(6) "7474 M"
+    ["data_6"]=>
+    string(7) "33316 K"
+  }
+  [48]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "336"
+    ["data_4"]=>
+    string(6) "7350 M"
+    ["data_6"]=>
+    string(7) "69576 K"
+  }
+  [49]=>
+  array(2) {
+    ["data_3"]=>
+    string(3) "006"
+    ["data_6"]=>
+    string(7) "40036 K"
+  }
+  [50]=>
+  array(4) {
+    ["data_1"]=>
+    string(11) " ZENHorizen"
+    ["data_2"]=>
+    string(4) "1422"
+    ["data_3"]=>
+    string(3) "095"
+    ["data_4"]=>
+    string(6) "7304 M"
+  }
+  [51]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0002490"
+    ["data_3"]=>
+    string(3) "294"
+    ["data_4"]=>
+    string(6) "7174 M"
+    ["data_6"]=>
+    string(7) "56645 K"
+  }
+  [52]=>
+  array(3) {
+    ["data_2"]=>
+    string(7) "0064498"
+    ["data_3"]=>
+    string(3) "184"
+    ["data_6"]=>
+    string(7) "75157 K"
+  }
+  [53]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "202"
+    ["data_4"]=>
+    string(6) "6319 M"
+    ["data_6"]=>
+    string(5) "754 M"
+  }
+  [54]=>
+  array(1) {
+    ["data_1"]=>
+    string(8) "XZCZcoin"
+  }
+  [55]=>
+  array(4) {
+    ["data_2"]=>
+    string(3) "658"
+    ["data_3"]=>
+    string(3) "066"
+    ["data_4"]=>
+    string(6) "5082 M"
+    ["data_6"]=>
+    string(5) "238 M"
+  }
+  [56]=>
+  array(3) {
+    ["data_2"]=>
+    string(7) "0076482"
+    ["data_3"]=>
+    string(3) "613"
+    ["data_4"]=>
+    string(6) "4893 M"
+  }
+  [57]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0088932"
+    ["data_3"]=>
+    string(3) "208"
+    ["data_4"]=>
+    string(6) "4831 M"
+    ["data_6"]=>
+    string(7) "55605 K"
+  }
+  [58]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0105109"
+    ["data_3"]=>
+    string(4) "1539"
+    ["data_4"]=>
+    string(6) "4802 M"
+    ["data_6"]=>
+    string(7) "60344 K"
+  }
+  [59]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "209"
+    ["data_4"]=>
+    string(6) "4190 M"
+    ["data_6"]=>
+    string(7) "11421 K"
+  }
+  [60]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "119"
+    ["data_4"]=>
+    string(6) "3882 M"
+    ["data_6"]=>
+    string(6) "7223 K"
+  }
+  [61]=>
+  array(5) {
+    ["data_2"]=>
+    string(7) "0224377"
+    ["data_3"]=>
+    string(3) "059"
+    ["data_4"]=>
+    string(6) "3812 M"
+    ["data_6"]=>
+    string(5) "445 M"
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [62]=>
+  array(5) {
+    ["data_2"]=>
+    string(7) "0632669"
+    ["data_3"]=>
+    string(3) "111"
+    ["data_4"]=>
+    string(6) "3778 M"
+    ["data_6"]=>
+    string(7) "14193 K"
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [63]=>
+  array(1) {
+    ["data_3"]=>
+    string(3) "122"
+  }
+  [64]=>
+  array(3) {
+    ["data_2"]=>
+    string(7) "0489710"
+    ["data_3"]=>
+    string(3) "033"
+    ["data_6"]=>
+    string(7) "82230 K"
+  }
+  [65]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0823626"
+    ["data_3"]=>
+    string(3) "799"
+    ["data_4"]=>
+    string(6) "3469 M"
+    ["data_6"]=>
+    string(7) "26173 K"
+  }
+  [66]=>
+  array(4) {
+    ["data_2"]=>
+    string(3) "132"
+    ["data_3"]=>
+    string(3) "859"
+    ["data_4"]=>
+    string(6) "3316 M"
+    ["data_6"]=>
+    string(7) "38521 K"
+  }
+  [67]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "088"
+    ["data_6"]=>
+    string(7) "21491 K"
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [68]=>
+  array(1) {
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [69]=>
+  array(6) {
+    ["data_1"]=>
+    string(19) "GBYTEByteball Bytes"
+    ["data_2"]=>
+    string(4) "4320"
+    ["data_3"]=>
+    string(3) "424"
+    ["data_4"]=>
+    string(6) "2863 M"
+    ["data_5"]=>
+    string(12) "66281 KGBYTE"
+    ["data_6"]=>
+    string(6) "2609 K"
+  }
+  [70]=>
+  array(6) {
+    ["data_1"]=>
+    string(11) "VTCVertcoin"
+    ["data_2"]=>
+    string(7) "0610814"
+    ["data_3"]=>
+    string(3) "300"
+    ["data_4"]=>
+    string(6) "2860 M"
+    ["data_5"]=>
+    string(9) "4682 MVTC"
+    ["data_6"]=>
+    string(7) "28083 K"
+  }
+  [71]=>
+  array(1) {
+    ["data_2"]=>
+    string(7) "0106404"
+  }
+  [72]=>
+  array(5) {
+    ["data_2"]=>
+    string(7) "0541934"
+    ["data_3"]=>
+    string(3) "332"
+    ["data_4"]=>
+    string(6) "2309 M"
+    ["data_6"]=>
+    string(6) "9221 K"
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [73]=>
+  array(4) {
+    ["data_2"]=>
+    string(3) "145"
+    ["data_3"]=>
+    string(3) "183"
+    ["data_4"]=>
+    string(6) "2271 M"
+    ["data_6"]=>
+    string(7) "23869 K"
+  }
+  [74]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "244"
+    ["data_4"]=>
+    string(6) "2232 M"
+    ["data_6"]=>
+    string(6) "3500 K"
+  }
+  [75]=>
+  array(5) {
+    ["data_2"]=>
+    string(7) "0335657"
+    ["data_3"]=>
+    string(3) "482"
+    ["data_4"]=>
+    string(6) "2135 M"
+    ["data_5"]=>
+    string(9) "6360 MNAV"
+    ["data_6"]=>
+    string(7) "20582 K"
+  }
+  [76]=>
+  array(4) {
+    ["data_2"]=>
+    string(4) "2004"
+    ["data_3"]=>
+    string(3) "016"
+    ["data_4"]=>
+    string(6) "2027 M"
+    ["data_5"]=>
+    string(9) "101 MSLS "
+  }
+  [77]=>
+  array(1) {
+    ["data_3"]=>
+    string(4) "4565"
+  }
+  [78]=>
+  array(6) {
+    ["data_1"]=>
+    string(18) "APLApollo Currency"
+    ["data_2"]=>
+    string(7) "0001319"
+    ["data_3"]=>
+    string(3) "421"
+    ["data_4"]=>
+    string(6) "1937 M"
+    ["data_5"]=>
+    string(9) "1469 BAPL"
+    ["data_6"]=>
+    string(6) "6566 K"
+  }
+  [79]=>
+  array(6) {
+    ["data_1"]=>
+    string(10) " NRGEnergi"
+    ["data_2"]=>
+    string(3) "196"
+    ["data_3"]=>
+    string(4) "2918"
+    ["data_4"]=>
+    string(6) "1937 M"
+    ["data_5"]=>
+    string(8) "988 MNRG"
+    ["data_6"]=>
+    string(6) "6615 K"
+  }
+  [80]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0086231"
+    ["data_3"]=>
+    string(3) "261"
+    ["data_4"]=>
+    string(6) "1899 M"
+    ["data_6"]=>
+    string(7) "28008 K"
+  }
+  [81]=>
+  array(2) {
+    ["data_2"]=>
+    string(7) "0819222"
+    ["data_6"]=>
+    string(7) "84565 K"
+  }
+  [82]=>
+  array(1) {
+    ["data_2"]=>
+    string(7) "0017957"
+  }
+  [83]=>
+  array(6) {
+    ["data_1"]=>
+    string(17) "XHVHaven Protocol"
+    ["data_2"]=>
+    string(3) "324"
+    ["data_3"]=>
+    string(4) "1988"
+    ["data_4"]=>
+    string(6) "1882 M"
+    ["data_5"]=>
+    string(8) "580 MXHV"
+    ["data_6"]=>
+    string(5) "397 M"
+  }
+  [84]=>
+  array(6) {
+    ["data_1"]=>
+    string(9) "ACTAchain"
+    ["data_2"]=>
+    string(7) "0025009"
+    ["data_3"]=>
+    string(3) "207"
+    ["data_4"]=>
+    string(6) "1827 M"
+    ["data_5"]=>
+    string(10) "73060 MACT"
+    ["data_6"]=>
+    string(7) "69701 K"
+  }
+  [85]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "180"
+    ["data_4"]=>
+    string(6) "1813 M"
+    ["data_6"]=>
+    string(7) "58277 K"
+  }
+  [86]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0423339"
+    ["data_3"]=>
+    string(3) "625"
+    ["data_4"]=>
+    string(6) "1774 M"
+    ["data_6"]=>
+    string(7) "10778 K"
+  }
+  [87]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0017405"
+    ["data_3"]=>
+    string(3) "134"
+    ["data_4"]=>
+    string(6) "1762 M"
+    ["data_6"]=>
+    string(6) "2027 K"
+  }
+  [88]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0008806"
+    ["data_3"]=>
+    string(4) "1207"
+    ["data_4"]=>
+    string(6) "1760 M"
+    ["data_6"]=>
+    string(7) "43170 K"
+  }
+  [89]=>
+  array(2) {
+    ["data_3"]=>
+    string(3) "913"
+    ["data_6"]=>
+    string(6) "8953 K"
+  }
+  [90]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0534107"
+    ["data_3"]=>
+    string(3) "367"
+    ["data_4"]=>
+    string(6) "1681 M"
+    ["data_6"]=>
+    string(6) "7711 K"
+  }
+  [91]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "184"
+    ["data_4"]=>
+    string(6) "1666 M"
+    ["data_6"]=>
+    string(6) "6401 K"
+  }
+  [92]=>
+  array(5) {
+    ["data_2"]=>
+    string(7) "0064602"
+    ["data_3"]=>
+    string(3) "620"
+    ["data_4"]=>
+    string(6) "1615 M"
+    ["data_6"]=>
+    string(7) "13053 K"
+    ["data_8"]=>
+    string(115) " Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [93]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "306"
+    ["data_4"]=>
+    string(6) "1510 M"
+    ["data_6"]=>
+    string(7) "14809 K"
+  }
+  [94]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "344"
+    ["data_4"]=>
+    string(6) "1494 M"
+    ["data_6"]=>
+    string(7) "20312 K"
+  }
+  [95]=>
+  array(3) {
+    ["data_2"]=>
+    string(7) "0802755"
+    ["data_3"]=>
+    string(3) "203"
+    ["data_6"]=>
+    string(7) "10956 K"
+  }
+  [96]=>
+  array(2) {
+    ["data_2"]=>
+    string(7) "0973131"
+    ["data_6"]=>
+    string(7) "35162 K"
+  }
+  [97]=>
+  array(2) {
+    ["data_3"]=>
+    string(3) "567"
+    ["data_6"]=>
+    string(7) "27803 K"
+  }
+  [98]=>
+  array(5) {
+    ["data_2"]=>
+    string(7) "0183915"
+    ["data_3"]=>
+    string(3) "087"
+    ["data_4"]=>
+    string(6) "1347 M"
+    ["data_6"]=>
+    string(7) "14627 K"
+    ["data_8"]=>
+    string(115) " Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [99]=>
+  array(2) {
+    ["data_3"]=>
+    string(3) "010"
+    ["data_4"]=>
+    string(6) "1344 M"
+  }
+}
+              total        used        free      shared  buff/cache   available
+Mem:        8052712     3068956     2305796      417808     2677960     4196396
+Swap:       7999484     1115548     6883936
+
+Website : https://coinmarketcap.com/coins/ ID : currencies 
+Begin Compare
+array(100) {
+  [0]=>
+  array(3) {
+    ["data_2"]=>
+    string(6) "638623"
+    ["data_3"]=>
+    string(3) "011"
+    ["data_4"]=>
+    string(7) "11094 B"
+  }
+  [1]=>
+  array(4) {
+    ["data_2"]=>
+    string(5) "21108"
+    ["data_3"]=>
+    string(3) "029"
+    ["data_4"]=>
+    string(6) "2177 B"
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [2]=>
+  array(2) {
+    ["data_2"]=>
+    string(7) "0501912"
+    ["data_6"]=>
+    string(7) "32619 M"
+  }
+  [3]=>
+  array(5) {
+    ["data_2"]=>
+    string(5) "51476"
+    ["data_3"]=>
+    string(3) "532"
+    ["data_4"]=>
+    string(5) "898 B"
+    ["data_5"]=>
+    string(9) "1745 MBCH"
+    ["data_6"]=>
+    string(7) "88768 M"
+  }
+  [4]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0272523"
+    ["data_3"]=>
+    string(3) "164"
+    ["data_4"]=>
+    string(5) "516 B"
+    ["data_6"]=>
+    string(7) "11437 M"
+  }
+  [5]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "011"
+    ["data_4"]=>
+    string(5) "488 B"
+    ["data_6"]=>
+    string(7) "66857 M"
+  }
+  [6]=>
+  array(3) {
+    ["data_2"]=>
+    string(4) "5074"
+    ["data_3"]=>
+    string(3) "168"
+    ["data_6"]=>
+    string(7) "41167 M"
+  }
+  [7]=>
+  array(3) {
+    ["data_2"]=>
+    string(7) "0075650"
+    ["data_3"]=>
+    string(3) "064"
+    ["data_6"]=>
+    string(6) "2277 M"
+  }
+  [8]=>
+  array(0) {
+  }
+  [9]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0022555"
+    ["data_3"]=>
+    string(3) "152"
+    ["data_6"]=>
+    string(6) "5483 M"
+    ["data_8"]=>
+    string(115) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView Markets View Historical DataKeep your crypto safe"
+  }
+  [10]=>
+  array(0) {
+  }
+  [11]=>
+  array(3) {
+    ["data_2"]=>
+    string(5) "16280"
+    ["data_3"]=>
+    string(3) "161"
+    ["data_6"]=>
+    string(7) "29796 M"
+  }
+  [12]=>
+  array(3) {
+    ["data_2"]=>
+    string(4) "1574"
+    ["data_3"]=>
+    string(3) "131"
+    ["data_6"]=>
+    string(7) "16138 M"
+  }
+  [13]=>
+  array(4) {
+    ["data_2"]=>
+    string(3) "923"
+    ["data_3"]=>
+    string(3) "174"
+    ["data_4"]=>
+    string(7) "97770 M"
+    ["data_6"]=>
+    string(7) "14489 M"
+  }
+  [14]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0103587"
+    ["data_3"]=>
+    string(4) "1123"
+    ["data_4"]=>
+    string(7) "93229 M"
+    ["data_6"]=>
+    string(6) "3470 M"
+  }
+  [15]=>
+  array(4) {
+    ["data_2"]=>
+    string(3) "131"
+    ["data_3"]=>
+    string(3) "036"
+    ["data_4"]=>
+    string(7) "79334 M"
+    ["data_8"]=>
+    string(115) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView Markets View Historical DataKeep your crypto safe"
+  }
+  [16]=>
+  array(0) {
+  }
+  [17]=>
+  array(5) {
+    ["data_2"]=>
+    string(7) "0009926"
+    ["data_3"]=>
+    string(3) "273"
+    ["data_4"]=>
+    string(7) "55042 M"
+    ["data_5"]=>
+    string(9) "5545 BVET"
+    ["data_6"]=>
+    string(5) "970 M"
+  }
+  [18]=>
+  array(2) {
+    ["data_3"]=>
+    string(3) "386"
+    ["data_4"]=>
+    string(7) "50155 M"
+  }
+  [19]=>
+  array(3) {
+    ["data_2"]=>
+    string(8) " 0003050"
+    ["data_3"]=>
+    string(3) "472"
+    ["data_4"]=>
+    string(7) "35674 M"
+  }
+  [20]=>
+  array(1) {
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [21]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "272"
+    ["data_4"]=>
+    string(7) "33611 M"
+    ["data_6"]=>
+    string(7) "11304 M"
+  }
+  [22]=>
+  array(4) {
+    ["data_3"]=>
+    string(3) "202"
+    ["data_4"]=>
+    string(7) "33082 M"
+    ["data_6"]=>
+    string(6) "1932 M"
+    ["data_7"]=>
+    string(0) ""
+  }
+  [23]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "224"
+    ["data_4"]=>
+    string(7) "31414 M"
+    ["data_6"]=>
+    string(5) "747 M"
+  }
+  [24]=>
+  array(2) {
+    ["data_3"]=>
+    string(3) "152"
+    ["data_4"]=>
+    string(7) "25956 M"
+  }
+  [25]=>
+  array(4) {
+    ["data_1"]=>
+    string(12) "BTSBitShares"
+    ["data_2"]=>
+    string(7) "0094014"
+    ["data_3"]=>
+    string(3) "067"
+    ["data_4"]=>
+    string(7) "25114 M"
+  }
+  [26]=>
+  array(4) {
+    ["data_2"]=>
+    string(3) "183"
+    ["data_3"]=>
+    string(3) "029"
+    ["data_4"]=>
+    string(7) "24404 M"
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [27]=>
+  array(3) {
+    ["data_2"]=>
+    string(7) "0001277"
+    ["data_4"]=>
+    string(7) "23499 M"
+    ["data_6"]=>
+    string(7) "55695 K"
+  }
+  [28]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0573567"
+    ["data_3"]=>
+    string(3) "328"
+    ["data_4"]=>
+    string(7) "22222 M"
+    ["data_6"]=>
+    string(5) "814 M"
+  }
+  [29]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0019495"
+    ["data_3"]=>
+    string(3) "163"
+    ["data_4"]=>
+    string(7) "21530 M"
+    ["data_6"]=>
+    string(5) "125 M"
+  }
+  [30]=>
+  array(3) {
+    ["data_2"]=>
+    string(7) "0005708"
+    ["data_3"]=>
+    string(3) "527"
+    ["data_4"]=>
+    string(7) "21507 M"
+  }
+  [31]=>
+  array(3) {
+    ["data_2"]=>
+    string(7) "0730118"
+    ["data_4"]=>
+    string(7) "20705 M"
+    ["data_6"]=>
+    string(7) "94257 K"
+  }
+  [32]=>
+  array(1) {
+    ["data_3"]=>
+    string(3) "217"
+  }
+  [33]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0182824"
+    ["data_3"]=>
+    string(3) "159"
+    ["data_4"]=>
+    string(7) "18328 M"
+    ["data_6"]=>
+    string(6) "4000 M"
+  }
+  [34]=>
+  array(0) {
+  }
+  [35]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "188"
+    ["data_4"]=>
+    string(7) "16051 M"
+    ["data_6"]=>
+    string(5) "224 M"
+  }
+  [36]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "263"
+    ["data_4"]=>
+    string(7) "14149 M"
+    ["data_6"]=>
+    string(7) "73282 K"
+  }
+  [37]=>
+  array(2) {
+    ["data_4"]=>
+    string(7) "12690 M"
+    ["data_6"]=>
+    string(7) "58448 K"
+  }
+  [38]=>
+  array(5) {
+    ["data_2"]=>
+    string(7) "0015168"
+    ["data_3"]=>
+    string(3) "057"
+    ["data_4"]=>
+    string(7) "12614 M"
+    ["data_6"]=>
+    string(5) "399 M"
+    ["data_8"]=>
+    string(115) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical Data Keep your crypto safe"
+  }
+  [39]=>
+  array(4) {
+    ["data_2"]=>
+    string(3) "205"
+    ["data_3"]=>
+    string(3) "401"
+    ["data_4"]=>
+    string(7) "11376 M"
+    ["data_6"]=>
+    string(5) "715 M"
+  }
+  [40]=>
+  array(0) {
+  }
+  [41]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0922059"
+    ["data_3"]=>
+    string(3) "304"
+    ["data_4"]=>
+    string(6) "9788 M"
+    ["data_5"]=>
+    string(11) "10615 MWAN "
+  }
+  [42]=>
+  array(3) {
+    ["data_3"]=>
+    string(4) "2098"
+    ["data_4"]=>
+    string(6) "8882 M"
+    ["data_6"]=>
+    string(7) "25819 K"
+  }
+  [43]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0037427"
+    ["data_3"]=>
+    string(3) "462"
+    ["data_4"]=>
+    string(6) "8333 M"
+    ["data_6"]=>
+    string(5) "833 M"
+  }
+  [44]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "194"
+    ["data_4"]=>
+    string(6) "7754 M"
+    ["data_6"]=>
+    string(5) "629 M"
+  }
+  [45]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "042"
+    ["data_4"]=>
+    string(6) "7693 M"
+    ["data_6"]=>
+    string(7) "16070 K"
+  }
+  [46]=>
+  array(0) {
+  }
+  [47]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0702921"
+    ["data_3"]=>
+    string(3) "154"
+    ["data_4"]=>
+    string(6) "7474 M"
+    ["data_6"]=>
+    string(7) "33316 K"
+  }
+  [48]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "336"
+    ["data_4"]=>
+    string(6) "7350 M"
+    ["data_6"]=>
+    string(7) "69576 K"
+  }
+  [49]=>
+  array(3) {
+    ["data_1"]=>
+    string(12) "MONAMonaCoin"
+    ["data_3"]=>
+    string(3) "006"
+    ["data_6"]=>
+    string(7) "40036 K"
+  }
+  [50]=>
+  array(4) {
+    ["data_1"]=>
+    string(11) " ZENHorizen"
+    ["data_2"]=>
+    string(4) "1422"
+    ["data_3"]=>
+    string(3) "095"
+    ["data_4"]=>
+    string(6) "7304 M"
+  }
+  [51]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0002490"
+    ["data_3"]=>
+    string(3) "294"
+    ["data_4"]=>
+    string(6) "7174 M"
+    ["data_6"]=>
+    string(7) "56645 K"
+  }
+  [52]=>
+  array(3) {
+    ["data_2"]=>
+    string(7) "0064498"
+    ["data_3"]=>
+    string(3) "184"
+    ["data_6"]=>
+    string(7) "75157 K"
+  }
+  [53]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "202"
+    ["data_4"]=>
+    string(6) "6319 M"
+    ["data_6"]=>
+    string(5) "754 M"
+  }
+  [54]=>
+  array(0) {
+  }
+  [55]=>
+  array(4) {
+    ["data_2"]=>
+    string(3) "658"
+    ["data_3"]=>
+    string(3) "066"
+    ["data_4"]=>
+    string(6) "5082 M"
+    ["data_6"]=>
+    string(5) "238 M"
+  }
+  [56]=>
+  array(3) {
+    ["data_2"]=>
+    string(7) "0076482"
+    ["data_3"]=>
+    string(3) "613"
+    ["data_4"]=>
+    string(6) "4893 M"
+  }
+  [57]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0088932"
+    ["data_3"]=>
+    string(3) "208"
+    ["data_4"]=>
+    string(6) "4831 M"
+    ["data_6"]=>
+    string(7) "55605 K"
+  }
+  [58]=>
+  array(5) {
+    ["data_2"]=>
+    string(7) "0105109"
+    ["data_3"]=>
+    string(4) "1539"
+    ["data_4"]=>
+    string(6) "4802 M"
+    ["data_5"]=>
+    string(10) "45684 MBOS"
+    ["data_6"]=>
+    string(7) "60344 K"
+  }
+  [59]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "209"
+    ["data_4"]=>
+    string(6) "4190 M"
+    ["data_6"]=>
+    string(7) "11421 K"
+  }
+  [60]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "119"
+    ["data_4"]=>
+    string(6) "3882 M"
+    ["data_6"]=>
+    string(6) "7223 K"
+  }
+  [61]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0224377"
+    ["data_3"]=>
+    string(3) "059"
+    ["data_4"]=>
+    string(6) "3812 M"
+    ["data_6"]=>
+    string(5) "445 M"
+  }
+  [62]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0632669"
+    ["data_3"]=>
+    string(3) "111"
+    ["data_4"]=>
+    string(6) "3778 M"
+    ["data_6"]=>
+    string(7) "14193 K"
+  }
+  [63]=>
+  array(1) {
+    ["data_3"]=>
+    string(3) "122"
+  }
+  [64]=>
+  array(3) {
+    ["data_2"]=>
+    string(7) "0489710"
+    ["data_3"]=>
+    string(3) "033"
+    ["data_6"]=>
+    string(7) "82230 K"
+  }
+  [65]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0823626"
+    ["data_3"]=>
+    string(3) "799"
+    ["data_4"]=>
+    string(6) "3469 M"
+    ["data_6"]=>
+    string(7) "26173 K"
+  }
+  [66]=>
+  array(4) {
+    ["data_2"]=>
+    string(3) "132"
+    ["data_3"]=>
+    string(3) "859"
+    ["data_4"]=>
+    string(6) "3316 M"
+    ["data_6"]=>
+    string(7) "38521 K"
+  }
+  [67]=>
+  array(2) {
+    ["data_3"]=>
+    string(3) "088"
+    ["data_6"]=>
+    string(7) "21491 K"
+  }
+  [68]=>
+  array(0) {
+  }
+  [69]=>
+  array(6) {
+    ["data_1"]=>
+    string(19) "GBYTEByteball Bytes"
+    ["data_2"]=>
+    string(4) "4320"
+    ["data_3"]=>
+    string(3) "424"
+    ["data_4"]=>
+    string(6) "2863 M"
+    ["data_5"]=>
+    string(12) "66281 KGBYTE"
+    ["data_6"]=>
+    string(6) "2609 K"
+  }
+  [70]=>
+  array(6) {
+    ["data_1"]=>
+    string(11) "VTCVertcoin"
+    ["data_2"]=>
+    string(7) "0610814"
+    ["data_3"]=>
+    string(3) "300"
+    ["data_4"]=>
+    string(6) "2860 M"
+    ["data_5"]=>
+    string(9) "4682 MVTC"
+    ["data_6"]=>
+    string(7) "28083 K"
+  }
+  [71]=>
+  array(1) {
+    ["data_2"]=>
+    string(7) "0106404"
+  }
+  [72]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0541934"
+    ["data_3"]=>
+    string(3) "332"
+    ["data_4"]=>
+    string(6) "2309 M"
+    ["data_6"]=>
+    string(6) "9221 K"
+  }
+  [73]=>
+  array(4) {
+    ["data_2"]=>
+    string(3) "145"
+    ["data_3"]=>
+    string(3) "183"
+    ["data_4"]=>
+    string(6) "2271 M"
+    ["data_6"]=>
+    string(7) "23869 K"
+  }
+  [74]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "244"
+    ["data_4"]=>
+    string(6) "2232 M"
+    ["data_6"]=>
+    string(6) "3500 K"
+  }
+  [75]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0335657"
+    ["data_3"]=>
+    string(3) "482"
+    ["data_4"]=>
+    string(6) "2135 M"
+    ["data_6"]=>
+    string(7) "20582 K"
+  }
+  [76]=>
+  array(5) {
+    ["data_2"]=>
+    string(4) "2004"
+    ["data_3"]=>
+    string(3) "016"
+    ["data_4"]=>
+    string(6) "2027 M"
+    ["data_5"]=>
+    string(9) "101 MSLS "
+    ["data_6"]=>
+    string(5) "106 K"
+  }
+  [77]=>
+  array(1) {
+    ["data_3"]=>
+    string(4) "4565"
+  }
+  [78]=>
+  array(7) {
+    ["data_1"]=>
+    string(18) "APLApollo Currency"
+    ["data_2"]=>
+    string(7) "0001319"
+    ["data_3"]=>
+    string(3) "421"
+    ["data_4"]=>
+    string(6) "1937 M"
+    ["data_5"]=>
+    string(9) "1469 BAPL"
+    ["data_6"]=>
+    string(6) "6566 K"
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [79]=>
+  array(6) {
+    ["data_1"]=>
+    string(10) " NRGEnergi"
+    ["data_2"]=>
+    string(3) "196"
+    ["data_3"]=>
+    string(4) "2918"
+    ["data_4"]=>
+    string(6) "1937 M"
+    ["data_5"]=>
+    string(8) "988 MNRG"
+    ["data_6"]=>
+    string(6) "6615 K"
+  }
+  [80]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0086231"
+    ["data_3"]=>
+    string(3) "261"
+    ["data_4"]=>
+    string(6) "1899 M"
+    ["data_6"]=>
+    string(7) "28008 K"
+  }
+  [81]=>
+  array(3) {
+    ["data_2"]=>
+    string(7) "0819222"
+    ["data_5"]=>
+    string(9) "2310 MVIA"
+    ["data_6"]=>
+    string(7) "84565 K"
+  }
+  [82]=>
+  array(0) {
+  }
+  [83]=>
+  array(6) {
+    ["data_1"]=>
+    string(17) "XHVHaven Protocol"
+    ["data_2"]=>
+    string(3) "324"
+    ["data_3"]=>
+    string(4) "1988"
+    ["data_4"]=>
+    string(6) "1882 M"
+    ["data_5"]=>
+    string(8) "580 MXHV"
+    ["data_6"]=>
+    string(5) "397 M"
+  }
+  [84]=>
+  array(7) {
+    ["data_0"]=>
+    string(2) "85"
+    ["data_1"]=>
+    string(9) "ACTAchain"
+    ["data_2"]=>
+    string(7) "0025009"
+    ["data_3"]=>
+    string(3) "207"
+    ["data_4"]=>
+    string(6) "1827 M"
+    ["data_5"]=>
+    string(10) "73060 MACT"
+    ["data_6"]=>
+    string(7) "69701 K"
+  }
+  [85]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "180"
+    ["data_4"]=>
+    string(6) "1813 M"
+    ["data_6"]=>
+    string(7) "58277 K"
+  }
+  [86]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0423339"
+    ["data_3"]=>
+    string(3) "625"
+    ["data_4"]=>
+    string(6) "1774 M"
+    ["data_6"]=>
+    string(7) "10778 K"
+  }
+  [87]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0017405"
+    ["data_3"]=>
+    string(3) "134"
+    ["data_4"]=>
+    string(6) "1762 M"
+    ["data_6"]=>
+    string(6) "2027 K"
+  }
+  [88]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0008806"
+    ["data_3"]=>
+    string(4) "1207"
+    ["data_4"]=>
+    string(6) "1760 M"
+    ["data_6"]=>
+    string(7) "43170 K"
+  }
+  [89]=>
+  array(3) {
+    ["data_1"]=>
+    string(10) "VITAEVitae"
+    ["data_3"]=>
+    string(3) "913"
+    ["data_6"]=>
+    string(6) "8953 K"
+  }
+  [90]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0534107"
+    ["data_3"]=>
+    string(3) "367"
+    ["data_4"]=>
+    string(6) "1681 M"
+    ["data_6"]=>
+    string(6) "7711 K"
+  }
+  [91]=>
+  array(4) {
+    ["data_3"]=>
+    string(3) "184"
+    ["data_4"]=>
+    string(6) "1666 M"
+    ["data_6"]=>
+    string(6) "6401 K"
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [92]=>
+  array(5) {
+    ["data_2"]=>
+    string(7) "0064602"
+    ["data_3"]=>
+    string(3) "620"
+    ["data_4"]=>
+    string(6) "1615 M"
+    ["data_6"]=>
+    string(7) "13053 K"
+    ["data_8"]=>
+    string(115) " Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [93]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "306"
+    ["data_4"]=>
+    string(6) "1510 M"
+    ["data_6"]=>
+    string(7) "14809 K"
+  }
+  [94]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "344"
+    ["data_4"]=>
+    string(6) "1494 M"
+    ["data_6"]=>
+    string(7) "20312 K"
+  }
+  [95]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0802755"
+    ["data_3"]=>
+    string(3) "203"
+    ["data_6"]=>
+    string(7) "10956 K"
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [96]=>
+  array(2) {
+    ["data_2"]=>
+    string(7) "0973131"
+    ["data_6"]=>
+    string(7) "35162 K"
+  }
+  [97]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "567"
+    ["data_6"]=>
+    string(7) "27803 K"
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [98]=>
+  array(5) {
+    ["data_2"]=>
+    string(7) "0183915"
+    ["data_3"]=>
+    string(3) "087"
+    ["data_4"]=>
+    string(6) "1347 M"
+    ["data_6"]=>
+    string(7) "14627 K"
+    ["data_8"]=>
+    string(115) " Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [99]=>
+  array(2) {
+    ["data_3"]=>
+    string(3) "010"
+    ["data_4"]=>
+    string(6) "1344 M"
+  }
+}
+              total        used        free      shared  buff/cache   available
+Mem:        8052712     3071564     2303712      417004     2677436     4194616
+Swap:       7999484     1115548     6883936
+
+Website : https://coinmarketcap.com/coins/ ID : currencies 
+Begin Compare
+array(100) {
+  [0]=>
+  array(3) {
+    ["data_2"]=>
+    string(6) "638623"
+    ["data_3"]=>
+    string(3) "011"
+    ["data_4"]=>
+    string(7) "11094 B"
+  }
+  [1]=>
+  array(4) {
+    ["data_2"]=>
+    string(5) "21108"
+    ["data_3"]=>
+    string(3) "029"
+    ["data_4"]=>
+    string(6) "2177 B"
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [2]=>
+  array(2) {
+    ["data_2"]=>
+    string(7) "0501912"
+    ["data_6"]=>
+    string(7) "32619 M"
+  }
+  [3]=>
+  array(5) {
+    ["data_2"]=>
+    string(5) "51476"
+    ["data_3"]=>
+    string(3) "532"
+    ["data_4"]=>
+    string(5) "898 B"
+    ["data_5"]=>
+    string(9) "1745 MBCH"
+    ["data_6"]=>
+    string(7) "88768 M"
+  }
+  [4]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0272523"
+    ["data_3"]=>
+    string(3) "164"
+    ["data_4"]=>
+    string(5) "516 B"
+    ["data_6"]=>
+    string(7) "11437 M"
+  }
+  [5]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "011"
+    ["data_4"]=>
+    string(5) "488 B"
+    ["data_6"]=>
+    string(7) "66857 M"
+  }
+  [6]=>
+  array(3) {
+    ["data_2"]=>
+    string(4) "5074"
+    ["data_3"]=>
+    string(3) "168"
+    ["data_6"]=>
+    string(7) "41167 M"
+  }
+  [7]=>
+  array(3) {
+    ["data_2"]=>
+    string(7) "0075650"
+    ["data_3"]=>
+    string(3) "064"
+    ["data_6"]=>
+    string(6) "2277 M"
+  }
+  [8]=>
+  array(0) {
+  }
+  [9]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0022555"
+    ["data_3"]=>
+    string(3) "152"
+    ["data_6"]=>
+    string(6) "5483 M"
+    ["data_8"]=>
+    string(115) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView Markets View Historical DataKeep your crypto safe"
+  }
+  [10]=>
+  array(0) {
+  }
+  [11]=>
+  array(3) {
+    ["data_2"]=>
+    string(5) "16280"
+    ["data_3"]=>
+    string(3) "161"
+    ["data_6"]=>
+    string(7) "29796 M"
+  }
+  [12]=>
+  array(3) {
+    ["data_2"]=>
+    string(4) "1574"
+    ["data_3"]=>
+    string(3) "131"
+    ["data_6"]=>
+    string(7) "16138 M"
+  }
+  [13]=>
+  array(4) {
+    ["data_2"]=>
+    string(3) "923"
+    ["data_3"]=>
+    string(3) "174"
+    ["data_4"]=>
+    string(7) "97770 M"
+    ["data_6"]=>
+    string(7) "14489 M"
+  }
+  [14]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0103587"
+    ["data_3"]=>
+    string(4) "1123"
+    ["data_4"]=>
+    string(7) "93229 M"
+    ["data_6"]=>
+    string(6) "3470 M"
+  }
+  [15]=>
+  array(4) {
+    ["data_2"]=>
+    string(3) "131"
+    ["data_3"]=>
+    string(3) "036"
+    ["data_4"]=>
+    string(7) "79334 M"
+    ["data_8"]=>
+    string(115) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView Markets View Historical DataKeep your crypto safe"
+  }
+  [16]=>
+  array(0) {
+  }
+  [17]=>
+  array(5) {
+    ["data_2"]=>
+    string(7) "0009926"
+    ["data_3"]=>
+    string(3) "273"
+    ["data_4"]=>
+    string(7) "55042 M"
+    ["data_5"]=>
+    string(9) "5545 BVET"
+    ["data_6"]=>
+    string(5) "970 M"
+  }
+  [18]=>
+  array(2) {
+    ["data_3"]=>
+    string(3) "386"
+    ["data_4"]=>
+    string(7) "50155 M"
+  }
+  [19]=>
+  array(3) {
+    ["data_2"]=>
+    string(8) " 0003050"
+    ["data_3"]=>
+    string(3) "472"
+    ["data_4"]=>
+    string(7) "35674 M"
+  }
+  [20]=>
+  array(1) {
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [21]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "272"
+    ["data_4"]=>
+    string(7) "33611 M"
+    ["data_6"]=>
+    string(7) "11304 M"
+  }
+  [22]=>
+  array(4) {
+    ["data_3"]=>
+    string(3) "202"
+    ["data_4"]=>
+    string(7) "33082 M"
+    ["data_6"]=>
+    string(6) "1932 M"
+    ["data_7"]=>
+    string(0) ""
+  }
+  [23]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "224"
+    ["data_4"]=>
+    string(7) "31414 M"
+    ["data_6"]=>
+    string(5) "747 M"
+  }
+  [24]=>
+  array(2) {
+    ["data_3"]=>
+    string(3) "152"
+    ["data_4"]=>
+    string(7) "25956 M"
+  }
+  [25]=>
+  array(4) {
+    ["data_1"]=>
+    string(12) "BTSBitShares"
+    ["data_2"]=>
+    string(7) "0094014"
+    ["data_3"]=>
+    string(3) "067"
+    ["data_4"]=>
+    string(7) "25114 M"
+  }
+  [26]=>
+  array(4) {
+    ["data_2"]=>
+    string(3) "183"
+    ["data_3"]=>
+    string(3) "029"
+    ["data_4"]=>
+    string(7) "24404 M"
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [27]=>
+  array(3) {
+    ["data_2"]=>
+    string(7) "0001277"
+    ["data_4"]=>
+    string(7) "23499 M"
+    ["data_6"]=>
+    string(7) "55695 K"
+  }
+  [28]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0573567"
+    ["data_3"]=>
+    string(3) "328"
+    ["data_4"]=>
+    string(7) "22222 M"
+    ["data_6"]=>
+    string(5) "814 M"
+  }
+  [29]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0019495"
+    ["data_3"]=>
+    string(3) "163"
+    ["data_4"]=>
+    string(7) "21530 M"
+    ["data_6"]=>
+    string(5) "125 M"
+  }
+  [30]=>
+  array(3) {
+    ["data_2"]=>
+    string(7) "0005708"
+    ["data_3"]=>
+    string(3) "527"
+    ["data_4"]=>
+    string(7) "21507 M"
+  }
+  [31]=>
+  array(3) {
+    ["data_2"]=>
+    string(7) "0730118"
+    ["data_4"]=>
+    string(7) "20705 M"
+    ["data_6"]=>
+    string(7) "94257 K"
+  }
+  [32]=>
+  array(1) {
+    ["data_3"]=>
+    string(3) "217"
+  }
+  [33]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0182824"
+    ["data_3"]=>
+    string(3) "159"
+    ["data_4"]=>
+    string(7) "18328 M"
+    ["data_6"]=>
+    string(6) "4000 M"
+  }
+  [34]=>
+  array(0) {
+  }
+  [35]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "188"
+    ["data_4"]=>
+    string(7) "16051 M"
+    ["data_6"]=>
+    string(5) "224 M"
+  }
+  [36]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "263"
+    ["data_4"]=>
+    string(7) "14149 M"
+    ["data_6"]=>
+    string(7) "73282 K"
+  }
+  [37]=>
+  array(2) {
+    ["data_4"]=>
+    string(7) "12690 M"
+    ["data_6"]=>
+    string(7) "58448 K"
+  }
+  [38]=>
+  array(5) {
+    ["data_2"]=>
+    string(7) "0015168"
+    ["data_3"]=>
+    string(3) "057"
+    ["data_4"]=>
+    string(7) "12614 M"
+    ["data_6"]=>
+    string(5) "399 M"
+    ["data_8"]=>
+    string(115) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical Data Keep your crypto safe"
+  }
+  [39]=>
+  array(4) {
+    ["data_2"]=>
+    string(3) "205"
+    ["data_3"]=>
+    string(3) "401"
+    ["data_4"]=>
+    string(7) "11376 M"
+    ["data_6"]=>
+    string(5) "715 M"
+  }
+  [40]=>
+  array(0) {
+  }
+  [41]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0922059"
+    ["data_3"]=>
+    string(3) "304"
+    ["data_4"]=>
+    string(6) "9788 M"
+    ["data_5"]=>
+    string(11) "10615 MWAN "
+  }
+  [42]=>
+  array(3) {
+    ["data_3"]=>
+    string(4) "2098"
+    ["data_4"]=>
+    string(6) "8882 M"
+    ["data_6"]=>
+    string(7) "25819 K"
+  }
+  [43]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0037427"
+    ["data_3"]=>
+    string(3) "462"
+    ["data_4"]=>
+    string(6) "8333 M"
+    ["data_6"]=>
+    string(5) "833 M"
+  }
+  [44]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "194"
+    ["data_4"]=>
+    string(6) "7754 M"
+    ["data_6"]=>
+    string(5) "629 M"
+  }
+  [45]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "042"
+    ["data_4"]=>
+    string(6) "7693 M"
+    ["data_6"]=>
+    string(7) "16070 K"
+  }
+  [46]=>
+  array(0) {
+  }
+  [47]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0702921"
+    ["data_3"]=>
+    string(3) "154"
+    ["data_4"]=>
+    string(6) "7474 M"
+    ["data_6"]=>
+    string(7) "33316 K"
+  }
+  [48]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "336"
+    ["data_4"]=>
+    string(6) "7350 M"
+    ["data_6"]=>
+    string(7) "69576 K"
+  }
+  [49]=>
+  array(3) {
+    ["data_1"]=>
+    string(12) "MONAMonaCoin"
+    ["data_3"]=>
+    string(3) "006"
+    ["data_6"]=>
+    string(7) "40036 K"
+  }
+  [50]=>
+  array(4) {
+    ["data_1"]=>
+    string(11) " ZENHorizen"
+    ["data_2"]=>
+    string(4) "1422"
+    ["data_3"]=>
+    string(3) "095"
+    ["data_4"]=>
+    string(6) "7304 M"
+  }
+  [51]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0002490"
+    ["data_3"]=>
+    string(3) "294"
+    ["data_4"]=>
+    string(6) "7174 M"
+    ["data_6"]=>
+    string(7) "56645 K"
+  }
+  [52]=>
+  array(3) {
+    ["data_2"]=>
+    string(7) "0064498"
+    ["data_3"]=>
+    string(3) "184"
+    ["data_6"]=>
+    string(7) "75157 K"
+  }
+  [53]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "202"
+    ["data_4"]=>
+    string(6) "6319 M"
+    ["data_6"]=>
+    string(5) "754 M"
+  }
+  [54]=>
+  array(0) {
+  }
+  [55]=>
+  array(4) {
+    ["data_2"]=>
+    string(3) "658"
+    ["data_3"]=>
+    string(3) "066"
+    ["data_4"]=>
+    string(6) "5082 M"
+    ["data_6"]=>
+    string(5) "238 M"
+  }
+  [56]=>
+  array(3) {
+    ["data_2"]=>
+    string(7) "0076482"
+    ["data_3"]=>
+    string(3) "613"
+    ["data_4"]=>
+    string(6) "4893 M"
+  }
+  [57]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0088932"
+    ["data_3"]=>
+    string(3) "208"
+    ["data_4"]=>
+    string(6) "4831 M"
+    ["data_6"]=>
+    string(7) "55605 K"
+  }
+  [58]=>
+  array(5) {
+    ["data_2"]=>
+    string(7) "0105109"
+    ["data_3"]=>
+    string(4) "1539"
+    ["data_4"]=>
+    string(6) "4802 M"
+    ["data_5"]=>
+    string(10) "45684 MBOS"
+    ["data_6"]=>
+    string(7) "60344 K"
+  }
+  [59]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "209"
+    ["data_4"]=>
+    string(6) "4190 M"
+    ["data_6"]=>
+    string(7) "11421 K"
+  }
+  [60]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "119"
+    ["data_4"]=>
+    string(6) "3882 M"
+    ["data_6"]=>
+    string(6) "7223 K"
+  }
+  [61]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0224377"
+    ["data_3"]=>
+    string(3) "059"
+    ["data_4"]=>
+    string(6) "3812 M"
+    ["data_6"]=>
+    string(5) "445 M"
+  }
+  [62]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0632669"
+    ["data_3"]=>
+    string(3) "111"
+    ["data_4"]=>
+    string(6) "3778 M"
+    ["data_6"]=>
+    string(7) "14193 K"
+  }
+  [63]=>
+  array(1) {
+    ["data_3"]=>
+    string(3) "122"
+  }
+  [64]=>
+  array(3) {
+    ["data_2"]=>
+    string(7) "0489710"
+    ["data_3"]=>
+    string(3) "033"
+    ["data_6"]=>
+    string(7) "82230 K"
+  }
+  [65]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0823626"
+    ["data_3"]=>
+    string(3) "799"
+    ["data_4"]=>
+    string(6) "3469 M"
+    ["data_6"]=>
+    string(7) "26173 K"
+  }
+  [66]=>
+  array(4) {
+    ["data_2"]=>
+    string(3) "132"
+    ["data_3"]=>
+    string(3) "859"
+    ["data_4"]=>
+    string(6) "3316 M"
+    ["data_6"]=>
+    string(7) "38521 K"
+  }
+  [67]=>
+  array(2) {
+    ["data_3"]=>
+    string(3) "088"
+    ["data_6"]=>
+    string(7) "21491 K"
+  }
+  [68]=>
+  array(0) {
+  }
+  [69]=>
+  array(6) {
+    ["data_1"]=>
+    string(19) "GBYTEByteball Bytes"
+    ["data_2"]=>
+    string(4) "4320"
+    ["data_3"]=>
+    string(3) "424"
+    ["data_4"]=>
+    string(6) "2863 M"
+    ["data_5"]=>
+    string(12) "66281 KGBYTE"
+    ["data_6"]=>
+    string(6) "2609 K"
+  }
+  [70]=>
+  array(6) {
+    ["data_1"]=>
+    string(11) "VTCVertcoin"
+    ["data_2"]=>
+    string(7) "0610814"
+    ["data_3"]=>
+    string(3) "300"
+    ["data_4"]=>
+    string(6) "2860 M"
+    ["data_5"]=>
+    string(9) "4682 MVTC"
+    ["data_6"]=>
+    string(7) "28083 K"
+  }
+  [71]=>
+  array(1) {
+    ["data_2"]=>
+    string(7) "0106404"
+  }
+  [72]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0541934"
+    ["data_3"]=>
+    string(3) "332"
+    ["data_4"]=>
+    string(6) "2309 M"
+    ["data_6"]=>
+    string(6) "9221 K"
+  }
+  [73]=>
+  array(4) {
+    ["data_2"]=>
+    string(3) "145"
+    ["data_3"]=>
+    string(3) "183"
+    ["data_4"]=>
+    string(6) "2271 M"
+    ["data_6"]=>
+    string(7) "23869 K"
+  }
+  [74]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "244"
+    ["data_4"]=>
+    string(6) "2232 M"
+    ["data_6"]=>
+    string(6) "3500 K"
+  }
+  [75]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0335657"
+    ["data_3"]=>
+    string(3) "482"
+    ["data_4"]=>
+    string(6) "2135 M"
+    ["data_6"]=>
+    string(7) "20582 K"
+  }
+  [76]=>
+  array(5) {
+    ["data_2"]=>
+    string(4) "2004"
+    ["data_3"]=>
+    string(3) "016"
+    ["data_4"]=>
+    string(6) "2027 M"
+    ["data_5"]=>
+    string(9) "101 MSLS "
+    ["data_6"]=>
+    string(5) "106 K"
+  }
+  [77]=>
+  array(1) {
+    ["data_3"]=>
+    string(4) "4565"
+  }
+  [78]=>
+  array(7) {
+    ["data_1"]=>
+    string(18) "APLApollo Currency"
+    ["data_2"]=>
+    string(7) "0001319"
+    ["data_3"]=>
+    string(3) "421"
+    ["data_4"]=>
+    string(6) "1937 M"
+    ["data_5"]=>
+    string(9) "1469 BAPL"
+    ["data_6"]=>
+    string(6) "6566 K"
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [79]=>
+  array(6) {
+    ["data_1"]=>
+    string(10) " NRGEnergi"
+    ["data_2"]=>
+    string(3) "196"
+    ["data_3"]=>
+    string(4) "2918"
+    ["data_4"]=>
+    string(6) "1937 M"
+    ["data_5"]=>
+    string(8) "988 MNRG"
+    ["data_6"]=>
+    string(6) "6615 K"
+  }
+  [80]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0086231"
+    ["data_3"]=>
+    string(3) "261"
+    ["data_4"]=>
+    string(6) "1899 M"
+    ["data_6"]=>
+    string(7) "28008 K"
+  }
+  [81]=>
+  array(3) {
+    ["data_2"]=>
+    string(7) "0819222"
+    ["data_5"]=>
+    string(9) "2310 MVIA"
+    ["data_6"]=>
+    string(7) "84565 K"
+  }
+  [82]=>
+  array(0) {
+  }
+  [83]=>
+  array(6) {
+    ["data_1"]=>
+    string(17) "XHVHaven Protocol"
+    ["data_2"]=>
+    string(3) "324"
+    ["data_3"]=>
+    string(4) "1988"
+    ["data_4"]=>
+    string(6) "1882 M"
+    ["data_5"]=>
+    string(8) "580 MXHV"
+    ["data_6"]=>
+    string(5) "397 M"
+  }
+  [84]=>
+  array(7) {
+    ["data_0"]=>
+    string(2) "85"
+    ["data_1"]=>
+    string(9) "ACTAchain"
+    ["data_2"]=>
+    string(7) "0025009"
+    ["data_3"]=>
+    string(3) "207"
+    ["data_4"]=>
+    string(6) "1827 M"
+    ["data_5"]=>
+    string(10) "73060 MACT"
+    ["data_6"]=>
+    string(7) "69701 K"
+  }
+  [85]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "180"
+    ["data_4"]=>
+    string(6) "1813 M"
+    ["data_6"]=>
+    string(7) "58277 K"
+  }
+  [86]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0423339"
+    ["data_3"]=>
+    string(3) "625"
+    ["data_4"]=>
+    string(6) "1774 M"
+    ["data_6"]=>
+    string(7) "10778 K"
+  }
+  [87]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0017405"
+    ["data_3"]=>
+    string(3) "134"
+    ["data_4"]=>
+    string(6) "1762 M"
+    ["data_6"]=>
+    string(6) "2027 K"
+  }
+  [88]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0008806"
+    ["data_3"]=>
+    string(4) "1207"
+    ["data_4"]=>
+    string(6) "1760 M"
+    ["data_6"]=>
+    string(7) "43170 K"
+  }
+  [89]=>
+  array(3) {
+    ["data_1"]=>
+    string(10) "VITAEVitae"
+    ["data_3"]=>
+    string(3) "913"
+    ["data_6"]=>
+    string(6) "8953 K"
+  }
+  [90]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0534107"
+    ["data_3"]=>
+    string(3) "367"
+    ["data_4"]=>
+    string(6) "1681 M"
+    ["data_6"]=>
+    string(6) "7711 K"
+  }
+  [91]=>
+  array(4) {
+    ["data_3"]=>
+    string(3) "184"
+    ["data_4"]=>
+    string(6) "1666 M"
+    ["data_6"]=>
+    string(6) "6401 K"
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [92]=>
+  array(5) {
+    ["data_2"]=>
+    string(7) "0064602"
+    ["data_3"]=>
+    string(3) "620"
+    ["data_4"]=>
+    string(6) "1615 M"
+    ["data_6"]=>
+    string(7) "13053 K"
+    ["data_8"]=>
+    string(115) " Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [93]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "306"
+    ["data_4"]=>
+    string(6) "1510 M"
+    ["data_6"]=>
+    string(7) "14809 K"
+  }
+  [94]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "344"
+    ["data_4"]=>
+    string(6) "1494 M"
+    ["data_6"]=>
+    string(7) "20312 K"
+  }
+  [95]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0802755"
+    ["data_3"]=>
+    string(3) "203"
+    ["data_6"]=>
+    string(7) "10956 K"
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [96]=>
+  array(2) {
+    ["data_2"]=>
+    string(7) "0973131"
+    ["data_6"]=>
+    string(7) "35162 K"
+  }
+  [97]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "567"
+    ["data_6"]=>
+    string(7) "27803 K"
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [98]=>
+  array(5) {
+    ["data_2"]=>
+    string(7) "0183915"
+    ["data_3"]=>
+    string(3) "087"
+    ["data_4"]=>
+    string(6) "1347 M"
+    ["data_6"]=>
+    string(7) "14627 K"
+    ["data_8"]=>
+    string(115) " Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [99]=>
+  array(2) {
+    ["data_3"]=>
+    string(3) "010"
+    ["data_4"]=>
+    string(6) "1344 M"
+  }
+}
+              total        used        free      shared  buff/cache   available
+Mem:        8052712     3072104     2304928      414988     2675680     4196076
+Swap:       7999484     1115292     6884192
+
+Website : https://coinmarketcap.com/coins/ ID : currencies 
+Begin Compare
+array(100) {
+  [0]=>
+  array(3) {
+    ["data_2"]=>
+    string(6) "638623"
+    ["data_3"]=>
+    string(3) "011"
+    ["data_4"]=>
+    string(7) "11094 B"
+  }
+  [1]=>
+  array(3) {
+    ["data_2"]=>
+    string(5) "21108"
+    ["data_3"]=>
+    string(3) "029"
+    ["data_4"]=>
+    string(6) "2177 B"
+  }
+  [2]=>
+  array(3) {
+    ["data_2"]=>
+    string(7) "0501912"
+    ["data_6"]=>
+    string(7) "32619 M"
+    ["data_7"]=>
+    string(0) ""
+  }
+  [3]=>
+  array(5) {
+    ["data_2"]=>
+    string(5) "51476"
+    ["data_3"]=>
+    string(3) "532"
+    ["data_4"]=>
+    string(5) "898 B"
+    ["data_5"]=>
+    string(9) "1745 MBCH"
+    ["data_6"]=>
+    string(7) "88768 M"
+  }
+  [4]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0272523"
+    ["data_3"]=>
+    string(3) "164"
+    ["data_4"]=>
+    string(5) "516 B"
+    ["data_6"]=>
+    string(7) "11437 M"
+  }
+  [5]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "011"
+    ["data_4"]=>
+    string(5) "488 B"
+    ["data_6"]=>
+    string(7) "66857 M"
+  }
+  [6]=>
+  array(3) {
+    ["data_2"]=>
+    string(4) "5074"
+    ["data_3"]=>
+    string(3) "168"
+    ["data_6"]=>
+    string(7) "41167 M"
+  }
+  [7]=>
+  array(3) {
+    ["data_2"]=>
+    string(7) "0075650"
+    ["data_3"]=>
+    string(3) "064"
+    ["data_6"]=>
+    string(6) "2277 M"
+  }
+  [8]=>
+  array(0) {
+  }
+  [9]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0022555"
+    ["data_3"]=>
+    string(3) "152"
+    ["data_6"]=>
+    string(6) "5483 M"
+    ["data_8"]=>
+    string(115) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView Markets View Historical DataKeep your crypto safe"
+  }
+  [10]=>
+  array(0) {
+  }
+  [11]=>
+  array(3) {
+    ["data_2"]=>
+    string(5) "16280"
+    ["data_3"]=>
+    string(3) "161"
+    ["data_6"]=>
+    string(7) "29796 M"
+  }
+  [12]=>
+  array(3) {
+    ["data_2"]=>
+    string(4) "1574"
+    ["data_3"]=>
+    string(3) "131"
+    ["data_6"]=>
+    string(7) "16138 M"
+  }
+  [13]=>
+  array(4) {
+    ["data_2"]=>
+    string(3) "923"
+    ["data_3"]=>
+    string(3) "174"
+    ["data_4"]=>
+    string(7) "97770 M"
+    ["data_6"]=>
+    string(7) "14489 M"
+  }
+  [14]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0103587"
+    ["data_3"]=>
+    string(4) "1123"
+    ["data_4"]=>
+    string(7) "93229 M"
+    ["data_6"]=>
+    string(6) "3470 M"
+  }
+  [15]=>
+  array(4) {
+    ["data_2"]=>
+    string(3) "131"
+    ["data_3"]=>
+    string(3) "036"
+    ["data_4"]=>
+    string(7) "79334 M"
+    ["data_8"]=>
+    string(115) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView Markets View Historical DataKeep your crypto safe"
+  }
+  [16]=>
+  array(0) {
+  }
+  [17]=>
+  array(5) {
+    ["data_2"]=>
+    string(7) "0009926"
+    ["data_3"]=>
+    string(3) "273"
+    ["data_4"]=>
+    string(7) "55042 M"
+    ["data_5"]=>
+    string(9) "5545 BVET"
+    ["data_6"]=>
+    string(5) "970 M"
+  }
+  [18]=>
+  array(2) {
+    ["data_3"]=>
+    string(3) "386"
+    ["data_4"]=>
+    string(7) "50155 M"
+  }
+  [19]=>
+  array(3) {
+    ["data_2"]=>
+    string(8) " 0003050"
+    ["data_3"]=>
+    string(3) "472"
+    ["data_4"]=>
+    string(7) "35674 M"
+  }
+  [20]=>
+  array(0) {
+  }
+  [21]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "272"
+    ["data_4"]=>
+    string(7) "33611 M"
+    ["data_6"]=>
+    string(7) "11304 M"
+  }
+  [22]=>
+  array(4) {
+    ["data_3"]=>
+    string(3) "202"
+    ["data_4"]=>
+    string(7) "33082 M"
+    ["data_6"]=>
+    string(6) "1932 M"
+    ["data_7"]=>
+    string(0) ""
+  }
+  [23]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "224"
+    ["data_4"]=>
+    string(7) "31414 M"
+    ["data_6"]=>
+    string(5) "747 M"
+  }
+  [24]=>
+  array(2) {
+    ["data_3"]=>
+    string(3) "152"
+    ["data_4"]=>
+    string(7) "25956 M"
+  }
+  [25]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0094014"
+    ["data_3"]=>
+    string(3) "067"
+    ["data_4"]=>
+    string(7) "25114 M"
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [26]=>
+  array(4) {
+    ["data_2"]=>
+    string(3) "183"
+    ["data_3"]=>
+    string(3) "029"
+    ["data_4"]=>
+    string(7) "24404 M"
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [27]=>
+  array(3) {
+    ["data_2"]=>
+    string(7) "0001277"
+    ["data_4"]=>
+    string(7) "23499 M"
+    ["data_6"]=>
+    string(7) "55695 K"
+  }
+  [28]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0573567"
+    ["data_3"]=>
+    string(3) "328"
+    ["data_4"]=>
+    string(7) "22222 M"
+    ["data_6"]=>
+    string(5) "814 M"
+  }
+  [29]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0019495"
+    ["data_3"]=>
+    string(3) "163"
+    ["data_4"]=>
+    string(7) "21530 M"
+    ["data_6"]=>
+    string(5) "125 M"
+  }
+  [30]=>
+  array(3) {
+    ["data_2"]=>
+    string(7) "0005708"
+    ["data_3"]=>
+    string(3) "527"
+    ["data_4"]=>
+    string(7) "21507 M"
+  }
+  [31]=>
+  array(3) {
+    ["data_2"]=>
+    string(7) "0730118"
+    ["data_4"]=>
+    string(7) "20705 M"
+    ["data_6"]=>
+    string(7) "94257 K"
+  }
+  [32]=>
+  array(1) {
+    ["data_3"]=>
+    string(3) "217"
+  }
+  [33]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0182824"
+    ["data_3"]=>
+    string(3) "159"
+    ["data_4"]=>
+    string(7) "18328 M"
+    ["data_6"]=>
+    string(6) "4000 M"
+  }
+  [34]=>
+  array(0) {
+  }
+  [35]=>
+  array(2) {
+    ["data_3"]=>
+    string(3) "188"
+    ["data_4"]=>
+    string(7) "16051 M"
+  }
+  [36]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "263"
+    ["data_4"]=>
+    string(7) "14149 M"
+    ["data_6"]=>
+    string(7) "73282 K"
+  }
+  [37]=>
+  array(2) {
+    ["data_4"]=>
+    string(7) "12690 M"
+    ["data_6"]=>
+    string(7) "58448 K"
+  }
+  [38]=>
+  array(5) {
+    ["data_2"]=>
+    string(7) "0015168"
+    ["data_3"]=>
+    string(3) "057"
+    ["data_4"]=>
+    string(7) "12614 M"
+    ["data_6"]=>
+    string(5) "399 M"
+    ["data_8"]=>
+    string(115) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical Data Keep your crypto safe"
+  }
+  [39]=>
+  array(4) {
+    ["data_2"]=>
+    string(3) "205"
+    ["data_3"]=>
+    string(3) "401"
+    ["data_4"]=>
+    string(7) "11376 M"
+    ["data_6"]=>
+    string(5) "715 M"
+  }
+  [40]=>
+  array(1) {
+    ["data_5"]=>
+    string(11) "99900 MARDR"
+  }
+  [41]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0922059"
+    ["data_3"]=>
+    string(3) "304"
+    ["data_4"]=>
+    string(6) "9788 M"
+    ["data_5"]=>
+    string(11) "10615 MWAN "
+  }
+  [42]=>
+  array(3) {
+    ["data_3"]=>
+    string(4) "2098"
+    ["data_4"]=>
+    string(6) "8882 M"
+    ["data_6"]=>
+    string(7) "25819 K"
+  }
+  [43]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0037427"
+    ["data_3"]=>
+    string(3) "462"
+    ["data_4"]=>
+    string(6) "8333 M"
+    ["data_6"]=>
+    string(5) "833 M"
+  }
+  [44]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "194"
+    ["data_4"]=>
+    string(6) "7754 M"
+    ["data_6"]=>
+    string(5) "629 M"
+  }
+  [45]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "042"
+    ["data_4"]=>
+    string(6) "7693 M"
+    ["data_6"]=>
+    string(7) "16070 K"
+  }
+  [46]=>
+  array(0) {
+  }
+  [47]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0702921"
+    ["data_3"]=>
+    string(3) "154"
+    ["data_4"]=>
+    string(6) "7474 M"
+    ["data_6"]=>
+    string(7) "33316 K"
+  }
+  [48]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "336"
+    ["data_4"]=>
+    string(6) "7350 M"
+    ["data_6"]=>
+    string(7) "69576 K"
+  }
+  [49]=>
+  array(4) {
+    ["data_1"]=>
+    string(12) "MONAMonaCoin"
+    ["data_3"]=>
+    string(3) "006"
+    ["data_6"]=>
+    string(7) "40036 K"
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [50]=>
+  array(4) {
+    ["data_1"]=>
+    string(11) " ZENHorizen"
+    ["data_2"]=>
+    string(4) "1422"
+    ["data_3"]=>
+    string(3) "095"
+    ["data_4"]=>
+    string(6) "7304 M"
+  }
+  [51]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0002490"
+    ["data_3"]=>
+    string(3) "294"
+    ["data_4"]=>
+    string(6) "7174 M"
+    ["data_6"]=>
+    string(7) "56645 K"
+  }
+  [52]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0064498"
+    ["data_3"]=>
+    string(3) "184"
+    ["data_5"]=>
+    string(10) "99900 MNXT"
+    ["data_6"]=>
+    string(7) "75157 K"
+  }
+  [53]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "202"
+    ["data_4"]=>
+    string(6) "6319 M"
+    ["data_6"]=>
+    string(5) "754 M"
+  }
+  [54]=>
+  array(0) {
+  }
+  [55]=>
+  array(4) {
+    ["data_2"]=>
+    string(3) "658"
+    ["data_3"]=>
+    string(3) "066"
+    ["data_4"]=>
+    string(6) "5082 M"
+    ["data_6"]=>
+    string(5) "238 M"
+  }
+  [56]=>
+  array(3) {
+    ["data_2"]=>
+    string(7) "0076482"
+    ["data_3"]=>
+    string(3) "613"
+    ["data_4"]=>
+    string(6) "4893 M"
+  }
+  [57]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0088932"
+    ["data_3"]=>
+    string(3) "208"
+    ["data_4"]=>
+    string(6) "4831 M"
+    ["data_6"]=>
+    string(7) "55605 K"
+  }
+  [58]=>
+  array(5) {
+    ["data_2"]=>
+    string(7) "0105109"
+    ["data_3"]=>
+    string(4) "1539"
+    ["data_4"]=>
+    string(6) "4802 M"
+    ["data_5"]=>
+    string(10) "45684 MBOS"
+    ["data_6"]=>
+    string(7) "60344 K"
+  }
+  [59]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "209"
+    ["data_4"]=>
+    string(6) "4190 M"
+    ["data_6"]=>
+    string(7) "11421 K"
+  }
+  [60]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "119"
+    ["data_4"]=>
+    string(6) "3882 M"
+    ["data_6"]=>
+    string(6) "7223 K"
+  }
+  [61]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0224377"
+    ["data_3"]=>
+    string(3) "059"
+    ["data_4"]=>
+    string(6) "3812 M"
+    ["data_6"]=>
+    string(5) "445 M"
+  }
+  [62]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0632669"
+    ["data_3"]=>
+    string(3) "111"
+    ["data_4"]=>
+    string(6) "3778 M"
+    ["data_6"]=>
+    string(7) "14193 K"
+  }
+  [63]=>
+  array(1) {
+    ["data_3"]=>
+    string(3) "122"
+  }
+  [64]=>
+  array(3) {
+    ["data_2"]=>
+    string(7) "0489710"
+    ["data_3"]=>
+    string(3) "033"
+    ["data_6"]=>
+    string(7) "82230 K"
+  }
+  [65]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0823626"
+    ["data_3"]=>
+    string(3) "799"
+    ["data_4"]=>
+    string(6) "3469 M"
+    ["data_6"]=>
+    string(7) "26173 K"
+  }
+  [66]=>
+  array(4) {
+    ["data_2"]=>
+    string(3) "132"
+    ["data_3"]=>
+    string(3) "859"
+    ["data_4"]=>
+    string(6) "3316 M"
+    ["data_6"]=>
+    string(7) "38521 K"
+  }
+  [67]=>
+  array(2) {
+    ["data_3"]=>
+    string(3) "088"
+    ["data_6"]=>
+    string(7) "21491 K"
+  }
+  [68]=>
+  array(0) {
+  }
+  [69]=>
+  array(6) {
+    ["data_1"]=>
+    string(19) "GBYTEByteball Bytes"
+    ["data_2"]=>
+    string(4) "4320"
+    ["data_3"]=>
+    string(3) "424"
+    ["data_4"]=>
+    string(6) "2863 M"
+    ["data_5"]=>
+    string(12) "66281 KGBYTE"
+    ["data_6"]=>
+    string(6) "2609 K"
+  }
+  [70]=>
+  array(6) {
+    ["data_1"]=>
+    string(11) "VTCVertcoin"
+    ["data_2"]=>
+    string(7) "0610814"
+    ["data_3"]=>
+    string(3) "300"
+    ["data_4"]=>
+    string(6) "2860 M"
+    ["data_5"]=>
+    string(9) "4682 MVTC"
+    ["data_6"]=>
+    string(7) "28083 K"
+  }
+  [71]=>
+  array(1) {
+    ["data_2"]=>
+    string(7) "0106404"
+  }
+  [72]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0541934"
+    ["data_3"]=>
+    string(3) "332"
+    ["data_4"]=>
+    string(6) "2309 M"
+    ["data_6"]=>
+    string(6) "9221 K"
+  }
+  [73]=>
+  array(4) {
+    ["data_2"]=>
+    string(3) "145"
+    ["data_3"]=>
+    string(3) "183"
+    ["data_4"]=>
+    string(6) "2271 M"
+    ["data_6"]=>
+    string(7) "23869 K"
+  }
+  [74]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "244"
+    ["data_4"]=>
+    string(6) "2232 M"
+    ["data_6"]=>
+    string(6) "3500 K"
+  }
+  [75]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0335657"
+    ["data_3"]=>
+    string(3) "482"
+    ["data_4"]=>
+    string(6) "2135 M"
+    ["data_6"]=>
+    string(7) "20582 K"
+  }
+  [76]=>
+  array(5) {
+    ["data_2"]=>
+    string(4) "2004"
+    ["data_3"]=>
+    string(3) "016"
+    ["data_4"]=>
+    string(6) "2027 M"
+    ["data_5"]=>
+    string(9) "101 MSLS "
+    ["data_6"]=>
+    string(5) "106 K"
+  }
+  [77]=>
+  array(1) {
+    ["data_3"]=>
+    string(4) "4565"
+  }
+  [78]=>
+  array(7) {
+    ["data_1"]=>
+    string(18) "APLApollo Currency"
+    ["data_2"]=>
+    string(7) "0001319"
+    ["data_3"]=>
+    string(3) "421"
+    ["data_4"]=>
+    string(6) "1937 M"
+    ["data_5"]=>
+    string(9) "1469 BAPL"
+    ["data_6"]=>
+    string(6) "6566 K"
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [79]=>
+  array(6) {
+    ["data_1"]=>
+    string(10) " NRGEnergi"
+    ["data_2"]=>
+    string(3) "196"
+    ["data_3"]=>
+    string(4) "2918"
+    ["data_4"]=>
+    string(6) "1937 M"
+    ["data_5"]=>
+    string(8) "988 MNRG"
+    ["data_6"]=>
+    string(6) "6615 K"
+  }
+  [80]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0086231"
+    ["data_3"]=>
+    string(3) "261"
+    ["data_4"]=>
+    string(6) "1899 M"
+    ["data_6"]=>
+    string(7) "28008 K"
+  }
+  [81]=>
+  array(3) {
+    ["data_2"]=>
+    string(7) "0819222"
+    ["data_5"]=>
+    string(9) "2310 MVIA"
+    ["data_6"]=>
+    string(7) "84565 K"
+  }
+  [82]=>
+  array(0) {
+  }
+  [83]=>
+  array(6) {
+    ["data_1"]=>
+    string(17) "XHVHaven Protocol"
+    ["data_2"]=>
+    string(3) "324"
+    ["data_3"]=>
+    string(4) "1988"
+    ["data_4"]=>
+    string(6) "1882 M"
+    ["data_5"]=>
+    string(8) "580 MXHV"
+    ["data_6"]=>
+    string(5) "397 M"
+  }
+  [84]=>
+  array(7) {
+    ["data_0"]=>
+    string(2) "85"
+    ["data_1"]=>
+    string(9) "ACTAchain"
+    ["data_2"]=>
+    string(7) "0025009"
+    ["data_3"]=>
+    string(3) "207"
+    ["data_4"]=>
+    string(6) "1827 M"
+    ["data_5"]=>
+    string(10) "73060 MACT"
+    ["data_6"]=>
+    string(7) "69701 K"
+  }
+  [85]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "180"
+    ["data_4"]=>
+    string(6) "1813 M"
+    ["data_6"]=>
+    string(7) "58277 K"
+  }
+  [86]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0423339"
+    ["data_3"]=>
+    string(3) "625"
+    ["data_4"]=>
+    string(6) "1774 M"
+    ["data_6"]=>
+    string(7) "10778 K"
+  }
+  [87]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0017405"
+    ["data_3"]=>
+    string(3) "134"
+    ["data_4"]=>
+    string(6) "1762 M"
+    ["data_6"]=>
+    string(6) "2027 K"
+  }
+  [88]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0008806"
+    ["data_3"]=>
+    string(4) "1207"
+    ["data_4"]=>
+    string(6) "1760 M"
+    ["data_6"]=>
+    string(7) "43170 K"
+  }
+  [89]=>
+  array(3) {
+    ["data_1"]=>
+    string(10) "VITAEVitae"
+    ["data_3"]=>
+    string(3) "913"
+    ["data_6"]=>
+    string(6) "8953 K"
+  }
+  [90]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0534107"
+    ["data_3"]=>
+    string(3) "367"
+    ["data_4"]=>
+    string(6) "1681 M"
+    ["data_6"]=>
+    string(6) "7711 K"
+  }
+  [91]=>
+  array(4) {
+    ["data_3"]=>
+    string(3) "184"
+    ["data_4"]=>
+    string(6) "1666 M"
+    ["data_6"]=>
+    string(6) "6401 K"
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [92]=>
+  array(5) {
+    ["data_2"]=>
+    string(7) "0064602"
+    ["data_3"]=>
+    string(3) "620"
+    ["data_4"]=>
+    string(6) "1615 M"
+    ["data_6"]=>
+    string(7) "13053 K"
+    ["data_8"]=>
+    string(115) " Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [93]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "306"
+    ["data_4"]=>
+    string(6) "1510 M"
+    ["data_6"]=>
+    string(7) "14809 K"
+  }
+  [94]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "344"
+    ["data_4"]=>
+    string(6) "1494 M"
+    ["data_6"]=>
+    string(7) "20312 K"
+  }
+  [95]=>
+  array(4) {
+    ["data_2"]=>
+    string(7) "0802755"
+    ["data_3"]=>
+    string(3) "203"
+    ["data_6"]=>
+    string(7) "10956 K"
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [96]=>
+  array(2) {
+    ["data_2"]=>
+    string(7) "0973131"
+    ["data_6"]=>
+    string(7) "35162 K"
+  }
+  [97]=>
+  array(3) {
+    ["data_3"]=>
+    string(3) "567"
+    ["data_6"]=>
+    string(7) "27803 K"
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [98]=>
+  array(5) {
+    ["data_2"]=>
+    string(7) "0183915"
+    ["data_3"]=>
+    string(3) "087"
+    ["data_4"]=>
+    string(6) "1347 M"
+    ["data_6"]=>
+    string(7) "14627 K"
+    ["data_8"]=>
+    string(115) " Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [99]=>
+  array(2) {
+    ["data_3"]=>
+    string(3) "010"
+    ["data_4"]=>
+    string(6) "1344 M"
+  }
+}

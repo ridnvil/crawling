@@ -3469,3 +3469,552 @@
 10-Nov-2018 05:46:17 -> Result : Update data Successfully 
 10-Nov-2018 05:46:22 -> Result : Swap:       7999484           0     7999484
 10-Nov-2018 05:46:22 -> Result : Render Processing from https://coinmarketcap.com/coins/ where id currencies
+12-Nov-2018 11:26:13 -> Result : Render Processing from https://coinmarketcap.com/coins/ where id currencies
+12-Nov-2018 11:26:19 -> Result : Render Done..
+12-Nov-2018 11:26:19 -> Result : Load data from directory webpage where File : currencies.html
+12-Nov-2018 11:26:19 -> Result : Successfully Crawling data from https://coinmarketcap.com/coins/
+12-Nov-2018 11:26:19 -> Result : Record data is 100
+12-Nov-2018 11:26:19 -> Result : Created Json File -> currencies.json
+12-Nov-2018 11:26:20 -> Result : Compare Data
+12-Nov-2018 11:26:20 -> Result : Update data Successfully 
+12-Nov-2018 11:26:25 -> Result : Swap:       7999484     1116316     6883168
+12-Nov-2018 11:26:25 -> Result : Render Processing from https://coinmarketcap.com/coins/ where id currencies
+12-Nov-2018 11:26:34 -> Result : Render Done..
+12-Nov-2018 11:26:34 -> Result : Load data from directory webpage where File : currencies.html
+12-Nov-2018 11:26:34 -> Result : Successfully Crawling data from https://coinmarketcap.com/coins/
+12-Nov-2018 11:26:34 -> Result : Record data is 100
+12-Nov-2018 11:26:34 -> Result : Created Json File -> currencies.json
+12-Nov-2018 11:26:34 -> Result : Compare Data
+12-Nov-2018 11:26:35 -> Result : data_5 = '1745 MBCH',  : Changed
+12-Nov-2018 11:26:35 -> Result : data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView Markets View Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:26:35 -> Result : data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView Markets View Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:26:35 -> Result : data_2 = '2893',  : Changed
+12-Nov-2018 11:26:35 -> Result : data_2 = ' 0003050',  : Changed
+12-Nov-2018 11:26:35 -> Result : data_5 = '11205 MLSK',  : Changed
+12-Nov-2018 11:26:35 -> Result : data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:26:35 -> Result : data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:26:35 -> Result : data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical Data Keep your crypto safe',  : Changed
+12-Nov-2018 11:26:35 -> Result : data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:26:35 -> Result : data_5 = '10615 MWAN ',  : Changed
+12-Nov-2018 11:26:35 -> Result : data_1 = ' ZENHorizen',  : Changed
+12-Nov-2018 11:26:35 -> Result : data_5 = '99900 MNXT',  : Changed
+12-Nov-2018 11:26:35 -> Result : data_5 = '45684 MBOS',  : Changed
+12-Nov-2018 11:26:35 -> Result : data_1 = 'FCTFactom',  : Changed
+12-Nov-2018 11:26:35 -> Result : data_1 = 'PPCPeercoin',  : Changed
+12-Nov-2018 11:26:35 -> Result : data_5 = '101 MSLS ', data_6 = '106 K',  : Changed
+12-Nov-2018 11:26:35 -> Result : data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:26:35 -> Result : data_1 = ' NRGEnergi',  : Changed
+12-Nov-2018 11:26:35 -> Result : data_5 = '101 BBAY',  : Changed
+12-Nov-2018 11:26:35 -> Result : data_2 = '0008806',  : Changed
+12-Nov-2018 11:26:35 -> Result : data_8 = ' Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:26:35 -> Result : data_5 = '526 MZCL',  : Changed
+12-Nov-2018 11:26:35 -> Result : data_2 = '0000101',  : Changed
+12-Nov-2018 11:26:35 -> Result : data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:26:35 -> Result : data_8 = ' Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:26:35 -> Result : Update data Successfully 
+12-Nov-2018 11:26:40 -> Result : Swap:       7999484     1116060     6883424
+12-Nov-2018 11:26:40 -> Result : Render Processing from https://coinmarketcap.com/coins/ where id currencies
+12-Nov-2018 11:26:46 -> Result : Render Done..
+12-Nov-2018 11:26:46 -> Result : Load data from directory webpage where File : currencies.html
+12-Nov-2018 11:26:46 -> Result : Successfully Crawling data from https://coinmarketcap.com/coins/
+12-Nov-2018 11:26:46 -> Result : Record data is 100
+12-Nov-2018 11:26:46 -> Result : Created Json File -> currencies.json
+12-Nov-2018 11:26:46 -> Result : Compare Data
+12-Nov-2018 11:26:46 -> Result : data_2 = '638623', data_3 = '011', data_4 = '11094 B', data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_2 = '21108', data_3 = '029', data_4 = '2177 B', data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_2 = '0501912', data_6 = '32619 M',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_2 = '51476', data_3 = '532', data_4 = '898 B', data_5 = '1745 MBCH', data_6 = '88768 M',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_2 = '0272523', data_3 = '164', data_4 = '516 B', data_6 = '11437 M',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_3 = '011', data_4 = '488 B', data_6 = '66857 M',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_2 = '5074', data_3 = '168', data_6 = '41167 M',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_2 = '0075650', data_3 = '064', data_6 = '2277 M',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_2 = '0022555', data_3 = '152', data_6 = '5483 M', data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView Markets View Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_2 = '16280', data_3 = '161', data_6 = '29796 M',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_2 = '1574', data_3 = '131', data_6 = '16138 M',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_2 = '923', data_3 = '174', data_4 = '97770 M', data_6 = '14489 M',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_0 = '15', data_2 = '0103587', data_3 = '1123', data_4 = '93229 M', data_6 = '3470 M',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_2 = '131', data_3 = '036', data_4 = '79334 M', data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView Markets View Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_2 = '0009926', data_3 = '273', data_4 = '55042 M', data_6 = '970 M',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_3 = '386', data_4 = '50155 M',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_2 = ' 0003050', data_3 = '472', data_4 = '35674 M',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_3 = '272', data_4 = '33611 M', data_6 = '11304 M', data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_3 = '202', data_4 = '33082 M', data_6 = '1932 M',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_3 = '224', data_4 = '31414 M', data_6 = '747 M',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_3 = '152', data_4 = '25956 M',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_2 = '0094014', data_3 = '067', data_4 = '25114 M',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_2 = '183', data_3 = '029', data_4 = '24404 M',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_2 = '0001277', data_4 = '23499 M', data_6 = '55695 K',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_2 = '0573567', data_3 = '328', data_4 = '22222 M', data_6 = '814 M',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_2 = '0019495', data_3 = '163', data_4 = '21530 M', data_6 = '125 M',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_2 = '0005708', data_3 = '527', data_4 = '21507 M',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_2 = '0730118', data_4 = '20705 M', data_6 = '94257 K',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_3 = '217', data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_2 = '0182824', data_3 = '159', data_4 = '18328 M', data_6 = '4000 M',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_3 = '188', data_4 = '16051 M',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_3 = '263', data_4 = '14149 M', data_6 = '73282 K',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_4 = '12690 M', data_6 = '58448 K',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_2 = '0015168', data_3 = '057', data_4 = '12614 M', data_6 = '399 M', data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical Data Keep your crypto safe',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_2 = '205', data_3 = '401', data_4 = '11376 M', data_6 = '715 M',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_2 = '0922059', data_3 = '304', data_4 = '9788 M', data_5 = '10615 MWAN ',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_3 = '2098', data_4 = '8882 M', data_6 = '25819 K',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_2 = '0037427', data_3 = '462', data_4 = '8333 M', data_6 = '833 M',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_3 = '194', data_4 = '7754 M', data_6 = '629 M',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_3 = '042', data_4 = '7693 M', data_6 = '16070 K',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_5 = '5678 MPIVX',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_2 = '0702921', data_3 = '154', data_4 = '7474 M', data_6 = '33316 K',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_3 = '336', data_4 = '7350 M', data_6 = '69576 K',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_3 = '006', data_6 = '40036 K',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_1 = ' ZENHorizen', data_2 = '1422', data_3 = '095', data_4 = '7304 M',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_2 = '0002490', data_3 = '294', data_4 = '7174 M', data_6 = '56645 K',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_2 = '0064498', data_3 = '184', data_6 = '75157 K',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_3 = '202', data_4 = '6319 M', data_6 = '754 M',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_0 = '56', data_2 = '658', data_3 = '066', data_4 = '5082 M', data_6 = '238 M',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_2 = '0076482', data_3 = '613', data_4 = '4893 M',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_2 = '0088932', data_3 = '208', data_4 = '4831 M', data_6 = '55605 K', data_7 = '',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_2 = '0105109', data_3 = '1539', data_4 = '4802 M', data_6 = '60344 K',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_3 = '209', data_4 = '4190 M', data_6 = '11421 K',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_3 = '119', data_4 = '3882 M', data_6 = '7223 K',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_2 = '0224377', data_3 = '059', data_4 = '3812 M', data_6 = '445 M',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_2 = '0632669', data_3 = '111', data_4 = '3778 M', data_6 = '14193 K',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_3 = '122',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_2 = '0489710', data_3 = '033', data_6 = '82230 K',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_2 = '0823626', data_3 = '799', data_4 = '3469 M', data_6 = '26173 K',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_2 = '132', data_3 = '859', data_4 = '3316 M', data_6 = '38521 K',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_3 = '088', data_6 = '21491 K', data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_1 = 'GBYTEByteball Bytes', data_2 = '4320', data_3 = '424', data_4 = '2863 M', data_5 = '66281 KGBYTE', data_6 = '2609 K',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_1 = 'VTCVertcoin', data_2 = '0610814', data_3 = '300', data_4 = '2860 M', data_5 = '4682 MVTC', data_6 = '28083 K',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_2 = '0106404',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_2 = '0541934', data_3 = '332', data_4 = '2309 M', data_6 = '9221 K', data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_2 = '145', data_3 = '183', data_4 = '2271 M', data_6 = '23869 K',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_3 = '244', data_4 = '2232 M', data_6 = '3500 K',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_2 = '0335657', data_3 = '482', data_4 = '2135 M', data_6 = '20582 K',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_2 = '2004', data_3 = '016', data_4 = '2027 M', data_5 = '101 MSLS ',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_3 = '4565',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_1 = 'APLApollo Currency', data_2 = '0001319', data_3 = '421', data_4 = '1937 M', data_5 = '1469 BAPL', data_6 = '6566 K',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_1 = ' NRGEnergi', data_2 = '196', data_3 = '2918', data_4 = '1937 M', data_5 = '988 MNRG', data_6 = '6615 K',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_2 = '0086231', data_3 = '261', data_4 = '1899 M', data_6 = '28008 K',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_2 = '0819222', data_5 = '2310 MVIA', data_6 = '84565 K',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_2 = '0017957',  : Changed
+12-Nov-2018 11:26:46 -> Result : data_1 = 'XHVHaven Protocol', data_2 = '324', data_3 = '1988', data_4 = '1882 M', data_5 = '580 MXHV', data_6 = '397 M',  : Changed
+12-Nov-2018 11:26:47 -> Result : data_1 = 'ACTAchain', data_2 = '0025009', data_3 = '207', data_4 = '1827 M', data_5 = '73060 MACT', data_6 = '69701 K',  : Changed
+12-Nov-2018 11:26:47 -> Result : data_3 = '180', data_4 = '1813 M', data_6 = '58277 K',  : Changed
+12-Nov-2018 11:26:47 -> Result : data_2 = '0423339', data_3 = '625', data_4 = '1774 M', data_6 = '10778 K',  : Changed
+12-Nov-2018 11:26:47 -> Result : data_2 = '0017405', data_3 = '134', data_4 = '1762 M', data_6 = '2027 K',  : Changed
+12-Nov-2018 11:26:47 -> Result : data_2 = '0008806', data_3 = '1207', data_4 = '1760 M', data_6 = '43170 K',  : Changed
+12-Nov-2018 11:26:47 -> Result : data_3 = '913', data_6 = '8953 K',  : Changed
+12-Nov-2018 11:26:47 -> Result : data_2 = '0534107', data_3 = '367', data_4 = '1681 M', data_6 = '7711 K',  : Changed
+12-Nov-2018 11:26:47 -> Result : data_3 = '184', data_4 = '1666 M', data_6 = '6401 K',  : Changed
+12-Nov-2018 11:26:47 -> Result : data_2 = '0064602', data_3 = '620', data_4 = '1615 M', data_6 = '13053 K', data_8 = ' Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:26:47 -> Result : data_3 = '306', data_4 = '1510 M', data_6 = '14809 K',  : Changed
+12-Nov-2018 11:26:47 -> Result : data_3 = '344', data_4 = '1494 M', data_6 = '20312 K',  : Changed
+12-Nov-2018 11:26:47 -> Result : data_2 = '0802755', data_3 = '203', data_6 = '10956 K',  : Changed
+12-Nov-2018 11:26:47 -> Result : data_2 = '0973131', data_6 = '35162 K', data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:26:47 -> Result : data_3 = '567', data_6 = '27803 K',  : Changed
+12-Nov-2018 11:26:47 -> Result : data_2 = '0183915', data_3 = '087', data_4 = '1347 M', data_5 = '7322 MXSN', data_6 = '14627 K', data_8 = ' Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:26:47 -> Result : data_3 = '010', data_4 = '1344 M', data_6 = '289 K',  : Changed
+12-Nov-2018 11:26:47 -> Result : Update data Successfully 
+12-Nov-2018 11:26:52 -> Result : Swap:       7999484     1115804     6883680
+12-Nov-2018 11:26:52 -> Result : Render Processing from https://coinmarketcap.com/coins/ where id currencies
+12-Nov-2018 11:26:58 -> Result : Render Done..
+12-Nov-2018 11:26:58 -> Result : Load data from directory webpage where File : currencies.html
+12-Nov-2018 11:26:58 -> Result : Successfully Crawling data from https://coinmarketcap.com/coins/
+12-Nov-2018 11:26:58 -> Result : Record data is 100
+12-Nov-2018 11:26:58 -> Result : Created Json File -> currencies.json
+12-Nov-2018 11:26:58 -> Result : Compare Data
+12-Nov-2018 11:26:58 -> Result : data_2 = '638623', data_3 = '011', data_4 = '11094 B', data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '21108', data_3 = '029', data_4 = '2177 B',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '0501912', data_6 = '32619 M',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '51476', data_3 = '532', data_4 = '898 B', data_6 = '88768 M',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '0272523', data_3 = '164', data_4 = '516 B', data_6 = '11437 M',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_3 = '011', data_4 = '488 B', data_6 = '66857 M',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_1 = 'LTCLitecoin', data_2 = '5074', data_3 = '168', data_6 = '41167 M',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '0075650', data_3 = '064', data_6 = '2277 M',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '0022555', data_3 = '152', data_6 = '5483 M', data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView Markets View Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '16280', data_3 = '161', data_5 = '844 MDASH', data_6 = '29796 M',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '1574', data_3 = '131', data_6 = '16138 M',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '923', data_3 = '174', data_4 = '97770 M', data_6 = '14489 M',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '0103587', data_3 = '1123', data_4 = '93229 M', data_6 = '3470 M',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '131', data_3 = '036', data_4 = '79334 M', data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView Markets View Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '0009926', data_3 = '273', data_4 = '55042 M', data_6 = '970 M',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '2893', data_3 = '386', data_4 = '50155 M',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = ' 0003050', data_3 = '472', data_4 = '35674 M',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_3 = '272', data_4 = '33611 M', data_6 = '11304 M', data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_3 = '202', data_4 = '33082 M', data_6 = '1932 M',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_3 = '224', data_4 = '31414 M', data_5 = '11205 MLSK', data_6 = '747 M',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_3 = '152', data_4 = '25956 M',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '0094014', data_3 = '067', data_4 = '25114 M',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '183', data_3 = '029', data_4 = '24404 M',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '0001277', data_4 = '23499 M', data_6 = '55695 K',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '0573567', data_3 = '328', data_4 = '22222 M', data_6 = '814 M',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '0019495', data_3 = '163', data_4 = '21530 M', data_6 = '125 M',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '0005708', data_3 = '527', data_4 = '21507 M',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '0730118', data_4 = '20705 M', data_6 = '94257 K',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_3 = '217', data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '0182824', data_3 = '159', data_4 = '18328 M', data_6 = '4000 M', data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_3 = '188', data_4 = '16051 M',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_3 = '263', data_4 = '14149 M', data_6 = '73282 K',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_4 = '12690 M', data_6 = '58448 K',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '0015168', data_3 = '057', data_4 = '12614 M', data_6 = '399 M', data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical Data Keep your crypto safe',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '205', data_3 = '401', data_4 = '11376 M', data_6 = '715 M',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '0922059', data_3 = '304', data_4 = '9788 M', data_5 = '10615 MWAN ',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_3 = '2098', data_4 = '8882 M', data_6 = '25819 K',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '0037427', data_3 = '462', data_4 = '8333 M', data_6 = '833 M',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_3 = '194', data_4 = '7754 M', data_6 = '629 M',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_3 = '042', data_4 = '7693 M', data_6 = '16070 K',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_5 = '5678 MPIVX',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '0702921', data_3 = '154', data_4 = '7474 M', data_6 = '33316 K',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_3 = '336', data_4 = '7350 M', data_6 = '69576 K',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_3 = '006', data_6 = '40036 K',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_1 = ' ZENHorizen', data_2 = '1422', data_3 = '095', data_4 = '7304 M',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '0002490', data_3 = '294', data_4 = '7174 M', data_6 = '56645 K',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '0064498', data_3 = '184', data_6 = '75157 K',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_3 = '202', data_4 = '6319 M', data_6 = '754 M',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_1 = 'XZCZcoin',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '658', data_3 = '066', data_4 = '5082 M', data_6 = '238 M',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '0076482', data_3 = '613', data_4 = '4893 M',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '0088932', data_3 = '208', data_4 = '4831 M', data_6 = '55605 K',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '0105109', data_3 = '1539', data_4 = '4802 M', data_6 = '60344 K',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_3 = '209', data_4 = '4190 M', data_6 = '11421 K',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_3 = '119', data_4 = '3882 M', data_6 = '7223 K',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '0224377', data_3 = '059', data_4 = '3812 M', data_6 = '445 M', data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '0632669', data_3 = '111', data_4 = '3778 M', data_6 = '14193 K', data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_3 = '122',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '0489710', data_3 = '033', data_6 = '82230 K',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '0823626', data_3 = '799', data_4 = '3469 M', data_6 = '26173 K',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '132', data_3 = '859', data_4 = '3316 M', data_6 = '38521 K',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_3 = '088', data_6 = '21491 K', data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_1 = 'GBYTEByteball Bytes', data_2 = '4320', data_3 = '424', data_4 = '2863 M', data_5 = '66281 KGBYTE', data_6 = '2609 K',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_1 = 'VTCVertcoin', data_2 = '0610814', data_3 = '300', data_4 = '2860 M', data_5 = '4682 MVTC', data_6 = '28083 K',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '0106404',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '0541934', data_3 = '332', data_4 = '2309 M', data_6 = '9221 K', data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '145', data_3 = '183', data_4 = '2271 M', data_6 = '23869 K',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_3 = '244', data_4 = '2232 M', data_6 = '3500 K',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '0335657', data_3 = '482', data_4 = '2135 M', data_5 = '6360 MNAV', data_6 = '20582 K',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '2004', data_3 = '016', data_4 = '2027 M', data_5 = '101 MSLS ',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_3 = '4565',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_1 = 'APLApollo Currency', data_2 = '0001319', data_3 = '421', data_4 = '1937 M', data_5 = '1469 BAPL', data_6 = '6566 K',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_1 = ' NRGEnergi', data_2 = '196', data_3 = '2918', data_4 = '1937 M', data_5 = '988 MNRG', data_6 = '6615 K',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '0086231', data_3 = '261', data_4 = '1899 M', data_6 = '28008 K',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '0819222', data_6 = '84565 K',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '0017957',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_1 = 'XHVHaven Protocol', data_2 = '324', data_3 = '1988', data_4 = '1882 M', data_5 = '580 MXHV', data_6 = '397 M',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_1 = 'ACTAchain', data_2 = '0025009', data_3 = '207', data_4 = '1827 M', data_5 = '73060 MACT', data_6 = '69701 K',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_3 = '180', data_4 = '1813 M', data_6 = '58277 K',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '0423339', data_3 = '625', data_4 = '1774 M', data_6 = '10778 K',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '0017405', data_3 = '134', data_4 = '1762 M', data_6 = '2027 K',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '0008806', data_3 = '1207', data_4 = '1760 M', data_6 = '43170 K',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_3 = '913', data_6 = '8953 K',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '0534107', data_3 = '367', data_4 = '1681 M', data_6 = '7711 K',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_3 = '184', data_4 = '1666 M', data_6 = '6401 K',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '0064602', data_3 = '620', data_4 = '1615 M', data_6 = '13053 K', data_8 = ' Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_3 = '306', data_4 = '1510 M', data_6 = '14809 K',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_3 = '344', data_4 = '1494 M', data_6 = '20312 K',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '0802755', data_3 = '203', data_6 = '10956 K',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '0973131', data_6 = '35162 K',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_3 = '567', data_6 = '27803 K',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_2 = '0183915', data_3 = '087', data_4 = '1347 M', data_6 = '14627 K', data_8 = ' Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:26:58 -> Result : data_3 = '010', data_4 = '1344 M',  : Changed
+12-Nov-2018 11:26:58 -> Result : Update data Successfully 
+12-Nov-2018 11:27:03 -> Result : Swap:       7999484     1115548     6883936
+12-Nov-2018 11:27:03 -> Result : Render Processing from https://coinmarketcap.com/coins/ where id currencies
+12-Nov-2018 11:27:09 -> Result : Render Done..
+12-Nov-2018 11:27:09 -> Result : Load data from directory webpage where File : currencies.html
+12-Nov-2018 11:27:09 -> Result : Successfully Crawling data from https://coinmarketcap.com/coins/
+12-Nov-2018 11:27:09 -> Result : Record data is 100
+12-Nov-2018 11:27:09 -> Result : Created Json File -> currencies.json
+12-Nov-2018 11:27:09 -> Result : Compare Data
+12-Nov-2018 11:27:09 -> Result : data_2 = '638623', data_3 = '011', data_4 = '11094 B',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '21108', data_3 = '029', data_4 = '2177 B', data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '0501912', data_6 = '32619 M',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '51476', data_3 = '532', data_4 = '898 B', data_5 = '1745 MBCH', data_6 = '88768 M',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '0272523', data_3 = '164', data_4 = '516 B', data_6 = '11437 M',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_3 = '011', data_4 = '488 B', data_6 = '66857 M',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '5074', data_3 = '168', data_6 = '41167 M',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '0075650', data_3 = '064', data_6 = '2277 M',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '0022555', data_3 = '152', data_6 = '5483 M', data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView Markets View Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '16280', data_3 = '161', data_6 = '29796 M',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '1574', data_3 = '131', data_6 = '16138 M',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '923', data_3 = '174', data_4 = '97770 M', data_6 = '14489 M',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '0103587', data_3 = '1123', data_4 = '93229 M', data_6 = '3470 M',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '131', data_3 = '036', data_4 = '79334 M', data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView Markets View Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '0009926', data_3 = '273', data_4 = '55042 M', data_5 = '5545 BVET', data_6 = '970 M',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_3 = '386', data_4 = '50155 M',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = ' 0003050', data_3 = '472', data_4 = '35674 M',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_3 = '272', data_4 = '33611 M', data_6 = '11304 M',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_3 = '202', data_4 = '33082 M', data_6 = '1932 M', data_7 = '',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_3 = '224', data_4 = '31414 M', data_6 = '747 M',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_3 = '152', data_4 = '25956 M',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_1 = 'BTSBitShares', data_2 = '0094014', data_3 = '067', data_4 = '25114 M',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '183', data_3 = '029', data_4 = '24404 M', data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '0001277', data_4 = '23499 M', data_6 = '55695 K',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '0573567', data_3 = '328', data_4 = '22222 M', data_6 = '814 M',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '0019495', data_3 = '163', data_4 = '21530 M', data_6 = '125 M',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '0005708', data_3 = '527', data_4 = '21507 M',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '0730118', data_4 = '20705 M', data_6 = '94257 K',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_3 = '217',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '0182824', data_3 = '159', data_4 = '18328 M', data_6 = '4000 M',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_3 = '188', data_4 = '16051 M', data_6 = '224 M',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_3 = '263', data_4 = '14149 M', data_6 = '73282 K',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_4 = '12690 M', data_6 = '58448 K',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '0015168', data_3 = '057', data_4 = '12614 M', data_6 = '399 M', data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical Data Keep your crypto safe',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '205', data_3 = '401', data_4 = '11376 M', data_6 = '715 M',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '0922059', data_3 = '304', data_4 = '9788 M', data_5 = '10615 MWAN ',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_3 = '2098', data_4 = '8882 M', data_6 = '25819 K',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '0037427', data_3 = '462', data_4 = '8333 M', data_6 = '833 M',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_3 = '194', data_4 = '7754 M', data_6 = '629 M',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_3 = '042', data_4 = '7693 M', data_6 = '16070 K',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '0702921', data_3 = '154', data_4 = '7474 M', data_6 = '33316 K',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_3 = '336', data_4 = '7350 M', data_6 = '69576 K',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_1 = 'MONAMonaCoin', data_3 = '006', data_6 = '40036 K',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_1 = ' ZENHorizen', data_2 = '1422', data_3 = '095', data_4 = '7304 M',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '0002490', data_3 = '294', data_4 = '7174 M', data_6 = '56645 K',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '0064498', data_3 = '184', data_6 = '75157 K',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_3 = '202', data_4 = '6319 M', data_6 = '754 M',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '658', data_3 = '066', data_4 = '5082 M', data_6 = '238 M',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '0076482', data_3 = '613', data_4 = '4893 M',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '0088932', data_3 = '208', data_4 = '4831 M', data_6 = '55605 K',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '0105109', data_3 = '1539', data_4 = '4802 M', data_5 = '45684 MBOS', data_6 = '60344 K',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_3 = '209', data_4 = '4190 M', data_6 = '11421 K',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_3 = '119', data_4 = '3882 M', data_6 = '7223 K',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '0224377', data_3 = '059', data_4 = '3812 M', data_6 = '445 M',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '0632669', data_3 = '111', data_4 = '3778 M', data_6 = '14193 K',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_3 = '122',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '0489710', data_3 = '033', data_6 = '82230 K',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '0823626', data_3 = '799', data_4 = '3469 M', data_6 = '26173 K',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '132', data_3 = '859', data_4 = '3316 M', data_6 = '38521 K',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_3 = '088', data_6 = '21491 K',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_1 = 'GBYTEByteball Bytes', data_2 = '4320', data_3 = '424', data_4 = '2863 M', data_5 = '66281 KGBYTE', data_6 = '2609 K',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_1 = 'VTCVertcoin', data_2 = '0610814', data_3 = '300', data_4 = '2860 M', data_5 = '4682 MVTC', data_6 = '28083 K',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '0106404',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '0541934', data_3 = '332', data_4 = '2309 M', data_6 = '9221 K',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '145', data_3 = '183', data_4 = '2271 M', data_6 = '23869 K',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_3 = '244', data_4 = '2232 M', data_6 = '3500 K',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '0335657', data_3 = '482', data_4 = '2135 M', data_6 = '20582 K',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '2004', data_3 = '016', data_4 = '2027 M', data_5 = '101 MSLS ', data_6 = '106 K',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_3 = '4565',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_1 = 'APLApollo Currency', data_2 = '0001319', data_3 = '421', data_4 = '1937 M', data_5 = '1469 BAPL', data_6 = '6566 K', data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_1 = ' NRGEnergi', data_2 = '196', data_3 = '2918', data_4 = '1937 M', data_5 = '988 MNRG', data_6 = '6615 K',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '0086231', data_3 = '261', data_4 = '1899 M', data_6 = '28008 K',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '0819222', data_5 = '2310 MVIA', data_6 = '84565 K',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_1 = 'XHVHaven Protocol', data_2 = '324', data_3 = '1988', data_4 = '1882 M', data_5 = '580 MXHV', data_6 = '397 M',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_0 = '85', data_1 = 'ACTAchain', data_2 = '0025009', data_3 = '207', data_4 = '1827 M', data_5 = '73060 MACT', data_6 = '69701 K',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_3 = '180', data_4 = '1813 M', data_6 = '58277 K',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '0423339', data_3 = '625', data_4 = '1774 M', data_6 = '10778 K',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '0017405', data_3 = '134', data_4 = '1762 M', data_6 = '2027 K',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '0008806', data_3 = '1207', data_4 = '1760 M', data_6 = '43170 K',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_1 = 'VITAEVitae', data_3 = '913', data_6 = '8953 K',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '0534107', data_3 = '367', data_4 = '1681 M', data_6 = '7711 K',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_3 = '184', data_4 = '1666 M', data_6 = '6401 K', data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '0064602', data_3 = '620', data_4 = '1615 M', data_6 = '13053 K', data_8 = ' Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_3 = '306', data_4 = '1510 M', data_6 = '14809 K',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_3 = '344', data_4 = '1494 M', data_6 = '20312 K',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '0802755', data_3 = '203', data_6 = '10956 K', data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '0973131', data_6 = '35162 K',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_3 = '567', data_6 = '27803 K', data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_2 = '0183915', data_3 = '087', data_4 = '1347 M', data_6 = '14627 K', data_8 = ' Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:27:09 -> Result : data_3 = '010', data_4 = '1344 M',  : Changed
+12-Nov-2018 11:27:09 -> Result : Update data Successfully 
+12-Nov-2018 11:27:14 -> Result : Swap:       7999484     1115548     6883936
+12-Nov-2018 11:27:14 -> Result : Render Processing from https://coinmarketcap.com/coins/ where id currencies
+12-Nov-2018 11:27:20 -> Result : Render Done..
+12-Nov-2018 11:27:20 -> Result : Load data from directory webpage where File : currencies.html
+12-Nov-2018 11:27:20 -> Result : Successfully Crawling data from https://coinmarketcap.com/coins/
+12-Nov-2018 11:27:20 -> Result : Record data is 100
+12-Nov-2018 11:27:20 -> Result : Created Json File -> currencies.json
+12-Nov-2018 11:27:20 -> Result : Compare Data
+12-Nov-2018 11:27:20 -> Result : data_2 = '638623', data_3 = '011', data_4 = '11094 B',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '21108', data_3 = '029', data_4 = '2177 B', data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '0501912', data_6 = '32619 M',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '51476', data_3 = '532', data_4 = '898 B', data_5 = '1745 MBCH', data_6 = '88768 M',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '0272523', data_3 = '164', data_4 = '516 B', data_6 = '11437 M',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_3 = '011', data_4 = '488 B', data_6 = '66857 M',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '5074', data_3 = '168', data_6 = '41167 M',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '0075650', data_3 = '064', data_6 = '2277 M',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '0022555', data_3 = '152', data_6 = '5483 M', data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView Markets View Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '16280', data_3 = '161', data_6 = '29796 M',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '1574', data_3 = '131', data_6 = '16138 M',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '923', data_3 = '174', data_4 = '97770 M', data_6 = '14489 M',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '0103587', data_3 = '1123', data_4 = '93229 M', data_6 = '3470 M',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '131', data_3 = '036', data_4 = '79334 M', data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView Markets View Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '0009926', data_3 = '273', data_4 = '55042 M', data_5 = '5545 BVET', data_6 = '970 M',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_3 = '386', data_4 = '50155 M',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = ' 0003050', data_3 = '472', data_4 = '35674 M',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_3 = '272', data_4 = '33611 M', data_6 = '11304 M',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_3 = '202', data_4 = '33082 M', data_6 = '1932 M', data_7 = '',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_3 = '224', data_4 = '31414 M', data_6 = '747 M',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_3 = '152', data_4 = '25956 M',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_1 = 'BTSBitShares', data_2 = '0094014', data_3 = '067', data_4 = '25114 M',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '183', data_3 = '029', data_4 = '24404 M', data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '0001277', data_4 = '23499 M', data_6 = '55695 K',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '0573567', data_3 = '328', data_4 = '22222 M', data_6 = '814 M',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '0019495', data_3 = '163', data_4 = '21530 M', data_6 = '125 M',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '0005708', data_3 = '527', data_4 = '21507 M',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '0730118', data_4 = '20705 M', data_6 = '94257 K',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_3 = '217',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '0182824', data_3 = '159', data_4 = '18328 M', data_6 = '4000 M',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_3 = '188', data_4 = '16051 M', data_6 = '224 M',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_3 = '263', data_4 = '14149 M', data_6 = '73282 K',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_4 = '12690 M', data_6 = '58448 K',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '0015168', data_3 = '057', data_4 = '12614 M', data_6 = '399 M', data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical Data Keep your crypto safe',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '205', data_3 = '401', data_4 = '11376 M', data_6 = '715 M',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '0922059', data_3 = '304', data_4 = '9788 M', data_5 = '10615 MWAN ',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_3 = '2098', data_4 = '8882 M', data_6 = '25819 K',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '0037427', data_3 = '462', data_4 = '8333 M', data_6 = '833 M',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_3 = '194', data_4 = '7754 M', data_6 = '629 M',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_3 = '042', data_4 = '7693 M', data_6 = '16070 K',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '0702921', data_3 = '154', data_4 = '7474 M', data_6 = '33316 K',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_3 = '336', data_4 = '7350 M', data_6 = '69576 K',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_1 = 'MONAMonaCoin', data_3 = '006', data_6 = '40036 K',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_1 = ' ZENHorizen', data_2 = '1422', data_3 = '095', data_4 = '7304 M',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '0002490', data_3 = '294', data_4 = '7174 M', data_6 = '56645 K',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '0064498', data_3 = '184', data_6 = '75157 K',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_3 = '202', data_4 = '6319 M', data_6 = '754 M',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '658', data_3 = '066', data_4 = '5082 M', data_6 = '238 M',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '0076482', data_3 = '613', data_4 = '4893 M',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '0088932', data_3 = '208', data_4 = '4831 M', data_6 = '55605 K',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '0105109', data_3 = '1539', data_4 = '4802 M', data_5 = '45684 MBOS', data_6 = '60344 K',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_3 = '209', data_4 = '4190 M', data_6 = '11421 K',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_3 = '119', data_4 = '3882 M', data_6 = '7223 K',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '0224377', data_3 = '059', data_4 = '3812 M', data_6 = '445 M',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '0632669', data_3 = '111', data_4 = '3778 M', data_6 = '14193 K',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_3 = '122',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '0489710', data_3 = '033', data_6 = '82230 K',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '0823626', data_3 = '799', data_4 = '3469 M', data_6 = '26173 K',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '132', data_3 = '859', data_4 = '3316 M', data_6 = '38521 K',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_3 = '088', data_6 = '21491 K',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_1 = 'GBYTEByteball Bytes', data_2 = '4320', data_3 = '424', data_4 = '2863 M', data_5 = '66281 KGBYTE', data_6 = '2609 K',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_1 = 'VTCVertcoin', data_2 = '0610814', data_3 = '300', data_4 = '2860 M', data_5 = '4682 MVTC', data_6 = '28083 K',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '0106404',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '0541934', data_3 = '332', data_4 = '2309 M', data_6 = '9221 K',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '145', data_3 = '183', data_4 = '2271 M', data_6 = '23869 K',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_3 = '244', data_4 = '2232 M', data_6 = '3500 K',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '0335657', data_3 = '482', data_4 = '2135 M', data_6 = '20582 K',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '2004', data_3 = '016', data_4 = '2027 M', data_5 = '101 MSLS ', data_6 = '106 K',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_3 = '4565',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_1 = 'APLApollo Currency', data_2 = '0001319', data_3 = '421', data_4 = '1937 M', data_5 = '1469 BAPL', data_6 = '6566 K', data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_1 = ' NRGEnergi', data_2 = '196', data_3 = '2918', data_4 = '1937 M', data_5 = '988 MNRG', data_6 = '6615 K',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '0086231', data_3 = '261', data_4 = '1899 M', data_6 = '28008 K',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '0819222', data_5 = '2310 MVIA', data_6 = '84565 K',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_1 = 'XHVHaven Protocol', data_2 = '324', data_3 = '1988', data_4 = '1882 M', data_5 = '580 MXHV', data_6 = '397 M',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_0 = '85', data_1 = 'ACTAchain', data_2 = '0025009', data_3 = '207', data_4 = '1827 M', data_5 = '73060 MACT', data_6 = '69701 K',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_3 = '180', data_4 = '1813 M', data_6 = '58277 K',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '0423339', data_3 = '625', data_4 = '1774 M', data_6 = '10778 K',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '0017405', data_3 = '134', data_4 = '1762 M', data_6 = '2027 K',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '0008806', data_3 = '1207', data_4 = '1760 M', data_6 = '43170 K',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_1 = 'VITAEVitae', data_3 = '913', data_6 = '8953 K',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '0534107', data_3 = '367', data_4 = '1681 M', data_6 = '7711 K',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_3 = '184', data_4 = '1666 M', data_6 = '6401 K', data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '0064602', data_3 = '620', data_4 = '1615 M', data_6 = '13053 K', data_8 = ' Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_3 = '306', data_4 = '1510 M', data_6 = '14809 K',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_3 = '344', data_4 = '1494 M', data_6 = '20312 K',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '0802755', data_3 = '203', data_6 = '10956 K', data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '0973131', data_6 = '35162 K',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_3 = '567', data_6 = '27803 K', data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_2 = '0183915', data_3 = '087', data_4 = '1347 M', data_6 = '14627 K', data_8 = ' Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:27:20 -> Result : data_3 = '010', data_4 = '1344 M',  : Changed
+12-Nov-2018 11:27:20 -> Result : Update data Successfully 
+12-Nov-2018 11:27:25 -> Result : Swap:       7999484     1115292     6884192
+12-Nov-2018 11:27:25 -> Result : Render Processing from https://coinmarketcap.com/coins/ where id currencies
+12-Nov-2018 11:27:31 -> Result : Render Done..
+12-Nov-2018 11:27:31 -> Result : Load data from directory webpage where File : currencies.html
+12-Nov-2018 11:27:32 -> Result : Successfully Crawling data from https://coinmarketcap.com/coins/
+12-Nov-2018 11:27:32 -> Result : Record data is 100
+12-Nov-2018 11:27:32 -> Result : Created Json File -> currencies.json
+12-Nov-2018 11:27:32 -> Result : Compare Data
+12-Nov-2018 11:27:32 -> Result : data_2 = '638623', data_3 = '011', data_4 = '11094 B',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '21108', data_3 = '029', data_4 = '2177 B',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '0501912', data_6 = '32619 M', data_7 = '',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '51476', data_3 = '532', data_4 = '898 B', data_5 = '1745 MBCH', data_6 = '88768 M',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '0272523', data_3 = '164', data_4 = '516 B', data_6 = '11437 M',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_3 = '011', data_4 = '488 B', data_6 = '66857 M',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '5074', data_3 = '168', data_6 = '41167 M',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '0075650', data_3 = '064', data_6 = '2277 M',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '0022555', data_3 = '152', data_6 = '5483 M', data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView Markets View Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '16280', data_3 = '161', data_6 = '29796 M',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '1574', data_3 = '131', data_6 = '16138 M',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '923', data_3 = '174', data_4 = '97770 M', data_6 = '14489 M',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '0103587', data_3 = '1123', data_4 = '93229 M', data_6 = '3470 M',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '131', data_3 = '036', data_4 = '79334 M', data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView Markets View Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '0009926', data_3 = '273', data_4 = '55042 M', data_5 = '5545 BVET', data_6 = '970 M',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_3 = '386', data_4 = '50155 M',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = ' 0003050', data_3 = '472', data_4 = '35674 M',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_3 = '272', data_4 = '33611 M', data_6 = '11304 M',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_3 = '202', data_4 = '33082 M', data_6 = '1932 M', data_7 = '',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_3 = '224', data_4 = '31414 M', data_6 = '747 M',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_3 = '152', data_4 = '25956 M',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '0094014', data_3 = '067', data_4 = '25114 M', data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '183', data_3 = '029', data_4 = '24404 M', data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '0001277', data_4 = '23499 M', data_6 = '55695 K',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '0573567', data_3 = '328', data_4 = '22222 M', data_6 = '814 M',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '0019495', data_3 = '163', data_4 = '21530 M', data_6 = '125 M',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '0005708', data_3 = '527', data_4 = '21507 M',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '0730118', data_4 = '20705 M', data_6 = '94257 K',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_3 = '217',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '0182824', data_3 = '159', data_4 = '18328 M', data_6 = '4000 M',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_3 = '188', data_4 = '16051 M',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_3 = '263', data_4 = '14149 M', data_6 = '73282 K',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_4 = '12690 M', data_6 = '58448 K',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '0015168', data_3 = '057', data_4 = '12614 M', data_6 = '399 M', data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical Data Keep your crypto safe',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '205', data_3 = '401', data_4 = '11376 M', data_6 = '715 M',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_5 = '99900 MARDR',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '0922059', data_3 = '304', data_4 = '9788 M', data_5 = '10615 MWAN ',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_3 = '2098', data_4 = '8882 M', data_6 = '25819 K',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '0037427', data_3 = '462', data_4 = '8333 M', data_6 = '833 M',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_3 = '194', data_4 = '7754 M', data_6 = '629 M',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_3 = '042', data_4 = '7693 M', data_6 = '16070 K',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '0702921', data_3 = '154', data_4 = '7474 M', data_6 = '33316 K',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_3 = '336', data_4 = '7350 M', data_6 = '69576 K',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_1 = 'MONAMonaCoin', data_3 = '006', data_6 = '40036 K', data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_1 = ' ZENHorizen', data_2 = '1422', data_3 = '095', data_4 = '7304 M',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '0002490', data_3 = '294', data_4 = '7174 M', data_6 = '56645 K',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '0064498', data_3 = '184', data_5 = '99900 MNXT', data_6 = '75157 K',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_3 = '202', data_4 = '6319 M', data_6 = '754 M',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '658', data_3 = '066', data_4 = '5082 M', data_6 = '238 M',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '0076482', data_3 = '613', data_4 = '4893 M',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '0088932', data_3 = '208', data_4 = '4831 M', data_6 = '55605 K',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '0105109', data_3 = '1539', data_4 = '4802 M', data_5 = '45684 MBOS', data_6 = '60344 K',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_3 = '209', data_4 = '4190 M', data_6 = '11421 K',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_3 = '119', data_4 = '3882 M', data_6 = '7223 K',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '0224377', data_3 = '059', data_4 = '3812 M', data_6 = '445 M',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '0632669', data_3 = '111', data_4 = '3778 M', data_6 = '14193 K',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_3 = '122',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '0489710', data_3 = '033', data_6 = '82230 K',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '0823626', data_3 = '799', data_4 = '3469 M', data_6 = '26173 K',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '132', data_3 = '859', data_4 = '3316 M', data_6 = '38521 K',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_3 = '088', data_6 = '21491 K',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_1 = 'GBYTEByteball Bytes', data_2 = '4320', data_3 = '424', data_4 = '2863 M', data_5 = '66281 KGBYTE', data_6 = '2609 K',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_1 = 'VTCVertcoin', data_2 = '0610814', data_3 = '300', data_4 = '2860 M', data_5 = '4682 MVTC', data_6 = '28083 K',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '0106404',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '0541934', data_3 = '332', data_4 = '2309 M', data_6 = '9221 K',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '145', data_3 = '183', data_4 = '2271 M', data_6 = '23869 K',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_3 = '244', data_4 = '2232 M', data_6 = '3500 K',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '0335657', data_3 = '482', data_4 = '2135 M', data_6 = '20582 K',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '2004', data_3 = '016', data_4 = '2027 M', data_5 = '101 MSLS ', data_6 = '106 K',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_3 = '4565',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_1 = 'APLApollo Currency', data_2 = '0001319', data_3 = '421', data_4 = '1937 M', data_5 = '1469 BAPL', data_6 = '6566 K', data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_1 = ' NRGEnergi', data_2 = '196', data_3 = '2918', data_4 = '1937 M', data_5 = '988 MNRG', data_6 = '6615 K',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '0086231', data_3 = '261', data_4 = '1899 M', data_6 = '28008 K',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '0819222', data_5 = '2310 MVIA', data_6 = '84565 K',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_1 = 'XHVHaven Protocol', data_2 = '324', data_3 = '1988', data_4 = '1882 M', data_5 = '580 MXHV', data_6 = '397 M',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_0 = '85', data_1 = 'ACTAchain', data_2 = '0025009', data_3 = '207', data_4 = '1827 M', data_5 = '73060 MACT', data_6 = '69701 K',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_3 = '180', data_4 = '1813 M', data_6 = '58277 K',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '0423339', data_3 = '625', data_4 = '1774 M', data_6 = '10778 K',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '0017405', data_3 = '134', data_4 = '1762 M', data_6 = '2027 K',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '0008806', data_3 = '1207', data_4 = '1760 M', data_6 = '43170 K',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_1 = 'VITAEVitae', data_3 = '913', data_6 = '8953 K',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '0534107', data_3 = '367', data_4 = '1681 M', data_6 = '7711 K',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_3 = '184', data_4 = '1666 M', data_6 = '6401 K', data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '0064602', data_3 = '620', data_4 = '1615 M', data_6 = '13053 K', data_8 = ' Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_3 = '306', data_4 = '1510 M', data_6 = '14809 K',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_3 = '344', data_4 = '1494 M', data_6 = '20312 K',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '0802755', data_3 = '203', data_6 = '10956 K', data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '0973131', data_6 = '35162 K',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_3 = '567', data_6 = '27803 K', data_8 = 'Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_2 = '0183915', data_3 = '087', data_4 = '1347 M', data_6 = '14627 K', data_8 = ' Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe',  : Changed
+12-Nov-2018 11:27:32 -> Result : data_3 = '010', data_4 = '1344 M',  : Changed
+12-Nov-2018 11:27:32 -> Result : Update data Successfully 
