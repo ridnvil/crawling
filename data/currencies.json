@@ -1,0 +1,1303 @@
+Array
+(
+    [0] => Array
+        (
+            [data_0] => 1
+            [data_1] => BTCBitcoin
+            [data_2] => 640260
+            [data_3] => 061
+            [data_4] => 11120 B
+            [data_5] => 1737 MBTC
+            [data_6] => 419 B
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from Watchlist Watchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [1] => Array
+        (
+            [data_0] => 2
+            [data_1] => ETHEthereum
+            [data_2] => 21154
+            [data_3] => 050
+            [data_4] => 2181 B
+            [data_5] => 10311 METH
+            [data_6] => 154 B
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [2] => Array
+        (
+            [data_0] => 3
+            [data_1] => XRPXRP
+            [data_2] => 0505136
+            [data_3] => 081
+            [data_4] => 2031 B
+            [data_5] => 4021 BXRP
+            [data_6] => 43161 M
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [3] => Array
+        (
+            [data_0] => 4
+            [data_1] => BCHBitcoin Cash
+            [data_2] => 54889
+            [data_3] => 482
+            [data_4] => 958 B
+            [data_5] => 1745 M BCH
+            [data_6] => 82139 M
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [4] => Array
+        (
+            [data_0] => 5
+            [data_1] => EOSEOS
+            [data_2] => 541
+            [data_3] => 195
+            [data_4] => 490 B
+            [data_5] => 90625 MEOS
+            [data_6] => 71812 M
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [5] => Array
+        (
+            [data_0] => 6
+            [data_1] => XLMStellar
+            [data_2] => 0258331
+            [data_3] => 135
+            [data_4] => 489 B
+            [data_5] => 1895 BXLM
+            [data_6] => 6589 M
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [6] => Array
+        (
+            [data_0] => 7
+            [data_1] => LTCLitecoin
+            [data_2] => 5226
+            [data_3] => 038
+            [data_4] => 309 B
+            [data_5] => 5909 MLTC
+            [data_6] => 36993 M
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [7] => Array
+        (
+            [data_0] => 8
+            [data_1] => ADACardano
+            [data_2] => 0074567
+            [data_3] => 323
+            [data_4] => 193 B
+            [data_5] => 2593 BADA
+            [data_6] => 2333 M
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [8] => Array
+        (
+            [data_0] => 9
+            [data_1] => XMRMonero
+            [data_2] => 10650
+            [data_3] => 058
+            [data_4] => 176 B
+            [data_5] => 1656 MXMR
+            [data_6] => 1210 M
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist full View ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [9] => Array
+        (
+            [data_0] => 10
+            [data_1] => TRXTRON
+            [data_2] => 0022989
+            [data_3] => 067
+            [data_4] => 151 B
+            [data_5] => 6575 BTRX
+            [data_6] => 5204 M
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [10] => Array
+        (
+            [data_0] => 11
+            [data_1] => DASHDash
+            [data_2] => 16087
+            [data_3] => 147
+            [data_4] => 136 B
+            [data_5] => 844 MDASH
+            [data_6] => 19339 M
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [11] => Array
+        (
+            [data_0] => 12
+            [data_1] => MIOTAIOTA
+            [data_2] => 0477934
+            [data_3] => 164
+            [data_4] => 133 B
+            [data_5] => 278 BMIOTA
+            [data_6] => 652 M
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [12] => Array
+        (
+            [data_0] => 13
+            [data_1] => NEONEO
+            [data_2] => 1610
+            [data_3] => 125
+            [data_4] => 105 B
+            [data_5] => 6500 MNEO
+            [data_6] => 13841 M
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [13] => Array
+        (
+            [data_0] => 14
+            [data_1] => ETCEthereum Classic
+            [data_2] => 948
+            [data_3] => 050
+            [data_4] => 100 B
+            [data_5] => 10592 METC
+            [data_6] => 13981 M
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [14] => Array
+        (
+            [data_0] => 15
+            [data_1] => XEMNEM
+            [data_2] => 0092142
+            [data_3] => 096
+            [data_4] => 82928 M
+            [data_5] => 900 BXEM
+            [data_6] => 445 M
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [15] => Array
+        (
+            [data_0] => 16
+            [data_1] => XTZTezos
+            [data_2] => 130
+            [data_3] => 143
+            [data_4] => 78745 M
+            [data_5] => 60749 MXTZ
+            [data_6] => 284 M
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [16] => Array
+        (
+            [data_0] => 17
+            [data_1] => ZECZcash
+            [data_2] => 13374
+            [data_3] => 102
+            [data_4] => 69575 M
+            [data_5] => 520 MZEC
+            [data_6] => 11175 M
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [17] => Array
+        (
+            [data_0] => 18
+            [data_1] => VETVeChain
+            [data_2] => 0010208
+            [data_3] => 197
+            [data_4] => 56608 M
+            [data_5] => 5545 BVET
+            [data_6] => 1061 M
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [18] => Array
+        (
+            [data_0] => 19
+            [data_1] => BTGBitcoin Gold
+            [data_2] => 2951
+            [data_3] => 055
+            [data_4] => 51159 M
+            [data_5] => 1733 MBTG
+            [data_6] => 393 M
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [19] => Array
+        (
+            [data_0] => 20
+            [data_1] => DOGEDogecoin
+            [data_2] => 0003135
+            [data_3] => 447
+            [data_4] => 36657 M
+            [data_5] => 11692 BDOGE
+            [data_6] => 1685 M
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [20] => Array
+        (
+            [data_0] => 21
+            [data_1] => DCRDecred
+            [data_2] => 4012
+            [data_3] => 250
+            [data_4] => 35258 M
+            [data_5] => 879 MDCR
+            [data_6] => 157 M
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [21] => Array
+        (
+            [data_0] => 22
+            [data_1] => QTUMQtum
+            [data_2] => 390
+            [data_3] => 254
+            [data_4] => 34677 M
+            [data_5] => 8902 MQTUM
+            [data_6] => 11216 M
+            [data_7] => 
+            [data_8] =>  Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [22] => Array
+        (
+            [data_0] => 23
+            [data_1] => ONTOntology
+            [data_2] => 163
+            [data_3] => 181
+            [data_4] => 33804 M
+            [data_5] => 20702 MONT
+            [data_6] => 2424 M
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [23] => Array
+        (
+            [data_0] => 24
+            [data_1] => LSKLisk
+            [data_2] => 275
+            [data_3] => 153
+            [data_4] => 30768 M
+            [data_5] => 11200 MLSK
+            [data_6] => 437 M
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [24] => Array
+        (
+            [data_0] => 25
+            [data_1] => BCDBitcoin Diamond
+            [data_2] => 172
+            [data_3] => 144
+            [data_4] => 26424 M
+            [data_5] => 15376 MBCD
+            [data_6] => 102 M
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [25] => Array
+        (
+            [data_0] => 26
+            [data_1] => BTSBitShares
+            [data_2] => 0094350
+            [data_3] => 120
+            [data_4] => 25198 M
+            [data_5] => 267 BBTS
+            [data_6] => 320 M
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [26] => Array
+        (
+            [data_0] => 27
+            [data_1] => NANONano
+            [data_2] => 186
+            [data_3] => 029
+            [data_4] => 24771 M
+            [data_5] => 13325 MNANO
+            [data_6] => 334 M
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [27] => Array
+        (
+            [data_0] => 28
+            [data_1] => BCNBytecoin
+            [data_2] => 0001293
+            [data_3] => 118
+            [data_4] => 23802 M
+            [data_5] => 18407 BBCN
+            [data_6] => 47887 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [28] => Array
+        (
+            [data_0] => 29
+            [data_1] => ICXICON
+            [data_2] => 0594327
+            [data_3] => 300
+            [data_4] => 23026 M
+            [data_5] => 38743 MICX
+            [data_6] => 986 M
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [29] => Array
+        (
+            [data_0] => 30
+            [data_1] => SCSiacoin
+            [data_2] => 0006057
+            [data_3] => 222
+            [data_4] => 22823 M
+            [data_5] => 3768 BSC
+            [data_6] => 330 M
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [30] => Array
+        (
+            [data_0] => 31
+            [data_1] => DGBDigiByte
+            [data_2] => 0020370
+            [data_3] => 061
+            [data_4] => 22476 M
+            [data_5] => 1103 BDGB
+            [data_6] => 171 M
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [31] => Array
+        (
+            [data_0] => 32
+            [data_1] => STEEMSteem
+            [data_2] => 0756649
+            [data_3] => 305
+            [data_4] => 21383 M
+            [data_5] => 28260 MSTEEM
+            [data_6] => 115 M
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [32] => Array
+        (
+            [data_0] => 33
+            [data_1] => XVGVerge
+            [data_2] => 0013245
+            [data_3] => 166
+            [data_4] => 20095 M
+            [data_5] => 1517 BXVG
+            [data_6] => 197 M
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from Watchlist Watchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [33] => Array
+        (
+            [data_0] => 34
+            [data_1] => BTMBytom
+            [data_2] => 0188838
+            [data_3] => 138
+            [data_4] => 18931 M
+            [data_5] => 100 BBTM
+            [data_6] => 5058 M
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [34] => Array
+        (
+            [data_0] => 35
+            [data_1] => WAVESWaves
+            [data_2] => 176
+            [data_3] => 332
+            [data_4] => 17566 M
+            [data_5] => 10000 MWAVES
+            [data_6] => 342 M
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [35] => Array
+        (
+            [data_0] => 36
+            [data_1] => ETPMetaverse ETP
+            [data_2] => 303
+            [data_3] => 356
+            [data_4] => 16218 M
+            [data_5] => 5352 METP
+            [data_6] => 296 M
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [36] => Array
+        (
+            [data_0] => 37
+            [data_1] => STRATStratis
+            [data_2] => 148
+            [data_3] => 384
+            [data_4] => 14621 M
+            [data_5] => 9909 MSTRAT
+            [data_6] => 72913 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [37] => Array
+        (
+            [data_0] => 38
+            [data_1] => KMDKomodo
+            [data_2] => 119
+            [data_3] => 231
+            [data_4] => 13199 M
+            [data_5] => 11059 MKMD
+            [data_6] => 30068 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [38] => Array
+        (
+            [data_0] => 39
+            [data_1] => ETNElectroneum
+            [data_2] => 0015071
+            [data_3] => 911
+            [data_4] => 12511 M
+            [data_5] => 830 BETN
+            [data_6] => 472 M
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [39] => Array
+        (
+            [data_0] => 40
+            [data_1] => CNXCryptonex
+            [data_2] => 191
+            [data_3] => 477
+            [data_4] => 10606 M
+            [data_5] => 5554 MCNX
+            [data_6] => 680 M
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [40] => Array
+        (
+            [data_0] => 41
+            [data_1] => ARDRArdor
+            [data_2] => 0102918
+            [data_3] => 147
+            [data_4] => 10281 M
+            [data_5] => 99900 MARDR
+            [data_6] => 41529 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [41] => Array
+        (
+            [data_0] => 42
+            [data_1] => WANWanchain
+            [data_2] => 0955645
+            [data_3] => 316
+            [data_4] => 10144 M
+            [data_5] => 10615 MWAN
+            [data_6] => 338 M
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [42] => Array
+        (
+            [data_0] => 43
+            [data_1] => RVNRavencoin
+            [data_2] => 0037995
+            [data_3] => 580
+            [data_4] => 8399 M
+            [data_5] => 221 BRVN
+            [data_6] => 1298 M
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [43] => Array
+        (
+            [data_0] => 44
+            [data_1] => HTHuobi Token
+            [data_2] => 157
+            [data_3] => 078
+            [data_4] => 7827 M
+            [data_5] => 5000 MHT
+            [data_6] => 639 M
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [44] => Array
+        (
+            [data_0] => 45
+            [data_1] => GXSGXChain
+            [data_2] => 129
+            [data_3] => 135
+            [data_4] => 7763 M
+            [data_5] => 6000 MGXS
+            [data_6] => 9891 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [45] => Array
+        (
+            [data_0] => 46
+            [data_1] => ARKArk
+            [data_2] => 0728141
+            [data_3] => 322
+            [data_4] => 7738 M
+            [data_5] => 10627 MARK
+            [data_6] => 40522 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [46] => Array
+        (
+            [data_0] => 47
+            [data_1] => HCHyperCash
+            [data_2] => 177
+            [data_3] => 233
+            [data_4] => 7699 M
+            [data_5] => 4353 MHC
+            [data_6] => 53761 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [47] => Array
+        (
+            [data_0] => 48
+            [data_1] => ZENHorizen
+            [data_2] => 1501
+            [data_3] => 135
+            [data_4] => 7689 M
+            [data_5] => 512 MZEN
+            [data_6] => 205 M
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [48] => Array
+        (
+            [data_0] => 49
+            [data_1] => RDDReddCoin 
+            [data_2] => 0002569
+            [data_3] => 188
+            [data_4] => 7401 M
+            [data_5] => 2881 BRDD
+            [data_6] => 74725 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [49] => Array
+        (
+            [data_0] => 50 
+            [data_1] => PIVXPIVX
+            [data_2] => 130
+            [data_3] => 041
+            [data_4] => 7383 M
+            [data_5] => 5678 MPIVX
+            [data_6] => 26783 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [50] => Array
+        (
+            [data_0] => 51
+            [data_1] => MONAMonaCoin
+            [data_2] => 115
+            [data_3] => 017
+            [data_4] => 7341 M
+            [data_5] => 6356 MMONA
+            [data_6] => 35921 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [51] => Array
+        (
+            [data_0] => 52
+            [data_1] => MOACMOAC
+            [data_2] => 113
+            [data_3] => 305
+            [data_4] => 7084 M
+            [data_5] => 6246 MMOAC
+            [data_6] => 4057 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [52] => Array
+        (
+            [data_0] => 53
+            [data_1] => NASNebulas
+            [data_2] => 142
+            [data_3] => 048
+            [data_4] => 6482 M
+            [data_5] =>  4550 MNAS
+            [data_6] => 740 M
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [53] => Array
+        (
+            [data_0] => 54
+            [data_1] => NXTNxt
+            [data_2] => 0063788
+            [data_3] => 424
+            [data_4] => 6372 M
+            [data_5] => 99900 MNXT
+            [data_6] => 96076 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [54] => Array
+        (
+            [data_0] => 55
+            [data_1] => XZCZcoin 
+            [data_2] => 1055
+            [data_3] => 408
+            [data_4] => 6077 M
+            [data_5] => 576 MXZC
+            [data_6] => 107 M
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [55] => Array
+        (
+            [data_0] => 56
+            [data_1] => BOSBOScoin
+            [data_2] => 0130144
+            [data_3] => 923
+            [data_4] => 5945 M
+            [data_5] => 45684 MBOS
+            [data_6] => 51817 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [56] => Array
+        (
+            [data_0] => 57
+            [data_1] => ELAElastos
+            [data_2] => 661
+            [data_3] => 011
+            [data_4] => 5106 M
+            [data_5] => 772 MELA
+            [data_6] => 183 M
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [57] => Array
+        (
+            [data_0] => 58
+            [data_1] => SYSSyscoin
+            [data_2] => 0087764
+            [data_3] => 188
+            [data_4] => 4767 M
+            [data_5] => 54312 MSYS
+            [data_6] => 28710 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [58] => Array
+        (
+            [data_0] => 59
+            [data_1] => GOGoChain
+            [data_2] => 0069947
+            [data_3] => 536
+            [data_4] => 4412 M
+            [data_5] => 63079 MGO
+            [data_6] => 302 M
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [59] => Array
+        (
+            [data_0] => 60
+            [data_1] => BTCPBitcoin Private
+            [data_2] => 201
+            [data_3] => 098
+            [data_4] => 4116 M
+            [data_5] => 2052 MBTCP
+            [data_6] => 10008 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [60] => Array
+        (
+            [data_0] => 61
+            [data_1] => EMCEmercoin
+            [data_2] => 0950866
+            [data_3] => 070
+            [data_4] => 4005 M
+            [data_5] => 4212 MEMC
+            [data_6] => 21291 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [61] => Array
+        (
+            [data_0] => 62
+            [data_1] => FCTFactom
+            [data_2] => 441
+            [data_3] => 240
+            [data_4] => 3857 M
+            [data_5] => 875 MFCT
+            [data_6] => 4827 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist full View ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [62] => Array
+        (
+            [data_0] => 63
+            [data_1] => PPCPeercoin
+            [data_2] => 152
+            [data_3] => 216
+            [data_4] => 3815 M
+            [data_5] => 2504 MPPC
+            [data_6] => 68079 K
+            [data_7] => 
+            [data_8] =>  Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [63] => Array
+        (
+            [data_0] => 64
+            [data_1] => NXSNexus
+            [data_2] => 0638611
+            [data_3] => 228
+            [data_4] => 3813 M
+            [data_5] => 5971 MNXS
+            [data_6] => 25902 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [64] => Array
+        (
+            [data_0] => 65
+            [data_1] => WICCWaykiChain
+            [data_2] => 0219796
+            [data_3] => 035
+            [data_4] => 3734 M
+            [data_5] => 16989 MWICC
+            [data_6] => 381 M
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [65] => Array
+        (
+            [data_0] => 66
+            [data_1] => BCOBridgeCoin
+            [data_2] => 133
+            [data_3] => 107
+            [data_4] => 3591 M
+            [data_5] => 2700 MBCO
+            [data_6] => 1324 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [66] => Array
+        (
+            [data_0] => 67
+            [data_1] => GRSGroestlcoin
+            [data_2] => 0497827
+            [data_3] => 284
+            [data_4] => 3548 M
+            [data_5] => 7127 MGRS
+            [data_6] => 51754 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [67] => Array
+        (
+            [data_0] => 68
+            [data_1] => NEBLNeblio
+            [data_2] => 225
+            [data_3] => 465
+            [data_4] => 3081 M
+            [data_5] => 1371 MNEBL
+            [data_6] => 33399 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from Watchlist Watchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [68] => Array
+        (
+            [data_0] => 69
+            [data_1] => GBYTEByteball Bytes
+            [data_2] => 4531
+            [data_3] => 138
+            [data_4] => 3003 M
+            [data_5] => 66281 KGBYTE
+            [data_6] => 1914 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [69] => Array
+        (
+            [data_0] => 70
+            [data_1] => SKYSkycoin
+            [data_2] => 292
+            [data_3] => 137
+            [data_4] => 2919 M
+            [data_5] => 1000 MSKY
+            [data_6] => 77235 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [70] => Array
+        (
+            [data_0] => 71
+            [data_1] => VTCVertcoin
+            [data_2] => 0619427
+            [data_3] => 683
+            [data_4] => 2898 M
+            [data_5] => 4679 MVTC
+            [data_6] => 31757 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [71] => Array
+        (
+            [data_0] => 72
+            [data_1] => EMC2Einsteinium
+            [data_2] => 0106817
+            [data_3] => 214
+            [data_4] => 2327 M
+            [data_5] => 21787 MEMC2
+            [data_6] => 162 M
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [72] => Array
+        (
+            [data_0] => 73
+            [data_1] => UBQUbiq
+            [data_2] => 0544435
+            [data_3] => 014
+            [data_4] => 2320 M
+            [data_5] => 4261 MUBQ
+            [data_6] => 4685 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical Data Keep your crypto safe
+        )
+
+    [73] => Array
+        (
+            [data_0] => 74
+            [data_1] => NAVNavCoin
+            [data_2] => 0361480
+            [data_3] => 184
+            [data_4] => 2299 M
+            [data_5] => 6360 MNAV
+            [data_6] => 17233 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [74] => Array
+        (
+            [data_0] => 75
+            [data_1] => BLOCKBlocknet
+            [data_2] => 399
+            [data_3] => 101
+            [data_4] => 2162 M
+            [data_5] => 542 MBLOCK
+            [data_6] => 4758 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [75] => Array
+        (
+            [data_0] => 76
+            [data_1] => TPAYTokenPay
+            [data_2] => 136
+            [data_3] => 2242
+            [data_4] => 2132 M
+            [data_5] => 1565 MTPAY 
+            [data_6] => 30592 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [76] => Array
+        (
+            [data_0] => 77
+            [data_1] => APLApollo Currency
+            [data_2] => 0001373
+            [data_3] => 139
+            [data_4] => 2017 M
+            [data_5] => 1469 BAPL
+            [data_6] => 4232 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [77] => Array
+        (
+            [data_0] => 78
+            [data_1] => SLSSaluS
+            [data_2] => 1975
+            [data_3] => 249
+            [data_4] => 1998 M
+            [data_5] => 101 MSLS
+            [data_6] => 336 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [78] => Array
+        (
+            [data_0] => 79
+            [data_1] => POAPOA Network
+            [data_2] => 0089724
+            [data_3] => 232
+            [data_4] => 1975 M
+            [data_5] => 22017 MPOA
+            [data_6] => 48023 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [79] => Array
+        (
+            [data_0] => 80
+            [data_1] => NIXNIX
+            [data_2] => 0465991
+            [data_3] => 488
+            [data_4] => 1952 M
+            [data_5] => 4188 MNIX
+            [data_6] => 12588 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [80] => Array
+        (
+            [data_0] => 81
+            [data_1] => XDNDigitalNote
+            [data_2] => 0002747
+            [data_3] => 115
+            [data_4] => 1903 M
+            [data_5] => 693 BXDN
+            [data_6] => 51895 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [81] => Array
+        (
+            [data_0] => 82
+            [data_1] => SMARTSmartCash
+            [data_2] => 0017229
+            [data_3] => 609
+            [data_4] => 1816 M
+            [data_5] =>  105 BSMART
+            [data_6] => 9733 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [82] => Array
+        (
+            [data_0] => 83
+            [data_1] => ACTAchain
+            [data_2] => 0024835
+            [data_3] => 044
+            [data_4] => 1814 M
+            [data_5] => 73060 MACT
+            [data_6] => 80555 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [83] => Array
+        (
+            [data_0] => 84
+            [data_1] => XWCWhiteCoin
+            [data_2] => 0071269
+            [data_3] => 389
+            [data_4] => 1782 M
+            [data_5] => 25004 MXWC
+            [data_6] => 10181 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [84] => Array
+        (
+            [data_0] => 85
+            [data_1] => BAYBitBay
+            [data_2] => 0017487
+            [data_3] => 391
+            [data_4] => 1770 M
+            [data_5] => 101 BBAY
+            [data_6] => 3560 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [85] => Array
+        (
+            [data_0] => 86
+            [data_1] => LOKILoki
+            [data_2] => 0556620
+            [data_3] => 576
+            [data_4] => 1747 M
+            [data_5] => 3139 MLOKI
+            [data_6] => 5728 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [86] => Array
+        (
+            [data_0] => 87
+            [data_1] => XHVHaven Protocol
+            [data_2] => 295
+            [data_3] => 2611
+            [data_4] => 1701 M
+            [data_5] => 576 MXHV
+            [data_6] => 173 M
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [87] => Array
+        (
+            [data_0] => 88
+            [data_1] => VIAViacoin
+            [data_2] => 0733134
+            [data_3] => 019
+            [data_4] => 1694 M
+            [data_5] => 2310 MVIA
+            [data_6] => 65839 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [88] => Array
+        (
+            [data_0] => 89
+            [data_1] => BURSTBurst
+            [data_2] => 0008288
+            [data_3] => 259
+            [data_4] => 1656 M
+            [data_5] => 200 BBURST
+            [data_6] => 6264 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [89] => Array
+        (
+            [data_0] => 90
+            [data_1] => PARTParticl
+            [data_2] => 198
+            [data_3] => 1037
+            [data_4] => 1599 M
+            [data_5] => 807 MPART
+            [data_6] => 6919 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [90] => Array
+        (
+            [data_0] => 91
+            [data_1] => NTYNexty
+            [data_2] => 0000108
+            [data_3] => 218
+            [data_4] => 1598 M
+            [data_5] => 14831 BNTY
+            [data_6] => 15271 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [91] => Array
+        (
+            [data_0] => 92
+            [data_1] => VITAEVitae
+            [data_2] => 166
+            [data_3] => 877
+            [data_4] => 1565 M
+            [data_5] => 941 MVITAE
+            [data_6] => 3616 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [92] => Array
+        (
+            [data_0] => 93
+            [data_1] => NVCNovacoin
+            [data_2] => 674
+            [data_3] => 118
+            [data_4] => 1505 M
+            [data_5] => 223 MNVC
+            [data_6] => 806 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [93] => Array
+        (
+            [data_0] => 94
+            [data_1] => PASCPascal Coin
+            [data_2] => 0639299
+            [data_3] => 440
+            [data_4] => 1499 M
+            [data_5] => 2344 MPASC
+            [data_6] => 13164 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [94] => Array
+        (
+            [data_0] => 95
+            [data_1] => ZCLZClassic
+            [data_2] => 278
+            [data_3] => 117
+            [data_4] => 1457 M
+            [data_5] => 525 MZCL
+            [data_6] => 10199 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [95] => Array
+        (
+            [data_0] => 96
+            [data_1] => SBDSteem Dollars
+            [data_2] => 0969384
+            [data_3] => 095
+            [data_4] => 1453 M
+            [data_5] => 1499 MSBD
+            [data_6] => 21724 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [96] => Array
+        (
+            [data_0] => 97
+            [data_1] => XBYXTRABYTES
+            [data_2] => 0032703
+            [data_3] => 577
+            [data_4] => 1406 M
+            [data_5] => 43000 MXBY
+            [data_6] => 2354 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [97] => Array
+        (
+            [data_0] => 98
+            [data_1] => CLOAKCloakCoin
+            [data_2] => 269
+            [data_3] => 202
+            [data_4] => 1403 M
+            [data_5] => 521 MCLOAK
+            [data_6] => 11916 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [98] => Array
+        (
+            [data_0] => 99
+            [data_1] => XLQALQO
+            [data_2] => 0237693
+            [data_3] => 293
+            [data_4] => 1365 M
+            [data_5] => 5741 MXLQ
+            [data_6] => 2922 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+    [99] => Array
+        (
+            [data_0] => 100
+            [data_1] => XSNStakenet
+            [data_2] => 0183082
+            [data_3] => 171
+            [data_4] => 1339 M
+            [data_5] => 7316 MXSN
+            [data_6] =>  12021 K
+            [data_7] => 
+            [data_8] => Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe
+        )
+
+)

@@ -1,0 +1,157 @@
+Array
+(
+    [0] => Array
+        (
+            [data_0] => 
+            [data_1] => Aluminium
+            [data_2] => 
+            [data_3] => 203425
+            [data_4] => 203000
+            [data_5] => 203725
+            [data_6] => 203150
+            [data_7] => 425
+            [data_8] => 021
+            [data_9] => 114305
+        )
+
+    [1] => Array
+        (
+            [data_0] => 
+            [data_1] => Emas
+            [data_2] => Des 18
+            [data_3] => 122980
+            [data_4] => 123030
+            [data_5] => 123200
+            [data_6] => 122890
+            [data_7] => 050
+            [data_8] => 004
+            [data_9] => 114328
+        )
+
+    [2] => Array
+        (
+            [data_0] => 
+            [data_1] => Lead
+            [data_2] => 
+            [data_3] => 208050
+            [data_4] => 207975
+            [data_5] => 208250
+            [data_6] => 207275
+            [data_7] => 075
+            [data_8] => 004
+            [data_9] => 114414
+        )
+
+    [3] => Array
+        (
+            [data_0] => 
+            [data_1] => Nikel
+            [data_2] => 
+            [data_3] => 1249500
+            [data_4] => 1257000
+            [data_5] => 1263250
+            [data_6] => 1245750
+            [data_7] => 7500
+            [data_8] => 060
+            [data_9] => 114343
+        )
+
+    [4] => Array
+        (
+            [data_0] => 
+            [data_1] => Palladium
+            [data_2] => Des 18
+            [data_3] => 107900
+            [data_4] => 107820
+            [data_5] => 107970
+            [data_6] => 107520
+            [data_7] => 080
+            [data_8] => 007
+            [data_9] => 114403
+        )
+
+    [5] => Array
+        (
+            [data_0] => 
+            [data_1] => Perak
+            [data_2] => Des 18
+            [data_3] => 14705
+            [data_4] => 14727
+            [data_5] => 14775
+            [data_6] => 14690
+            [data_7] => 0022
+            [data_8] => 015
+            [data_9] => 113945
+        )
+
+    [6] => Array
+        (
+            [data_0] => 
+            [data_1] => Platinum
+            [data_2] => Jan 19
+            [data_3] => 84620
+            [data_4] => 84570
+            [data_5] => 84840
+            [data_6] => 84530
+            [data_7] => 050
+            [data_8] => 006
+            [data_9] => 114346
+        )
+
+    [7] => Array
+        (
+            [data_0] => 
+            [data_1] => Seng
+            [data_2] => 
+            [data_3] => 258250
+            [data_4] => 259725
+            [data_5] => 260600
+            [data_6] => 257750
+            [data_7] => 1475
+            [data_8] => 057
+            [data_9] => 114339
+        )
+
+    [8] => Array
+        (
+            [data_0] => 
+            [data_1] => Tembaga
+            [data_2] => Des 18
+            [data_3] => 2779
+            [data_4] => 2779
+            [data_5] => 2793
+            [data_6] => 2775
+            [data_7] => 0000
+            [data_8] => 000
+            [data_9] => 114353
+        )
+
+    [9] => Array
+        (
+            [data_0] => 
+            [data_1] => Tembaga
+            [data_2] => 
+            [data_3] => 622225
+            [data_4] => 624075
+            [data_5] => 625275
+            [data_6] => 621725
+            [data_7] => 1850
+            [data_8] => 030
+            [data_9] => 114357
+        )
+
+    [10] => Array
+        (
+            [data_0] => 
+            [data_1] => Timah
+            [data_2] => 
+            [data_3] => 1913250
+            [data_4] => 1914500
+            [data_5] => 1914750
+            [data_6] => 1908750
+            [data_7] => 1250
+            [data_8] => 007
+            [data_9] => 113713
+        )
+
+)

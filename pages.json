@@ -1,0 +1,743 @@
+Proses Render Data..
+
+Website : https://coinmarketcap.com/coins/ ID : currencies 
+Not Compare
+              total        used        free      shared  buff/cache   available
+Mem:        8052712     1292296     4827856      256032     1932560     6161164
+Swap:       7999484           0     7999484
+
+Website : https://coinmarketcap.com/coins/ ID : currencies 
+Begin Compare
+array(100) {
+  [0]=>
+  array(0) {
+  }
+  [1]=>
+  array(0) {
+  }
+  [2]=>
+  array(1) {
+    ["data_7"]=>
+    string(1) " "
+  }
+  [3]=>
+  array(1) {
+    ["data_5"]=>
+    string(10) "1745 MBCH "
+  }
+  [4]=>
+  array(0) {
+  }
+  [5]=>
+  array(0) {
+  }
+  [6]=>
+  array(1) {
+    ["data_1"]=>
+    string(11) "LTCLitecoin"
+  }
+  [7]=>
+  array(1) {
+    ["data_1"]=>
+    string(10) "ADACardano"
+  }
+  [8]=>
+  array(1) {
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [9]=>
+  array(0) {
+  }
+  [10]=>
+  array(0) {
+  }
+  [11]=>
+  array(1) {
+    ["data_5"]=>
+    string(10) "278 BMIOTA"
+  }
+  [12]=>
+  array(0) {
+  }
+  [13]=>
+  array(0) {
+  }
+  [14]=>
+  array(1) {
+    ["data_0"]=>
+    string(3) "15 "
+  }
+  [15]=>
+  array(0) {
+  }
+  [16]=>
+  array(0) {
+  }
+  [17]=>
+  array(0) {
+  }
+  [18]=>
+  array(0) {
+  }
+  [19]=>
+  array(0) {
+  }
+  [20]=>
+  array(0) {
+  }
+  [21]=>
+  array(0) {
+  }
+  [22]=>
+  array(1) {
+    ["data_7"]=>
+    string(1) " "
+  }
+  [23]=>
+  array(1) {
+    ["data_5"]=>
+    string(10) "11200 MLSK"
+  }
+  [24]=>
+  array(0) {
+  }
+  [25]=>
+  array(1) {
+    ["data_8"]=>
+    string(115) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe "
+  }
+  [26]=>
+  array(1) {
+    ["data_8"]=>
+    string(115) "Add to WatchlistRemove from WatchlistWatchlist full View ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [27]=>
+  array(0) {
+  }
+  [28]=>
+  array(0) {
+  }
+  [29]=>
+  array(1) {
+    ["data_6"]=>
+    string(5) "330 M"
+  }
+  [30]=>
+  array(0) {
+  }
+  [31]=>
+  array(0) {
+  }
+  [32]=>
+  array(1) {
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [33]=>
+  array(1) {
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [34]=>
+  array(0) {
+  }
+  [35]=>
+  array(0) {
+  }
+  [36]=>
+  array(0) {
+  }
+  [37]=>
+  array(0) {
+  }
+  [38]=>
+  array(0) {
+  }
+  [39]=>
+  array(0) {
+  }
+  [40]=>
+  array(1) {
+    ["data_5"]=>
+    string(12) "99900 MARDR "
+  }
+  [41]=>
+  array(0) {
+  }
+  [42]=>
+  array(0) {
+  }
+  [43]=>
+  array(2) {
+    ["data_1"]=>
+    string(14) " HTHuobi Token"
+    ["data_8"]=>
+    string(115) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView Markets View Historical DataKeep your crypto safe"
+  }
+  [44]=>
+  array(0) {
+  }
+  [45]=>
+  array(0) {
+  }
+  [46]=>
+  array(1) {
+    ["data_5"]=>
+    string(8) "4353 MHC"
+  }
+  [47]=>
+  array(0) {
+  }
+  [48]=>
+  array(0) {
+  }
+  [49]=>
+  array(0) {
+  }
+  [50]=>
+  array(0) {
+  }
+  [51]=>
+  array(0) {
+  }
+  [52]=>
+  array(1) {
+    ["data_5"]=>
+    string(9) "4550 MNAS"
+  }
+  [53]=>
+  array(1) {
+    ["data_2"]=>
+    string(7) "0063788"
+  }
+  [54]=>
+  array(1) {
+    ["data_1"]=>
+    string(8) "XZCZcoin"
+  }
+  [55]=>
+  array(0) {
+  }
+  [56]=>
+  array(0) {
+  }
+  [57]=>
+  array(0) {
+  }
+  [58]=>
+  array(1) {
+    ["data_5"]=>
+    string(10) " 63079 MGO"
+  }
+  [59]=>
+  array(0) {
+  }
+  [60]=>
+  array(1) {
+    ["data_1"]=>
+    string(11) "EMCEmercoin"
+  }
+  [61]=>
+  array(0) {
+  }
+  [62]=>
+  array(0) {
+  }
+  [63]=>
+  array(0) {
+  }
+  [64]=>
+  array(0) {
+  }
+  [65]=>
+  array(0) {
+  }
+  [66]=>
+  array(0) {
+  }
+  [67]=>
+  array(0) {
+  }
+  [68]=>
+  array(1) {
+    ["data_8"]=>
+    string(115) " Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [69]=>
+  array(0) {
+  }
+  [70]=>
+  array(0) {
+  }
+  [71]=>
+  array(0) {
+  }
+  [72]=>
+  array(0) {
+  }
+  [73]=>
+  array(0) {
+  }
+  [74]=>
+  array(0) {
+  }
+  [75]=>
+  array(1) {
+    ["data_5"]=>
+    string(10) "1565 MTPAY"
+  }
+  [76]=>
+  array(0) {
+  }
+  [77]=>
+  array(0) {
+  }
+  [78]=>
+  array(0) {
+  }
+  [79]=>
+  array(0) {
+  }
+  [80]=>
+  array(0) {
+  }
+  [81]=>
+  array(1) {
+    ["data_5"]=>
+    string(11) " 105 BSMART"
+  }
+  [82]=>
+  array(0) {
+  }
+  [83]=>
+  array(0) {
+  }
+  [84]=>
+  array(0) {
+  }
+  [85]=>
+  array(0) {
+  }
+  [86]=>
+  array(0) {
+  }
+  [87]=>
+  array(0) {
+  }
+  [88]=>
+  array(0) {
+  }
+  [89]=>
+  array(1) {
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [90]=>
+  array(1) {
+    ["data_8"]=>
+    string(115) "Add to WatchlistRemove from WatchlistWatchlist full View ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [91]=>
+  array(1) {
+    ["data_8"]=>
+    string(115) " Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [92]=>
+  array(0) {
+  }
+  [93]=>
+  array(0) {
+  }
+  [94]=>
+  array(0) {
+  }
+  [95]=>
+  array(0) {
+  }
+  [96]=>
+  array(0) {
+  }
+  [97]=>
+  array(0) {
+  }
+  [98]=>
+  array(1) {
+    ["data_5"]=>
+    string(9) "5741 MXLQ"
+  }
+  [99]=>
+  array(1) {
+    ["data_6"]=>
+    string(7) "12021 K"
+  }
+}
+              total        used        free      shared  buff/cache   available
+Mem:        8052712     1290516     4817404      267952     1944792     6150932
+Swap:       7999484           0     7999484
+
+Website : https://coinmarketcap.com/coins/ ID : currencies 
+Begin Compare
+array(100) {
+  [0]=>
+  array(1) {
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [1]=>
+  array(0) {
+  }
+  [2]=>
+  array(1) {
+    ["data_7"]=>
+    string(1) " "
+  }
+  [3]=>
+  array(1) {
+    ["data_5"]=>
+    string(10) "1745 MBCH "
+  }
+  [4]=>
+  array(0) {
+  }
+  [5]=>
+  array(0) {
+  }
+  [6]=>
+  array(0) {
+  }
+  [7]=>
+  array(0) {
+  }
+  [8]=>
+  array(1) {
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [9]=>
+  array(0) {
+  }
+  [10]=>
+  array(0) {
+  }
+  [11]=>
+  array(0) {
+  }
+  [12]=>
+  array(0) {
+  }
+  [13]=>
+  array(0) {
+  }
+  [14]=>
+  array(1) {
+    ["data_0"]=>
+    string(3) "15 "
+  }
+  [15]=>
+  array(0) {
+  }
+  [16]=>
+  array(0) {
+  }
+  [17]=>
+  array(0) {
+  }
+  [18]=>
+  array(0) {
+  }
+  [19]=>
+  array(0) {
+  }
+  [20]=>
+  array(0) {
+  }
+  [21]=>
+  array(1) {
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [22]=>
+  array(1) {
+    ["data_7"]=>
+    string(1) " "
+  }
+  [23]=>
+  array(0) {
+  }
+  [24]=>
+  array(0) {
+  }
+  [25]=>
+  array(1) {
+    ["data_8"]=>
+    string(115) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe "
+  }
+  [26]=>
+  array(1) {
+    ["data_8"]=>
+    string(115) "Add to WatchlistRemove from WatchlistWatchlist full View ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [27]=>
+  array(0) {
+  }
+  [28]=>
+  array(0) {
+  }
+  [29]=>
+  array(0) {
+  }
+  [30]=>
+  array(0) {
+  }
+  [31]=>
+  array(0) {
+  }
+  [32]=>
+  array(1) {
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [33]=>
+  array(0) {
+  }
+  [34]=>
+  array(0) {
+  }
+  [35]=>
+  array(0) {
+  }
+  [36]=>
+  array(0) {
+  }
+  [37]=>
+  array(0) {
+  }
+  [38]=>
+  array(0) {
+  }
+  [39]=>
+  array(0) {
+  }
+  [40]=>
+  array(1) {
+    ["data_5"]=>
+    string(12) "99900 MARDR "
+  }
+  [41]=>
+  array(0) {
+  }
+  [42]=>
+  array(0) {
+  }
+  [43]=>
+  array(2) {
+    ["data_1"]=>
+    string(14) " HTHuobi Token"
+    ["data_8"]=>
+    string(115) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView Markets View Historical DataKeep your crypto safe"
+  }
+  [44]=>
+  array(0) {
+  }
+  [45]=>
+  array(0) {
+  }
+  [46]=>
+  array(0) {
+  }
+  [47]=>
+  array(0) {
+  }
+  [48]=>
+  array(1) {
+    ["data_1"]=>
+    string(11) "RDDReddCoin"
+  }
+  [49]=>
+  array(1) {
+    ["data_0"]=>
+    string(2) "50"
+  }
+  [50]=>
+  array(0) {
+  }
+  [51]=>
+  array(0) {
+  }
+  [52]=>
+  array(1) {
+    ["data_5"]=>
+    string(9) "4550 MNAS"
+  }
+  [53]=>
+  array(0) {
+  }
+  [54]=>
+  array(1) {
+    ["data_1"]=>
+    string(8) "XZCZcoin"
+  }
+  [55]=>
+  array(0) {
+  }
+  [56]=>
+  array(0) {
+  }
+  [57]=>
+  array(0) {
+  }
+  [58]=>
+  array(1) {
+    ["data_5"]=>
+    string(10) " 63079 MGO"
+  }
+  [59]=>
+  array(0) {
+  }
+  [60]=>
+  array(0) {
+  }
+  [61]=>
+  array(1) {
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [62]=>
+  array(1) {
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [63]=>
+  array(0) {
+  }
+  [64]=>
+  array(0) {
+  }
+  [65]=>
+  array(0) {
+  }
+  [66]=>
+  array(0) {
+  }
+  [67]=>
+  array(1) {
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [68]=>
+  array(1) {
+    ["data_8"]=>
+    string(115) " Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [69]=>
+  array(0) {
+  }
+  [70]=>
+  array(0) {
+  }
+  [71]=>
+  array(0) {
+  }
+  [72]=>
+  array(1) {
+    ["data_8"]=>
+    string(114) "Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [73]=>
+  array(0) {
+  }
+  [74]=>
+  array(0) {
+  }
+  [75]=>
+  array(1) {
+    ["data_5"]=>
+    string(10) "1565 MTPAY"
+  }
+  [76]=>
+  array(0) {
+  }
+  [77]=>
+  array(0) {
+  }
+  [78]=>
+  array(0) {
+  }
+  [79]=>
+  array(0) {
+  }
+  [80]=>
+  array(0) {
+  }
+  [81]=>
+  array(0) {
+  }
+  [82]=>
+  array(0) {
+  }
+  [83]=>
+  array(0) {
+  }
+  [84]=>
+  array(0) {
+  }
+  [85]=>
+  array(1) {
+    ["data_8"]=>
+    string(115) " Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [86]=>
+  array(0) {
+  }
+  [87]=>
+  array(0) {
+  }
+  [88]=>
+  array(0) {
+  }
+  [89]=>
+  array(0) {
+  }
+  [90]=>
+  array(1) {
+    ["data_8"]=>
+    string(115) "Add to WatchlistRemove from WatchlistWatchlist full View ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [91]=>
+  array(1) {
+    ["data_8"]=>
+    string(115) " Add to WatchlistRemove from WatchlistWatchlist fullView ChartView MarketsView Historical DataKeep your crypto safe"
+  }
+  [92]=>
+  array(0) {
+  }
+  [93]=>
+  array(0) {
+  }
+  [94]=>
+  array(0) {
+  }
+  [95]=>
+  array(0) {
+  }
+  [96]=>
+  array(0) {
+  }
+  [97]=>
+  array(0) {
+  }
+  [98]=>
+  array(0) {
+  }
+  [99]=>
+  array(1) {
+    ["data_6"]=>
+    string(7) "12021 K"
+  }
+}
+              total        used        free      shared  buff/cache   available
+Mem:        8052712     1290240     4838244      246824     1924228     6172172
+Swap:       7999484           0     7999484
+
+Website : https://coinmarketcap.com/coins/ ID : currencies 

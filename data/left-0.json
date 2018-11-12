@@ -1,0 +1,1014 @@
+Array
+(
+    [0] => Array
+        (
+            [data_0] => Intel Processor
+        )
+
+    [1] => Array
+        (
+            [data_0] => Intel Core i9 Socket LGA 2066
+        )
+
+    [2] => Array
+        (
+            [data_0] => Intel Core i97980XE 26Ghz Up To 42Ghz  Cache 2475MB Box Socket LGA 2066  SkylakeX Series
+            [data_1] => Rp 32675000 Order
+            [data_2] => 
+        )
+
+    [3] => Array
+        (
+            [data_0] => Intel Core i97960X 28Ghz Up To 42Ghz  Cache 22MB Box Socket LGA 2066  SkylakeX Series
+            [data_1] => Rp 23975000 Order
+            [data_2] => 
+        )
+
+    [4] => Array
+        (
+            [data_0] => Intel Core i97940X 31Ghz Up To 43Ghz  Cache 1925MB Box Socket LGA 2066  SkylakeX Series
+            [data_1] => Rp 19575000 Order
+            [data_2] => 
+        )
+
+    [5] => Array
+        (
+            [data_0] => Intel Core i97920X 29Ghz Up To 43Ghz  Cache 165MB Box Socket LGA 2066  SkylakeX Series
+            [data_1] => Rp 17450000 Order
+            [data_2] => 
+        )
+
+    [6] => Array
+        (
+            [data_0] => Intel Core i97900X 33Ghz Up To 43Ghz  Cache 1375MB Box Socket LGA 2066  SkylakeX Series
+            [data_1] => Rp 16365000 Order
+            [data_2] => 
+        )
+
+    [7] => Array
+        (
+            [data_0] => Intel Core i7 Socket LGA 2066
+        )
+
+    [8] => Array
+        (
+            [data_0] => Intel Core i77740X 43Ghz Up To 45Ghz  Cache 8MB Box Socket LGA 2066  KabylakeX Series
+            [data_1] => Rp 5710000 Order
+            [data_2] => 
+        )
+
+    [9] => Array
+        (
+            [data_0] => Intel Core i77820X 36Ghz Up To 43Ghz  Cache 11MB Box Socket LGA 2066  SkylakeX Series
+            [data_1] => Rp 9830000 Order
+            [data_2] => 
+        )
+
+    [10] => Array
+        (
+            [data_0] => Intel Core i77800X 35Ghz Up To 40Ghz  Cache 825MB Box Socket LGA 2066  SkylakeX Series
+            [data_1] => Rp 6380000 Order
+            [data_2] => 
+        )
+
+    [11] => Array
+        (
+            [data_0] => Intel Core i5 Socket LGA 2066
+        )
+
+    [12] => Array
+        (
+            [data_0] => Intel Core i57640X 40Ghz Up To 42Ghz  Cache 6MB Box Socket LGA 2066  KabylakeX Series
+            [data_1] => Rp 3915000 Order
+            [data_2] => 
+        )
+
+    [13] => Array
+        (
+            [data_0] => Intel Core i7 Socket LGA 1151
+        )
+
+    [14] => Array
+        (
+            [data_0] => Intel Core i78086K 40Ghz Up To 50Ghz  Cache 12MB Box Socket LGA 1151  Coffeelake Series
+            [data_1] => Rp 7199000 Order
+            [data_2] => 
+        )
+
+    [15] => Array
+        (
+            [data_0] => Intel Core i78700K 37Ghz Up To 47Ghz  Cache 12MB Box Socket LGA 1151  Coffeelake SeriesReady Stock
+            [data_1] => Rp 6940000 Order
+            [data_2] => 
+            [data_3] => 
+            [data_4] => 
+            [data_5] => 
+        )
+
+    [19] => Array
+        (
+            [data_0] => Intel Core i78700 32Ghz Up To 46Ghz  Cache 12MB Box Socket LGA 1151  Coffeelake SeriesReady Stock
+            [data_1] => Rp 6370000 Order
+            [data_2] => 
+            [data_3] => 
+            [data_4] => 
+            [data_5] => 
+        )
+
+    [23] => Array
+        (
+            [data_0] => Intel Core i77700K 42Ghz Up To 45Ghz  Cache 8MB Box Socket LGA 1151  Kabylake Series
+            [data_1] => Rp 5605000 Order
+            [data_2] => 
+            [data_3] => 
+            [data_4] => 
+            [data_5] => 
+        )
+
+    [27] => Array
+        (
+            [data_0] => Intel Core i77700 36Ghz  Cache 8MB Box Socket LGA 1151  Kabylake Series
+            [data_1] => Rp 5165000 Order
+            [data_2] => 
+            [data_3] => 
+            [data_4] => 
+            [data_5] => 
+        )
+
+    [31] => Array
+        (
+            [data_0] => Intel Core i76700K 40Ghz Up To 42Ghz  Cache 8MB Box Socket LGA 1151  Skylake Series
+            [data_1] => Rp 5615000 Order
+            [data_2] => 
+            [data_3] => 
+            [data_4] => 
+        )
+
+    [34] => Array
+        (
+            [data_0] => Intel Core i76700 34Ghz  Cache 8MB Box Socket LGA 1151  Skylake Series
+            [data_1] => Rp 4915000 Order
+            [data_2] => 
+            [data_3] => 
+            [data_4] => 
+        )
+
+    [37] => Array
+        (
+            [data_0] => Intel Core i5 Socket LGA 1151
+        )
+
+    [38] => Array
+        (
+            [data_0] => Intel Core i59600K 37Ghz Up To 46Ghz  Cache 9MB Box Socket LGA 1151  Coffeelake SeriesReady Stock
+            [data_1] => Rp 4999000 Order
+            [data_2] => 
+        )
+
+    [39] => Array
+        (
+            [data_0] => Intel Core i58600K 36Ghz Up To 43Ghz  Cache 9MB Box Socket LGA 1151  Coffeelake SeriesReady Stock
+            [data_1] => Rp 4660000 Order
+            [data_2] => 
+            [data_3] => 
+            [data_4] => 
+            [data_5] => 
+        )
+
+    [43] => Array
+        (
+            [data_0] => Intel Core i58600 31Ghz Up To 43Ghz  Cache 9MB Box Socket LGA 1151  Coffeelake SeriesReady Stock
+            [data_1] => Rp 4070000 Order
+            [data_2] => 
+            [data_3] => 
+            [data_4] => 
+        )
+
+    [46] => Array
+        (
+            [data_0] => Intel Core i58500 30Ghz Up To 41Ghz  Cache 9MB Box Socket LGA 1151  Coffeelake Series
+            [data_1] => Rp 3650000 Order
+            [data_2] => 
+            [data_3] => 
+        )
+
+    [48] => Array
+        (
+            [data_0] => Intel Core i58400 28Ghz Up To 40Ghz  Cache 9MB Box Socket LGA 1151  Coffeelake SeriesReady Stock
+            [data_1] => Rp 3495000 Order
+            [data_2] => 
+            [data_3] => 
+            [data_4] => 
+            [data_5] => 
+        )
+
+    [52] => Array
+        (
+            [data_0] => Intel Core i57600K 38Ghz Up To 42Ghz  Cache 6MB Box Socket LGA 1151  Kabylake Series
+            [data_1] => Rp 4120000 Order
+            [data_2] => 
+            [data_3] => 
+            [data_4] => 
+        )
+
+    [55] => Array
+        (
+            [data_0] => Intel Core i57600 35Ghz  Cache 6MB Box Socket LGA 1151  Kabylake Series
+            [data_1] => Rp 3790000 Order
+            [data_2] => 
+            [data_3] => 
+            [data_4] => 
+        )
+
+    [58] => Array
+        (
+            [data_0] => Intel Core i57500 34Ghz  Cache 6MB Box Socket LGA 1151  Kabylake Series
+            [data_1] => Rp 3430000 Order
+            [data_2] => 
+            [data_3] => 
+            [data_4] => 
+            [data_5] => 
+        )
+
+    [62] => Array
+        (
+            [data_0] => Intel Core i57400 30Ghz  Cache 6MB Box Socket LGA 1151  Kabylake SeriesReady Stock
+            [data_1] => Rp 3150000 Order
+            [data_2] => 
+            [data_3] => 
+            [data_4] => 
+        )
+
+    [65] => Array
+        (
+            [data_0] => Intel Core i56600K 35Ghz Up To 39Ghz  Cache 6MB Box Socket LGA 1151  Skylake Series
+            [data_1] => Rp 4165000 Order
+            [data_2] => 
+            [data_3] => 
+            [data_4] => 
+        )
+
+    [68] => Array
+        (
+            [data_0] => Intel Core i56600 33Ghz  Cache 6MB Box Socket LGA 1151  Skylake Series
+            [data_1] => Rp 3775000 Order
+            [data_2] => 
+            [data_3] => 
+            [data_4] => 
+        )
+
+    [71] => Array
+        (
+            [data_0] => Intel Core i56500 32Ghz  Cache 6MB Box Socket LGA 1151  Skylake Series
+            [data_1] => Rp 3425000 Order
+            [data_2] => 
+            [data_3] => 
+            [data_4] => 
+        )
+
+    [74] => Array
+        (
+            [data_0] => Intel Core i56400 27Ghz  Cache 6MB Box Socket LGA 1151  Skylake Series
+            [data_1] => Rp 3005000 Order
+            [data_2] => 
+            [data_3] => 
+            [data_4] => 
+        )
+
+    [77] => Array
+        (
+            [data_0] => Intel Core i3 Socket LGA 1151
+        )
+
+    [78] => Array
+        (
+            [data_0] => Intel Core i38350K 40Ghz  Cache 8MB Box Socket LGA 1151  Coffeelake Series
+            [data_1] => Rp 2815000 Order
+            [data_2] => 
+            [data_3] => 
+        )
+
+    [80] => Array
+        (
+            [data_0] => Intel Core i38100 36Ghz  Cache 6MB Box Socket LGA 1151  Coffeelake SeriesReady Stock
+            [data_1] => Rp 2265000 Order
+            [data_2] => 
+            [data_3] => 
+            [data_4] => 
+            [data_5] => 
+        )
+
+    [84] => Array
+        (
+            [data_0] => Intel Core i37350K 42Ghz  Cache 4MB Box Socket LGA 1151  Kabylake Series
+            [data_1] => Rp 2128000 Order
+            [data_2] => 
+        )
+
+    [85] => Array
+        (
+            [data_0] => Intel Core i37100 39Ghz  Cache 3MB Box Socket LGA 1151  Kabylake SeriesReady Stock
+            [data_1] => Rp 2150000 Order
+            [data_2] => 
+            [data_3] => 
+            [data_4] => 
+            [data_5] => 
+        )
+
+    [89] => Array
+        (
+            [data_0] => Intel Core i37100 39Ghz  Cache 3MB Tray Socket LGA 1151  Kabylake Series
+            [data_1] => Rp 2142000 Order
+            [data_2] => 
+            [data_3] => 
+        )
+
+    [91] => Array
+        (
+            [data_0] => Intel Core i36100 37Ghz  Cache 3MB Box Socket LGA 1151  Skylake Series
+            [data_1] => Rp 1985000 Order
+            [data_2] => 
+            [data_3] => 
+            [data_4] => 
+        )
+
+    [94] => Array
+        (
+            [data_0] => Intel Core i36100 37Ghz  Cache 3MB Tray Socket LGA 1151  Skylake Series
+            [data_1] => Rp 1750000 Order
+            [data_2] => 
+            [data_3] => 
+            [data_4] => 
+        )
+
+    [97] => Array
+        (
+            [data_0] => Intel Pentium Socket LGA 1151
+        )
+
+    [98] => Array
+        (
+            [data_0] => Intel Pentium Gold G5400 37Ghz  Cache 4MB Box Socket LGA 1151  Coffeelake SeriesReady Stock
+            [data_1] => Rp 1050000 Order
+            [data_2] => 
+            [data_3] => 
+            [data_4] => 
+            [data_5] => 
+        )
+
+    [102] => Array
+        (
+            [data_0] => Intel Pentium G4600 36Ghz  Cache 3MB Box Socket LGA 1151  Kabylake Series
+            [data_1] => Rp 1060000 Order
+            [data_2] => 
+            [data_3] => 
+            [data_4] => 
+        )
+
+    [105] => Array
+        (
+            [data_0] => Intel Pentium G4560 35Ghz  Cache 3MB Box Socket LGA 1151  Kabylake SeriesReady Stock
+            [data_1] => Rp 985000 Order
+            [data_2] => 
+            [data_3] => 
+            [data_4] => 
+            [data_5] => 
+        )
+
+    [109] => Array
+        (
+            [data_0] => Intel Pentium G4560 35Ghz  Cache 3MB Tray Socket LGA 1151  Kabylake Series
+            [data_1] => Rp 850000 Order
+            [data_2] => 
+            [data_3] => 
+            [data_4] => 
+        )
+
+    [112] => Array
+        (
+            [data_0] => Intel Pentium G4400 33Ghz  Cache 3MB Box Socket LGA 1151  Skylake SeriesReady Stock
+            [data_1] => Rp 910000 Order
+            [data_2] => 
+            [data_3] => 
+            [data_4] => 
+            [data_5] => 
+        )
+
+    [116] => Array
+        (
+            [data_0] => Intel Pentium G4400 33Ghz  Cache 3MB Tray Socket LGA 1151  Skylake Series
+            [data_1] => Rp 885000 Order
+            [data_2] => 
+            [data_3] => 
+        )
+
+    [118] => Array
+        (
+            [data_0] => Intel Pentium Socket LGA 1150
+        )
+
+    [119] => Array
+        (
+            [data_0] => Intel Pentium G3450 34Ghz Cache 3MB Tray Socket LGA 1150  Haswell Series
+            [data_1] => Rp 1010000 Order
+            [data_2] => 
+        )
+
+    [120] => Array
+        (
+            [data_0] => Intel Pentium G3420 32Ghz Cache 3MB Tray Socket LGA 1150  Haswell Series
+            [data_1] => Rp 1010000 Order
+            [data_2] => 
+        )
+
+    [121] => Array
+        (
+            [data_0] => Intel Pentium G3260 33Ghz Cache 3MB Box Socket LGA 1150  Haswell Series
+            [data_1] => Rp 1090000 Order
+            [data_2] => 
+            [data_3] => 
+            [data_4] => 
+        )
+
+    [124] => Array
+        (
+            [data_0] => Intel Pentium G3260 33Ghz Cache 3MB Tray Socket LGA 1150  Haswell Series
+            [data_1] => Rp 975000 Order
+            [data_2] => 
+        )
+
+    [125] => Array
+        (
+            [data_0] => Intel Pentium G3250 32Ghz Cache 3MB Tray Socket LGA 1150  Haswell Series
+            [data_1] => Rp 1010000 Order
+            [data_2] => 
+        )
+
+    [126] => Array
+        (
+            [data_0] => Intel Pentium G3240 31Ghz Cache 3MB Tray Socket LGA 1150  Haswell Series
+            [data_1] => Rp 960000 Order
+            [data_2] => 
+        )
+
+    [127] => Array
+        (
+            [data_0] => Intel Pentium G3220 30Ghz Cache 3MB Tray Socket LGA 1150  Haswell Series
+            [data_1] => Rp 910000 Order
+            [data_2] => 
+        )
+
+    [128] => Array
+        (
+            [data_0] => Intel Core i3 Socket LGA 1150
+        )
+
+    [129] => Array
+        (
+            [data_0] => Intel Core i34170 37Ghz  Cache 3MB Box Socket LGA 1150  Haswell Refresh Series
+            [data_1] => Rp 2020000 Order
+            [data_2] => 
+            [data_3] => 
+            [data_4] => 
+        )
+
+    [132] => Array
+        (
+            [data_0] => Intel Core i34170 37Ghz  Cache 3MB Tray Socket LGA 1150  Haswell Refresh Series
+            [data_1] => Rp 1655000 Order
+            [data_2] => 
+        )
+
+    [133] => Array
+        (
+            [data_0] => Intel Core i34160 36Ghz  Cache 3MB Box Socket LGA 1150  Haswell Refresh Series
+            [data_1] => Rp 1955000 Order
+            [data_2] => 
+            [data_3] => 
+            [data_4] => 
+            [data_5] => 
+        )
+
+    [137] => Array
+        (
+            [data_0] => Intel Core i34160 36Ghz  Cache 3MB Tray Socket LGA 1150  Haswell Refresh Series
+            [data_1] => Rp 1560000 Order
+            [data_2] => 
+        )
+
+    [138] => Array
+        (
+            [data_0] => Intel Core i34150 35Ghz  Cache 3MB Tray Socket LGA 1150  Haswell Refresh Series
+            [data_1] => Rp 1460000 Order
+            [data_2] => 
+        )
+
+    [139] => Array
+        (
+            [data_0] => Intel Core i34130 34Ghz  Cache 3MB Tray Socket LGA 1150  Haswell Series
+            [data_1] => Rp 1435000 Order
+            [data_2] => 
+        )
+
+    [140] => Array
+        (
+            [data_0] => Intel Core i5 Socket LGA 1150
+        )
+
+    [141] => Array
+        (
+            [data_0] => Intel Core i54690K 35Ghz Up To 39Ghz  Cache 6MB Box Socket LGA 1150  Haswell Refresh Series
+            [data_1] => Rp 3165000 Order
+            [data_2] => 
+        )
+
+    [142] => Array
+        (
+            [data_0] => Intel Core i54690 35Ghz  Cache 6MB Box Socket LGA 1150  Haswell Refresh Series
+            [data_1] => Rp 2890000 Order
+            [data_2] => 
+        )
+
+    [143] => Array
+        (
+            [data_0] => Intel Core i54590 33Ghz  Cache 6MB Box Socket LGA 1150  Haswell Refresh Series
+            [data_1] => Rp 2660000 Order
+            [data_2] => 
+        )
+
+    [144] => Array
+        (
+            [data_0] => Intel Core i54590 33Ghz  Cache 6MB Tray Socket LGA 1150  Haswell Refresh Series
+            [data_1] => Rp 2290000 Order
+            [data_2] => 
+        )
+
+    [145] => Array
+        (
+            [data_0] => Intel Core i54570 32Ghz  Cache 6MB Tray Socket LGA 1150  Haswell Refresh Series
+            [data_1] => Rp 2210000 Order
+            [data_2] => 
+        )
+
+    [146] => Array
+        (
+            [data_0] => Intel Core i54460 32Ghz  Cache 6MB Box Socket LGA 1150  Haswell Refresh Series
+            [data_1] => Rp 2640000 Order
+            [data_2] => 
+            [data_3] => 
+            [data_4] => 
+        )
+
+    [149] => Array
+        (
+            [data_0] => Intel Core i54460 32Ghz  Cache 6MB Tray Socket LGA 1150  Haswell Refresh Series
+            [data_1] => Rp 1920000 Order
+            [data_2] => 
+        )
+
+    [150] => Array
+        (
+            [data_0] => Intel Core i7 Socket LGA 1150
+        )
+
+    [151] => Array
+        (
+            [data_0] => Intel Core i74790K 40Ghz Up To 44Ghz  Cache 8MB Box Socket LGA 1150  Haswell Refresh Series
+            [data_1] => Rp 4515000 Order
+            [data_2] => 
+        )
+
+    [152] => Array
+        (
+            [data_0] => Intel Core i74790 36Ghz  Cache 8MB Tray Socket LGA 1150  Haswell Refresh Series
+            [data_1] => Rp 3160000 Order
+            [data_2] => 
+        )
+
+    [153] => Array
+        (
+            [data_0] => Intel Core i74770 34Ghz  Cache 8MB Tray Socket LGA 1150  Haswell Refresh Series
+            [data_1] => Rp 3040000 Order
+            [data_2] => 
+        )
+
+    [154] => Array
+        (
+            [data_0] => Intel Pentium Socket LGA 1155
+        )
+
+    [155] => Array
+        (
+            [data_0] => Intel Pentium G2140 33Ghz Cache 3MB Tray Socket LGA 1155
+            [data_1] => Rp 510000 Order
+            [data_2] => 
+        )
+
+    [156] => Array
+        (
+            [data_0] => Intel Pentium G2130 32Ghz Cache 3MB Tray Socket LGA 1155
+            [data_1] => Rp 435000 Order
+            [data_2] => 
+        )
+
+    [157] => Array
+        (
+            [data_0] => Intel Pentium G2030 30Ghz Cache 3MB Tray Socket LGA 1155
+            [data_1] => Rp 340000 Order
+            [data_2] => 
+        )
+
+    [158] => Array
+        (
+            [data_0] => Intel Pentium G2020 29Ghz Cache 3MB Tray Socket LGA 1155
+            [data_1] => Rp 310000 Order
+            [data_2] => 
+        )
+
+    [159] => Array
+        (
+            [data_0] => Intel Pentium G1620 27Ghz Cache 3MB Tray Socket LGA 1155
+            [data_1] => Rp 170000 Order
+            [data_2] => 
+        )
+
+    [160] => Array
+        (
+            [data_0] => Intel Pentium G645 29Ghz Cache 3MB Tray Socket LGA 1155
+            [data_1] => Rp 215000 Order
+            [data_2] => 
+        )
+
+    [161] => Array
+        (
+            [data_0] => Intel Pentium G640 28Ghz Cache 3MB Tray Socket LGA 1155
+            [data_1] => Rp 210000 Order
+            [data_2] => 
+        )
+
+    [162] => Array
+        (
+            [data_0] => Intel Pentium G620 26Ghz Cache 3MB Tray Socket LGA 1155
+            [data_1] => Rp 195000 Order
+            [data_2] => 
+        )
+
+    [163] => Array
+        (
+            [data_0] => Intel Core i3 Socket LGA 1155
+        )
+
+    [164] => Array
+        (
+            [data_0] => Intel Core i3 3250 35Ghz Cache 3MB Box Socket LGA 1155
+            [data_1] => Rp 1065000 Order
+            [data_2] => 
+        )
+
+    [165] => Array
+        (
+            [data_0] => Intel Core i3 3240 34Ghz Cache 3MBTray Socket LGA 1155
+            [data_1] => Rp 790000 Order
+            [data_2] => 
+        )
+
+    [166] => Array
+        (
+            [data_0] => Intel Core i3 3220 33Ghz Cache 3MB Tray Socket LGA 1155
+            [data_1] => Rp 780000 Order
+            [data_2] => 
+        )
+
+    [167] => Array
+        (
+            [data_0] => Intel Core i32130 34Ghz Cache 3MB Tray Socket LGA 1155
+            [data_1] => Rp 690000 Order
+            [data_2] => 
+        )
+
+    [168] => Array
+        (
+            [data_0] => Intel Core i32120 33Ghz Cache 3MB Tray Socket LGA 1155
+            [data_1] => Rp 680000 Order
+            [data_2] => 
+        )
+
+    [169] => Array
+        (
+            [data_0] => Intel Core i3 2100 31Ghz Cache 3MB Tray Socket LGA 1155
+            [data_1] => Rp 680000 Order
+            [data_2] => 
+        )
+
+    [170] => Array
+        (
+            [data_0] => Intel Core i5 Socket LGA 1155
+        )
+
+    [171] => Array
+        (
+            [data_0] => Intel Core i5 3570 34Ghz Cache 6MB Tray Socket LGA 1155
+            [data_1] => Rp 1060000 Order
+            [data_2] => 
+        )
+
+    [172] => Array
+        (
+            [data_0] => Intel Core i5 3470 32Ghz Cache 6MB Tray Socket LGA 1155
+            [data_1] => Rp 1060000 Order
+            [data_2] => 
+        )
+
+    [173] => Array
+        (
+            [data_0] => Intel Core i52500 33 GHz  Cache 6MB Tray Socket LGA 1155
+            [data_1] => Rp 860000 Order
+            [data_2] => 
+        )
+
+    [174] => Array
+        (
+            [data_0] => Intel Core i52400 31 GHz  Cache 6MB Tray Socket LGA 1155
+            [data_1] => Rp 840000 Order
+            [data_2] => 
+        )
+
+    [175] => Array
+        (
+            [data_0] => Intel Core i7 Socket LGA 1155
+        )
+
+    [176] => Array
+        (
+            [data_0] => Intel Core i72600 34 GHz  Cache 8MB Tray Socket LGA 1155
+            [data_1] => Rp 1560000 Order
+            [data_2] => 
+        )
+
+    [177] => Array
+        (
+            [data_0] => Intel Core i7 Socket LGA 2011
+        )
+
+    [178] => Array
+        (
+            [data_0] => Intel Core 2 Duo Socket LGA 775
+        )
+
+    [179] => Array
+        (
+            [data_0] => Intel Core 2 Duo E8500 316Ghz FSB 1333 Mhz Cache 6MB Tray Socket LGA 775
+            [data_1] => Rp 130000 Order
+            [data_2] => 
+        )
+
+    [180] => Array
+        (
+            [data_0] => Intel Core 2 Duo E8400 30Ghz FSB 1333 Mhz Cache 6MB Tray Socket LGA 775Ready Stock
+            [data_1] => Rp 89000 Order
+            [data_2] => 
+            [data_3] => 
+            [data_4] => 
+            [data_5] => 
+        )
+
+    [184] => Array
+        (
+            [data_0] => Intel Core 2 Duo E7500 293Ghz FSB 1066 Mhz Cache 3MB Tray Socket LGA 775
+            [data_1] => Rp 85000 Order
+            [data_2] => 
+        )
+
+    [185] => Array
+        (
+            [data_0] => Intel Core 2 Duo E7600 306Ghz FSB 1066 Mhz Cache 3MB Tray Socket LGA 775
+            [data_1] => Rp 100000 Order
+            [data_2] => 
+        )
+
+    [186] => Array
+        (
+            [data_0] => Intel Core 2 Duo E6400 196Ghz FSB 1066 Mhz Cache 2MB Tray Socket LGA 775
+            [data_1] => Rp 95000 Order
+            [data_2] => 
+        )
+
+    [187] => Array
+        (
+            [data_0] => Intel Core 2 Duo E6300 186Ghz FSB 1066 Mhz Cache 2MB Tray Socket LGA 775
+            [data_1] => Rp 91000 Order
+            [data_2] => 
+        )
+
+    [188] => Array
+        (
+            [data_0] => Intel Xeon LGA2011
+        )
+
+    [189] => Array
+        (
+            [data_0] => Intel Xeon E52697v4 23Ghz Cache 45MB LGA 2011v3
+            [data_1] => Rp 40985000 Order
+            [data_2] => 
+        )
+
+    [190] => Array
+        (
+            [data_0] => Intel Xeon E52695v4 21Ghz Cache 45MB LGA 2011v3
+            [data_1] => Rp 36785000 Order
+            [data_2] => 
+        )
+
+    [191] => Array
+        (
+            [data_0] => Intel Xeon E52690v4 26Ghz Cache 35MB LGA2011v3
+            [data_1] => Rp 31725000 Order
+            [data_2] => 
+        )
+
+    [192] => Array
+        (
+            [data_0] => Intel Xeon E52683v4 21Ghz Cache 40MB LGA2011v3
+            [data_1] => Rp 28140000 Order
+            [data_2] => 
+        )
+
+    [193] => Array
+        (
+            [data_0] => Intel Xeon E52660v4 20Ghz Cache 35MB LGA2011v3
+            [data_1] => Rp 21975000 Order
+            [data_2] => 
+        )
+
+    [194] => Array
+        (
+            [data_0] => Intel Xeon E52650v4 23Ghz Cache 30MB LGA2011v3
+            [data_1] => Rp 17770000 Order
+            [data_2] => 
+        )
+
+    [195] => Array
+        (
+            [data_0] => Intel Xeon E52640v4 24Ghz Cache 25MB LGA2011v3
+            [data_1] => Rp 14600000 Order
+            [data_2] => 
+        )
+
+    [196] => Array
+        (
+            [data_0] => Intel Xeon E52630v4 24Ghz Cache 20MB LGA2011v3
+            [data_1] => Rp 10750000 Order
+            [data_2] => 
+        )
+
+    [197] => Array
+        (
+            [data_0] => Intel Xeon E52620v4 24Ghz Cache 15MB LGA2011v3
+            [data_1] => Rp 6550000 Order
+            [data_2] => 
+        )
+
+    [198] => Array
+        (
+            [data_0] => Intel Xeon E52609v4 17Ghz Cache 20MB LGA2011v3
+            [data_1] => Rp 4985000 Order
+            [data_2] => 
+        )
+
+    [199] => Array
+        (
+            [data_0] => Intel Xeon E52603v4 17Ghz Cache 15MB LGA2011v3
+            [data_1] => Rp 3680000 Order
+            [data_2] => 
+        )
+
+    [200] => Array
+        (
+            [data_0] => Intel Xeon E52609v3 19Ghz Cache 15MB LGA2011v3
+            [data_1] => Rp 4675000 Order
+            [data_2] => 
+        )
+
+    [201] => Array
+        (
+            [data_0] => Intel Xeon LGA1150
+        )
+
+    [202] => Array
+        (
+            [data_0] => Intel Xeon E31225V3 32Ghz Cache 8MB LGA1150
+            [data_1] => Rp 3020000 Order
+            [data_2] => 
+        )
+
+    [203] => Array
+        (
+            [data_0] => Intel Xeon E31220V3 31Ghz Cache 8MB LGA1150
+            [data_1] => Rp 3125000 Order
+            [data_2] => 
+        )
+
+    [204] => Array
+        (
+            [data_0] => Intel Xeon LGA1151
+        )
+
+    [205] => Array
+        (
+            [data_0] => Intel Xeon E31245V6 37Ghz Cache 8MB LGA1151
+            [data_1] => Rp 4685000 Order
+            [data_2] => 
+        )
+
+    [206] => Array
+        (
+            [data_0] => Intel Xeon E31240V6 35Ghz Cache 8MB LGA1151
+            [data_1] => Rp 4850000 Order
+            [data_2] => 
+        )
+
+    [207] => Array
+        (
+            [data_0] => Intel Xeon E31230V6 35Ghz Cache 8MB LGA1151
+            [data_1] => Rp 4325000 Order
+            [data_2] => 
+        )
+
+    [208] => Array
+        (
+            [data_0] => Intel Xeon E31225V6 33Ghz Cache 8MB LGA1151
+            [data_1] => Rp 3685000 Order
+            [data_2] => 
+        )
+
+    [209] => Array
+        (
+            [data_0] => Intel Xeon E31220V6 30Ghz Cache 8MB LGA1151
+            [data_1] => Rp 3450000 Order
+            [data_2] => 
+        )
+
+    [210] => Array
+        (
+            [data_0] => Intel Xeon E31240V5 35Ghz Cache 8MB LGA1151
+            [data_1] => Rp 4450000 Order
+            [data_2] => 
+        )
+
+    [211] => Array
+        (
+            [data_0] => Intel Xeon E31230V5 33Ghz Cache 8MB LGA1151
+            [data_1] => Rp 4145000 Order
+            [data_2] => 
+            [data_3] => 
+            [data_4] => 
+        )
+
+    [214] => Array
+        (
+            [data_0] => Intel Xeon E31225V5 32Ghz Cache 8MB LGA1151
+            [data_1] => Rp 3543000 Order
+            [data_2] => 
+        )
+
+    [215] => Array
+        (
+            [data_0] => Intel Xeon E31220V5 31Ghz Cache 8MB LGA1151
+            [data_1] => Rp 3450000 Order
+            [data_2] => 
+        )
+
+    [216] => Array
+        (
+            [data_0] => Intel Thermal Solution LGA 2011
+        )
+
+    [217] => Array
+        (
+            [data_0] => Intel Thermal Solution Combo for LGA2011  RTS2011AC FHS 2011
+            [data_1] => Rp 380000 Order
+            [data_2] => 
+        )
+
+    [218] => Array
+        (
+            [data_0] => Intel Thermal Solution Active for LGA2011  BXTS13A FHS 2011
+            [data_1] => Rp 472000 Order
+            [data_2] => 
+        )
+
+    [219] => Array
+        (
+            [data_0] => Intel Thermal Solution for LGA2011 E52600 Processors  BXSTS200C
+            [data_1] => Rp 675000 Order
+            [data_2] => 
+        )
+
+    [220] => Array
+        (
+            [data_0] => Intel Thermal Solution Passive for LGA2011  STS200P
+            [data_1] => Rp 549000 Order
+            [data_2] => 
+        )
+
+)

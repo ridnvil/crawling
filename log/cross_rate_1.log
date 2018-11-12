@@ -1,0 +1,479 @@
+16-Oct-2018 04:36:59 -> Result : Render Processing from https://id.investing.com/commodities/metals where id cross_rate_1
+16-Oct-2018 04:37:03 -> Result : Render Done..
+16-Oct-2018 04:37:03 -> Result : Load data from directory webpage where File : cross_rate_1.html
+16-Oct-2018 04:37:03 -> Result : Get Element in Body Table
+16-Oct-2018 04:37:03 -> Result : Successfully Crawling data from https://id.investing.com/commodities/metals
+16-Oct-2018 04:37:03 -> Result : Record data is 11
+16-Oct-2018 04:37:03 -> Result : Created Json File -> cross_rate_1.json
+16-Oct-2018 04:37:03 -> Result : Compare Data
+16-Oct-2018 04:37:03 -> Result : Update data Successfully 
+16-Oct-2018 04:37:08 -> Result : Swap:       7999484           0     7999484
+16-Oct-2018 04:37:08 -> Result : Render Processing from https://id.investing.com/commodities/metals where id cross_rate_1
+16-Oct-2018 04:37:11 -> Result : Render Done..
+16-Oct-2018 04:37:11 -> Result : Load data from directory webpage where File : cross_rate_1.html
+16-Oct-2018 04:37:11 -> Result : Get Element in Body Table
+16-Oct-2018 04:37:11 -> Result : Successfully Crawling data from https://id.investing.com/commodities/metals
+16-Oct-2018 04:37:11 -> Result : Record data is 11
+16-Oct-2018 04:37:11 -> Result : Created Json File -> cross_rate_1.json
+16-Oct-2018 04:37:11 -> Result : Compare Data
+16-Oct-2018 04:37:11 -> Result : data_3 = '622025', data_7 = '2050', data_9 = '113649',  : Changed
+16-Oct-2018 04:37:11 -> Result : Update data Successfully 
+16-Oct-2018 04:37:17 -> Result : Swap:       7999484           0     7999484
+16-Oct-2018 04:37:17 -> Result : Render Processing from https://id.investing.com/commodities/metals where id cross_rate_1
+16-Oct-2018 04:37:20 -> Result : Render Done..
+16-Oct-2018 04:37:20 -> Result : Load data from directory webpage where File : cross_rate_1.html
+16-Oct-2018 04:37:20 -> Result : Get Element in Body Table
+16-Oct-2018 04:37:20 -> Result : Successfully Crawling data from https://id.investing.com/commodities/metals
+16-Oct-2018 04:37:20 -> Result : Record data is 11
+16-Oct-2018 04:37:20 -> Result : Created Json File -> cross_rate_1.json
+16-Oct-2018 04:37:20 -> Result : Compare Data
+16-Oct-2018 04:37:20 -> Result : data_3 = '208100', data_7 = '125', data_8 = '006', data_9 = '113656',  : Changed
+16-Oct-2018 04:37:20 -> Result : data_3 = '1249500', data_7 = '7500', data_8 = '060', data_9 = '113625',  : Changed
+16-Oct-2018 04:37:20 -> Result : data_3 = '258125', data_7 = '1600', data_8 = '062', data_9 = '113657',  : Changed
+16-Oct-2018 04:37:20 -> Result : data_3 = '622025', data_7 = '2050', data_9 = '113649',  : Changed
+16-Oct-2018 04:37:20 -> Result : data_3 = '1911250', data_7 = '3250', data_8 = '017', data_9 = '113201',  : Changed
+16-Oct-2018 04:37:20 -> Result : Update data Successfully 
+16-Oct-2018 04:37:25 -> Result : Swap:       7999484           0     7999484
+16-Oct-2018 04:37:25 -> Result : Render Processing from https://id.investing.com/commodities/metals where id cross_rate_1
+16-Oct-2018 04:37:29 -> Result : Render Done..
+16-Oct-2018 04:37:29 -> Result : Load data from directory webpage where File : cross_rate_1.html
+16-Oct-2018 04:37:29 -> Result : Get Element in Body Table
+16-Oct-2018 04:37:29 -> Result : Successfully Crawling data from https://id.investing.com/commodities/metals
+16-Oct-2018 04:37:29 -> Result : Record data is 11
+16-Oct-2018 04:37:29 -> Result : Created Json File -> cross_rate_1.json
+16-Oct-2018 04:37:29 -> Result : Compare Data
+16-Oct-2018 04:37:29 -> Result : data_3 = '208100', data_7 = '125', data_8 = '006', data_9 = '113656',  : Changed
+16-Oct-2018 04:37:29 -> Result : data_3 = '1249500', data_7 = '7500', data_8 = '060', data_9 = '113625',  : Changed
+16-Oct-2018 04:37:29 -> Result : data_3 = '258125', data_7 = '1600', data_8 = '062', data_9 = '113657',  : Changed
+16-Oct-2018 04:37:29 -> Result : data_3 = '622025', data_7 = '2050', data_9 = '113649',  : Changed
+16-Oct-2018 04:37:29 -> Result : data_3 = '1911250', data_7 = '3250', data_8 = '017', data_9 = '113201',  : Changed
+16-Oct-2018 04:37:29 -> Result : Update data Successfully 
+16-Oct-2018 04:37:34 -> Result : Swap:       7999484           0     7999484
+16-Oct-2018 04:37:34 -> Result : Render Processing from https://id.investing.com/commodities/metals where id cross_rate_1
+16-Oct-2018 04:37:38 -> Result : Render Done..
+16-Oct-2018 04:37:38 -> Result : Load data from directory webpage where File : cross_rate_1.html
+16-Oct-2018 04:37:38 -> Result : Get Element in Body Table
+16-Oct-2018 04:37:38 -> Result : Successfully Crawling data from https://id.investing.com/commodities/metals
+16-Oct-2018 04:37:38 -> Result : Record data is 11
+16-Oct-2018 04:37:38 -> Result : Created Json File -> cross_rate_1.json
+16-Oct-2018 04:37:38 -> Result : Compare Data
+16-Oct-2018 04:37:38 -> Result : data_9 = '113656',  : Changed
+16-Oct-2018 04:37:38 -> Result : data_3 = '1249500', data_7 = '7500', data_8 = '060', data_9 = '113625',  : Changed
+16-Oct-2018 04:37:38 -> Result : data_3 = '84610', data_7 = '040', data_8 = '005', data_9 = '113615',  : Changed
+16-Oct-2018 04:37:38 -> Result : data_3 = '258125', data_7 = '1600', data_8 = '062', data_9 = '113657',  : Changed
+16-Oct-2018 04:37:38 -> Result : data_3 = '2778', data_7 = '0001', data_8 = '004', data_9 = '113628',  : Changed
+16-Oct-2018 04:37:38 -> Result : data_3 = '622025', data_7 = '2050', data_9 = '113649',  : Changed
+16-Oct-2018 04:37:38 -> Result : data_3 = '1911250', data_7 = '3250', data_8 = '017', data_9 = '113201',  : Changed
+16-Oct-2018 04:37:38 -> Result : Update data Successfully 
+16-Oct-2018 04:37:43 -> Result : Swap:       7999484           0     7999484
+16-Oct-2018 04:37:43 -> Result : Render Processing from https://id.investing.com/commodities/metals where id cross_rate_1
+16-Oct-2018 04:37:47 -> Result : Render Done..
+16-Oct-2018 04:37:47 -> Result : Load data from directory webpage where File : cross_rate_1.html
+16-Oct-2018 04:37:47 -> Result : Get Element in Body Table
+16-Oct-2018 04:37:47 -> Result : Successfully Crawling data from https://id.investing.com/commodities/metals
+16-Oct-2018 04:37:47 -> Result : Record data is 11
+16-Oct-2018 04:37:47 -> Result : Created Json File -> cross_rate_1.json
+16-Oct-2018 04:37:47 -> Result : Compare Data
+16-Oct-2018 04:37:47 -> Result : data_9 = '113656',  : Changed
+16-Oct-2018 04:37:47 -> Result : data_3 = '1249500', data_7 = '7500', data_8 = '060', data_9 = '113625',  : Changed
+16-Oct-2018 04:37:47 -> Result : data_3 = '84610', data_7 = '040', data_8 = '005', data_9 = '113615',  : Changed
+16-Oct-2018 04:37:47 -> Result : data_3 = '258125', data_7 = '1600', data_8 = '062', data_9 = '113657',  : Changed
+16-Oct-2018 04:37:47 -> Result : data_3 = '2778', data_7 = '0001', data_8 = '004', data_9 = '113628',  : Changed
+16-Oct-2018 04:37:47 -> Result : data_3 = '622025', data_7 = '2050', data_9 = '113649',  : Changed
+16-Oct-2018 04:37:47 -> Result : data_3 = '1911250', data_7 = '3250', data_8 = '017', data_9 = '113201',  : Changed
+16-Oct-2018 04:37:47 -> Result : Update data Successfully 
+16-Oct-2018 04:37:52 -> Result : Swap:       7999484           0     7999484
+16-Oct-2018 04:37:52 -> Result : Render Processing from https://id.investing.com/commodities/metals where id cross_rate_1
+16-Oct-2018 04:37:57 -> Result : Render Done..
+16-Oct-2018 04:37:57 -> Result : Load data from directory webpage where File : cross_rate_1.html
+16-Oct-2018 04:37:57 -> Result : Get Element in Body Table
+16-Oct-2018 04:37:57 -> Result : Successfully Crawling data from https://id.investing.com/commodities/metals
+16-Oct-2018 04:37:57 -> Result : Record data is 11
+16-Oct-2018 04:37:57 -> Result : Created Json File -> cross_rate_1.json
+16-Oct-2018 04:37:57 -> Result : Compare Data
+16-Oct-2018 04:37:57 -> Result : data_3 = '208100', data_7 = '125', data_8 = '006', data_9 = '113656',  : Changed
+16-Oct-2018 04:37:57 -> Result : data_3 = '1249500', data_7 = '7500', data_8 = '060', data_9 = '113625',  : Changed
+16-Oct-2018 04:37:58 -> Result : data_3 = '84610', data_7 = '040', data_8 = '005', data_9 = '113615',  : Changed
+16-Oct-2018 04:37:58 -> Result : data_3 = '258125', data_7 = '1600', data_8 = '062', data_9 = '113657',  : Changed
+16-Oct-2018 04:37:58 -> Result : data_3 = '2778', data_7 = '0001', data_8 = '004', data_9 = '113628',  : Changed
+16-Oct-2018 04:37:58 -> Result : data_3 = '622025', data_7 = '2050', data_8 = '033', data_9 = '113649',  : Changed
+16-Oct-2018 04:37:58 -> Result : data_3 = '1911250', data_7 = '3250', data_8 = '017', data_9 = '113201',  : Changed
+16-Oct-2018 04:37:58 -> Result : Update data Successfully 
+16-Oct-2018 04:38:03 -> Result : Swap:       7999484           0     7999484
+16-Oct-2018 04:38:03 -> Result : Render Processing from https://id.investing.com/commodities/metals where id cross_rate_1
+16-Oct-2018 04:38:15 -> Result : Render Done..
+16-Oct-2018 04:38:15 -> Result : Load data from directory webpage where File : cross_rate_1.html
+16-Oct-2018 04:38:15 -> Result : Get Element in Body Table
+16-Oct-2018 04:38:15 -> Result : Successfully Crawling data from https://id.investing.com/commodities/metals
+16-Oct-2018 04:38:15 -> Result : Record data is 11
+16-Oct-2018 04:38:15 -> Result : Created Json File -> cross_rate_1.json
+16-Oct-2018 04:38:15 -> Result : Compare Data
+16-Oct-2018 04:38:15 -> Result : data_3 = '122970', data_7 = '060', data_8 = '005', data_9 = '113555',  : Changed
+16-Oct-2018 04:38:15 -> Result : data_9 = '113656',  : Changed
+16-Oct-2018 04:38:15 -> Result : data_3 = '1249500', data_7 = '7500', data_8 = '060', data_9 = '113625',  : Changed
+16-Oct-2018 04:38:15 -> Result : data_9 = '113631',  : Changed
+16-Oct-2018 04:38:15 -> Result : data_9 = '113558',  : Changed
+16-Oct-2018 04:38:15 -> Result : data_3 = '84610', data_7 = '040', data_8 = '005', data_9 = '113615',  : Changed
+16-Oct-2018 04:38:15 -> Result : data_3 = '258125', data_7 = '1600', data_8 = '062', data_9 = '113657',  : Changed
+16-Oct-2018 04:38:15 -> Result : data_3 = '2778', data_7 = '0001', data_8 = '004', data_9 = '113628',  : Changed
+16-Oct-2018 04:38:15 -> Result : data_3 = '622025', data_7 = '2050', data_8 = '033', data_9 = '113649',  : Changed
+16-Oct-2018 04:38:15 -> Result : data_3 = '1911250', data_7 = '3250', data_8 = '017', data_9 = '113201',  : Changed
+16-Oct-2018 04:38:15 -> Result : Update data Successfully 
+16-Oct-2018 04:38:20 -> Result : Swap:       7999484           0     7999484
+16-Oct-2018 04:38:20 -> Result : Render Processing from https://id.investing.com/commodities/metals where id cross_rate_1
+16-Oct-2018 04:38:26 -> Result : Render Done..
+16-Oct-2018 04:38:26 -> Result : Load data from directory webpage where File : cross_rate_1.html
+16-Oct-2018 04:38:26 -> Result : Get Element in Body Table
+16-Oct-2018 04:38:26 -> Result : Successfully Crawling data from https://id.investing.com/commodities/metals
+16-Oct-2018 04:38:26 -> Result : Record data is 11
+16-Oct-2018 04:38:26 -> Result : Created Json File -> cross_rate_1.json
+16-Oct-2018 04:38:26 -> Result : Compare Data
+16-Oct-2018 04:38:26 -> Result : data_3 = '122970', data_7 = '060', data_8 = '005', data_9 = '113555',  : Changed
+16-Oct-2018 04:38:26 -> Result : data_9 = '113656',  : Changed
+16-Oct-2018 04:38:26 -> Result : data_3 = '1249500', data_7 = '7500', data_8 = '060', data_9 = '113625',  : Changed
+16-Oct-2018 04:38:26 -> Result : data_9 = '113631',  : Changed
+16-Oct-2018 04:38:26 -> Result : data_9 = '113558',  : Changed
+16-Oct-2018 04:38:26 -> Result : data_3 = '84610', data_7 = '040', data_8 = '005', data_9 = '113615',  : Changed
+16-Oct-2018 04:38:26 -> Result : data_3 = '258125', data_7 = '1600', data_8 = '062', data_9 = '113657',  : Changed
+16-Oct-2018 04:38:26 -> Result : data_3 = '2778', data_7 = '0001', data_8 = '004', data_9 = '113628',  : Changed
+16-Oct-2018 04:38:26 -> Result : data_9 = '113649',  : Changed
+16-Oct-2018 04:38:26 -> Result : data_3 = '1911250', data_7 = '3250', data_8 = '017', data_9 = '113201',  : Changed
+16-Oct-2018 04:38:26 -> Result : Update data Successfully 
+16-Oct-2018 04:38:31 -> Result : Swap:       7999484           0     7999484
+16-Oct-2018 04:38:31 -> Result : Render Processing from https://id.investing.com/commodities/metals where id cross_rate_1
+16-Oct-2018 04:38:35 -> Result : Render Done..
+16-Oct-2018 04:38:35 -> Result : Load data from directory webpage where File : cross_rate_1.html
+16-Oct-2018 04:38:35 -> Result : Get Element in Body Table
+16-Oct-2018 04:38:35 -> Result : Successfully Crawling data from https://id.investing.com/commodities/metals
+16-Oct-2018 04:38:35 -> Result : Record data is 11
+16-Oct-2018 04:38:35 -> Result : Created Json File -> cross_rate_1.json
+16-Oct-2018 04:38:35 -> Result : Compare Data
+16-Oct-2018 04:38:35 -> Result : data_3 = '122970', data_7 = '060', data_8 = '005', data_9 = '113555',  : Changed
+16-Oct-2018 04:38:35 -> Result : data_3 = '208100', data_7 = '125', data_8 = '006', data_9 = '113656',  : Changed
+16-Oct-2018 04:38:35 -> Result : data_3 = '1249500', data_7 = '7500', data_8 = '060', data_9 = '113625',  : Changed
+16-Oct-2018 04:38:35 -> Result : data_9 = '113631',  : Changed
+16-Oct-2018 04:38:35 -> Result : data_9 = '113558',  : Changed
+16-Oct-2018 04:38:35 -> Result : data_3 = '84610', data_7 = '040', data_8 = '005', data_9 = '113615',  : Changed
+16-Oct-2018 04:38:35 -> Result : data_3 = '258125', data_7 = '1600', data_8 = '062', data_9 = '113657',  : Changed
+16-Oct-2018 04:38:35 -> Result : data_3 = '2778', data_7 = '0001', data_8 = '004', data_9 = '113628',  : Changed
+16-Oct-2018 04:38:35 -> Result : data_9 = '113649',  : Changed
+16-Oct-2018 04:38:35 -> Result : data_3 = '1911250', data_7 = '3250', data_8 = '017', data_9 = '113201',  : Changed
+16-Oct-2018 04:38:35 -> Result : Update data Successfully 
+16-Oct-2018 04:38:40 -> Result : Swap:       7999484           0     7999484
+16-Oct-2018 04:38:40 -> Result : Render Processing from https://id.investing.com/commodities/metals where id cross_rate_1
+16-Oct-2018 04:38:46 -> Result : Render Done..
+16-Oct-2018 04:38:46 -> Result : Load data from directory webpage where File : cross_rate_1.html
+16-Oct-2018 04:38:46 -> Result : Get Element in Body Table
+16-Oct-2018 04:38:46 -> Result : Successfully Crawling data from https://id.investing.com/commodities/metals
+16-Oct-2018 04:38:46 -> Result : Record data is 11
+16-Oct-2018 04:38:46 -> Result : Created Json File -> cross_rate_1.json
+16-Oct-2018 04:38:46 -> Result : Compare Data
+16-Oct-2018 04:38:46 -> Result : data_3 = '122970', data_7 = '060', data_8 = '005', data_9 = '113555',  : Changed
+16-Oct-2018 04:38:46 -> Result : data_3 = '208100', data_7 = '125', data_8 = '006', data_9 = '113656',  : Changed
+16-Oct-2018 04:38:46 -> Result : data_3 = '1249500', data_7 = '7500', data_8 = '060', data_9 = '113625',  : Changed
+16-Oct-2018 04:38:46 -> Result : data_9 = '113631',  : Changed
+16-Oct-2018 04:38:46 -> Result : data_3 = '14705', data_7 = '0022', data_8 = '015', data_9 = '113558',  : Changed
+16-Oct-2018 04:38:46 -> Result : data_3 = '84610', data_7 = '040', data_8 = '005', data_9 = '113615',  : Changed
+16-Oct-2018 04:38:46 -> Result : data_3 = '258125', data_7 = '1600', data_8 = '062', data_9 = '113657',  : Changed
+16-Oct-2018 04:38:46 -> Result : data_3 = '2778', data_7 = '0001', data_8 = '004', data_9 = '113628',  : Changed
+16-Oct-2018 04:38:46 -> Result : data_9 = '113649',  : Changed
+16-Oct-2018 04:38:46 -> Result : data_3 = '1911250', data_7 = '3250', data_8 = '017', data_9 = '113201',  : Changed
+16-Oct-2018 04:38:46 -> Result : Update data Successfully 
+16-Oct-2018 04:38:51 -> Result : Swap:       7999484           0     7999484
+16-Oct-2018 04:38:51 -> Result : Render Processing from https://id.investing.com/commodities/metals where id cross_rate_1
+16-Oct-2018 04:38:56 -> Result : Render Done..
+16-Oct-2018 04:38:56 -> Result : Load data from directory webpage where File : cross_rate_1.html
+16-Oct-2018 04:38:56 -> Result : Get Element in Body Table
+16-Oct-2018 04:38:56 -> Result : Successfully Crawling data from https://id.investing.com/commodities/metals
+16-Oct-2018 04:38:56 -> Result : Record data is 11
+16-Oct-2018 04:38:56 -> Result : Created Json File -> cross_rate_1.json
+16-Oct-2018 04:38:56 -> Result : Compare Data
+16-Oct-2018 04:38:56 -> Result : data_3 = '122970', data_7 = '060', data_8 = '005', data_9 = '113555',  : Changed
+16-Oct-2018 04:38:56 -> Result : data_3 = '208100', data_7 = '125', data_8 = '006', data_9 = '113656',  : Changed
+16-Oct-2018 04:38:56 -> Result : data_3 = '1249500', data_7 = '7500', data_8 = '060', data_9 = '113625',  : Changed
+16-Oct-2018 04:38:56 -> Result : data_9 = '113631',  : Changed
+16-Oct-2018 04:38:56 -> Result : data_3 = '14705', data_7 = '0022', data_8 = '015', data_9 = '113558',  : Changed
+16-Oct-2018 04:38:56 -> Result : data_3 = '84610', data_7 = '040', data_8 = '005', data_9 = '113615',  : Changed
+16-Oct-2018 04:38:56 -> Result : data_3 = '258125', data_7 = '1600', data_8 = '062', data_9 = '113657',  : Changed
+16-Oct-2018 04:38:56 -> Result : data_3 = '2778', data_7 = '0001', data_8 = '004', data_9 = '113628',  : Changed
+16-Oct-2018 04:38:56 -> Result : data_9 = '113649',  : Changed
+16-Oct-2018 04:38:56 -> Result : data_3 = '1911250', data_7 = '3250', data_8 = '017', data_9 = '113201',  : Changed
+16-Oct-2018 04:38:56 -> Result : Update data Successfully 
+16-Oct-2018 04:39:01 -> Result : Swap:       7999484           0     7999484
+16-Oct-2018 04:39:01 -> Result : Render Processing from https://id.investing.com/commodities/metals where id cross_rate_1
+16-Oct-2018 04:39:05 -> Result : Render Done..
+16-Oct-2018 04:39:05 -> Result : Load data from directory webpage where File : cross_rate_1.html
+16-Oct-2018 04:39:05 -> Result : Get Element in Body Table
+16-Oct-2018 04:39:05 -> Result : Successfully Crawling data from https://id.investing.com/commodities/metals
+16-Oct-2018 04:39:05 -> Result : Record data is 11
+16-Oct-2018 04:39:05 -> Result : Created Json File -> cross_rate_1.json
+16-Oct-2018 04:39:05 -> Result : Compare Data
+16-Oct-2018 04:39:05 -> Result : data_3 = '122970', data_7 = '060', data_8 = '005', data_9 = '113555',  : Changed
+16-Oct-2018 04:39:05 -> Result : data_3 = '208100', data_7 = '125', data_8 = '006', data_9 = '113656',  : Changed
+16-Oct-2018 04:39:05 -> Result : data_9 = '113625',  : Changed
+16-Oct-2018 04:39:05 -> Result : data_9 = '113631',  : Changed
+16-Oct-2018 04:39:05 -> Result : data_3 = '14705', data_7 = '0022', data_8 = '015', data_9 = '113558',  : Changed
+16-Oct-2018 04:39:05 -> Result : data_3 = '84610', data_7 = '040', data_8 = '005', data_9 = '113615',  : Changed
+16-Oct-2018 04:39:05 -> Result : data_3 = '258125', data_7 = '1600', data_8 = '062', data_9 = '113657',  : Changed
+16-Oct-2018 04:39:05 -> Result : data_3 = '2778', data_7 = '0001', data_8 = '004', data_9 = '113628',  : Changed
+16-Oct-2018 04:39:05 -> Result : data_9 = '113649',  : Changed
+16-Oct-2018 04:39:05 -> Result : data_3 = '1911250', data_7 = '3250', data_8 = '017', data_9 = '113201',  : Changed
+16-Oct-2018 04:39:05 -> Result : Update data Successfully 
+16-Oct-2018 04:39:10 -> Result : Swap:       7999484           0     7999484
+16-Oct-2018 04:39:10 -> Result : Render Processing from https://id.investing.com/commodities/metals where id cross_rate_1
+16-Oct-2018 04:39:15 -> Result : Render Done..
+16-Oct-2018 04:39:15 -> Result : Load data from directory webpage where File : cross_rate_1.html
+16-Oct-2018 04:39:15 -> Result : Get Element in Body Table
+16-Oct-2018 04:39:15 -> Result : Successfully Crawling data from https://id.investing.com/commodities/metals
+16-Oct-2018 04:39:15 -> Result : Record data is 11
+16-Oct-2018 04:39:15 -> Result : Created Json File -> cross_rate_1.json
+16-Oct-2018 04:39:15 -> Result : Compare Data
+16-Oct-2018 04:39:15 -> Result : data_3 = '122970', data_7 = '060', data_8 = '005', data_9 = '113555',  : Changed
+16-Oct-2018 04:39:15 -> Result : data_3 = '208100', data_7 = '125', data_8 = '006', data_9 = '113656',  : Changed
+16-Oct-2018 04:39:15 -> Result : data_9 = '113625',  : Changed
+16-Oct-2018 04:39:15 -> Result : data_9 = '113631',  : Changed
+16-Oct-2018 04:39:15 -> Result : data_3 = '14705', data_7 = '0022', data_8 = '015', data_9 = '113558',  : Changed
+16-Oct-2018 04:39:15 -> Result : data_3 = '84610', data_7 = '040', data_8 = '005', data_9 = '113615',  : Changed
+16-Oct-2018 04:39:15 -> Result : data_3 = '258125', data_7 = '1600', data_8 = '062', data_9 = '113657',  : Changed
+16-Oct-2018 04:39:15 -> Result : data_3 = '2778', data_7 = '0001', data_8 = '004', data_9 = '113628',  : Changed
+16-Oct-2018 04:39:15 -> Result : data_9 = '113649',  : Changed
+16-Oct-2018 04:39:15 -> Result : data_3 = '1911250', data_7 = '3250', data_8 = '017', data_9 = '113201',  : Changed
+16-Oct-2018 04:39:15 -> Result : Update data Successfully 
+16-Oct-2018 04:39:20 -> Result : Swap:       7999484           0     7999484
+16-Oct-2018 04:39:20 -> Result : Render Processing from https://id.investing.com/commodities/metals where id cross_rate_1
+16-Oct-2018 04:39:27 -> Result : Render Done..
+16-Oct-2018 04:39:27 -> Result : Load data from directory webpage where File : cross_rate_1.html
+16-Oct-2018 04:39:27 -> Result : Get Element in Body Table
+16-Oct-2018 04:39:27 -> Result : Successfully Crawling data from https://id.investing.com/commodities/metals
+16-Oct-2018 04:39:27 -> Result : Record data is 11
+16-Oct-2018 04:39:27 -> Result : Created Json File -> cross_rate_1.json
+16-Oct-2018 04:39:27 -> Result : Compare Data
+16-Oct-2018 04:39:27 -> Result : data_3 = '122970', data_7 = '060', data_8 = '005', data_9 = '113555',  : Changed
+16-Oct-2018 04:39:27 -> Result : data_3 = '208100', data_7 = '125', data_8 = '006', data_9 = '113656',  : Changed
+16-Oct-2018 04:39:27 -> Result : data_9 = '113625',  : Changed
+16-Oct-2018 04:39:27 -> Result : data_9 = '113631',  : Changed
+16-Oct-2018 04:39:27 -> Result : data_3 = '14705', data_7 = '0022', data_8 = '015', data_9 = '113558',  : Changed
+16-Oct-2018 04:39:27 -> Result : data_3 = '84610', data_7 = '040', data_8 = '005', data_9 = '113615',  : Changed
+16-Oct-2018 04:39:27 -> Result : data_3 = '258125', data_7 = '1600', data_8 = '062', data_9 = '113657',  : Changed
+16-Oct-2018 04:39:27 -> Result : data_9 = '113628',  : Changed
+16-Oct-2018 04:39:27 -> Result : data_9 = '113649',  : Changed
+16-Oct-2018 04:39:27 -> Result : data_3 = '1911250', data_7 = '3250', data_8 = '017', data_9 = '113201',  : Changed
+16-Oct-2018 04:39:27 -> Result : Update data Successfully 
+16-Oct-2018 04:39:32 -> Result : Swap:       7999484           0     7999484
+16-Oct-2018 04:39:32 -> Result : Render Processing from https://id.investing.com/commodities/metals where id cross_rate_1
+16-Oct-2018 04:40:07 -> Result : Render Done..
+16-Oct-2018 04:40:07 -> Result : Load data from directory webpage where File : cross_rate_1.html
+16-Oct-2018 04:40:07 -> Result : Get Element in Body Table
+16-Oct-2018 04:40:07 -> Result : Successfully Crawling data from https://id.investing.com/commodities/metals
+16-Oct-2018 04:40:07 -> Result : Record data is 11
+16-Oct-2018 04:40:07 -> Result : Created Json File -> cross_rate_1.json
+16-Oct-2018 04:40:07 -> Result : Compare Data
+16-Oct-2018 04:40:07 -> Result : data_3 = '203325', data_7 = '325', data_8 = '016', data_9 = '113400',  : Changed
+16-Oct-2018 04:40:07 -> Result : data_3 = '122970', data_7 = '060', data_8 = '005', data_9 = '113555',  : Changed
+16-Oct-2018 04:40:07 -> Result : data_3 = '208100', data_7 = '125', data_8 = '006', data_9 = '113656',  : Changed
+16-Oct-2018 04:40:07 -> Result : data_9 = '113625',  : Changed
+16-Oct-2018 04:40:07 -> Result : data_9 = '113631',  : Changed
+16-Oct-2018 04:40:07 -> Result : data_9 = '113558',  : Changed
+16-Oct-2018 04:40:07 -> Result : data_3 = '84610', data_7 = '040', data_8 = '005', data_9 = '113615',  : Changed
+16-Oct-2018 04:40:07 -> Result : data_3 = '258125', data_7 = '1600', data_8 = '062', data_9 = '113657',  : Changed
+16-Oct-2018 04:40:07 -> Result : data_3 = '2778', data_7 = '0001', data_8 = '004', data_9 = '113628',  : Changed
+16-Oct-2018 04:40:07 -> Result : data_3 = '622025', data_7 = '2050', data_8 = '033', data_9 = '113649',  : Changed
+16-Oct-2018 04:40:07 -> Result : data_3 = '1911250', data_7 = '3250', data_8 = '017', data_9 = '113201',  : Changed
+16-Oct-2018 04:40:07 -> Result : Update data Successfully 
+16-Oct-2018 04:40:12 -> Result : Swap:       7999484           0     7999484
+16-Oct-2018 04:40:12 -> Result : Render Processing from https://id.investing.com/commodities/metals where id cross_rate_1
+16-Oct-2018 04:40:15 -> Result : Render Done..
+16-Oct-2018 04:40:15 -> Result : Load data from directory webpage where File : cross_rate_1.html
+16-Oct-2018 04:40:15 -> Result : Get Element in Body Table
+16-Oct-2018 04:40:15 -> Result : Successfully Crawling data from https://id.investing.com/commodities/metals
+16-Oct-2018 04:40:15 -> Result : Record data is 11
+16-Oct-2018 04:40:15 -> Result : Created Json File -> cross_rate_1.json
+16-Oct-2018 04:40:15 -> Result : Compare Data
+16-Oct-2018 04:40:15 -> Result : data_3 = '122970', data_7 = '060', data_8 = '005', data_9 = '113555',  : Changed
+16-Oct-2018 04:40:15 -> Result : data_3 = '208100', data_7 = '125', data_8 = '006', data_9 = '113656',  : Changed
+16-Oct-2018 04:40:15 -> Result : data_9 = '113625',  : Changed
+16-Oct-2018 04:40:15 -> Result : data_9 = '113631',  : Changed
+16-Oct-2018 04:40:15 -> Result : data_9 = '113558',  : Changed
+16-Oct-2018 04:40:15 -> Result : data_9 = '113615',  : Changed
+16-Oct-2018 04:40:15 -> Result : data_3 = '258125', data_7 = '1600', data_8 = '062', data_9 = '113657',  : Changed
+16-Oct-2018 04:40:15 -> Result : data_9 = '113628',  : Changed
+16-Oct-2018 04:40:15 -> Result : data_9 = '113649',  : Changed
+16-Oct-2018 04:40:15 -> Result : data_3 = '1911250', data_7 = '3250', data_8 = '017', data_9 = '113201',  : Changed
+16-Oct-2018 04:40:15 -> Result : Update data Successfully 
+16-Oct-2018 04:40:20 -> Result : Swap:       7999484           0     7999484
+16-Oct-2018 04:40:20 -> Result : Render Processing from https://id.investing.com/commodities/metals where id cross_rate_1
+16-Oct-2018 04:40:29 -> Result : Render Done..
+16-Oct-2018 04:40:29 -> Result : Load data from directory webpage where File : cross_rate_1.html
+16-Oct-2018 04:40:29 -> Result : Get Element in Body Table
+16-Oct-2018 04:40:29 -> Result : Successfully Crawling data from https://id.investing.com/commodities/metals
+16-Oct-2018 04:40:29 -> Result : Record data is 11
+16-Oct-2018 04:40:29 -> Result : Created Json File -> cross_rate_1.json
+16-Oct-2018 04:40:29 -> Result : Compare Data
+16-Oct-2018 04:40:29 -> Result : data_3 = '203325', data_7 = '325', data_8 = '016', data_9 = '113400',  : Changed
+16-Oct-2018 04:40:29 -> Result : data_9 = '113555',  : Changed
+16-Oct-2018 04:40:29 -> Result : data_3 = '208100', data_7 = '125', data_8 = '006', data_9 = '113656',  : Changed
+16-Oct-2018 04:40:29 -> Result : data_9 = '113625',  : Changed
+16-Oct-2018 04:40:29 -> Result : data_9 = '113631',  : Changed
+16-Oct-2018 04:40:29 -> Result : data_9 = '113558',  : Changed
+16-Oct-2018 04:40:29 -> Result : data_9 = '113615',  : Changed
+16-Oct-2018 04:40:29 -> Result : data_3 = '258125', data_7 = '1600', data_8 = '062', data_9 = '113657',  : Changed
+16-Oct-2018 04:40:29 -> Result : data_3 = '2778', data_7 = '0001', data_8 = '004', data_9 = '113628',  : Changed
+16-Oct-2018 04:40:29 -> Result : data_9 = '113649',  : Changed
+16-Oct-2018 04:40:29 -> Result : data_3 = '1911250', data_7 = '3250', data_8 = '017', data_9 = '113201',  : Changed
+16-Oct-2018 04:40:29 -> Result : Update data Successfully 
+16-Oct-2018 04:40:34 -> Result : Swap:       7999484           0     7999484
+16-Oct-2018 04:40:34 -> Result : Render Processing from https://id.investing.com/commodities/metals where id cross_rate_1
+16-Oct-2018 04:40:38 -> Result : Render Done..
+16-Oct-2018 04:40:38 -> Result : Load data from directory webpage where File : cross_rate_1.html
+16-Oct-2018 04:40:38 -> Result : Get Element in Body Table
+16-Oct-2018 04:40:38 -> Result : Successfully Crawling data from https://id.investing.com/commodities/metals
+16-Oct-2018 04:40:38 -> Result : Record data is 11
+16-Oct-2018 04:40:38 -> Result : Created Json File -> cross_rate_1.json
+16-Oct-2018 04:40:38 -> Result : Compare Data
+16-Oct-2018 04:40:38 -> Result : data_3 = '203325', data_7 = '325', data_8 = '016', data_9 = '113400',  : Changed
+16-Oct-2018 04:40:38 -> Result : data_3 = '122970', data_7 = '060', data_8 = '005', data_9 = '113555',  : Changed
+16-Oct-2018 04:40:38 -> Result : data_3 = '208100', data_7 = '125', data_8 = '006', data_9 = '113656',  : Changed
+16-Oct-2018 04:40:38 -> Result : data_3 = '1249500', data_7 = '7500', data_8 = '060', data_9 = '113625',  : Changed
+16-Oct-2018 04:40:38 -> Result : data_9 = '113631',  : Changed
+16-Oct-2018 04:40:38 -> Result : data_9 = '113558',  : Changed
+16-Oct-2018 04:40:38 -> Result : data_9 = '113615',  : Changed
+16-Oct-2018 04:40:38 -> Result : data_3 = '258125', data_7 = '1600', data_8 = '062', data_9 = '113657',  : Changed
+16-Oct-2018 04:40:38 -> Result : data_3 = '2778', data_7 = '0001', data_8 = '004', data_9 = '113628',  : Changed
+16-Oct-2018 04:40:38 -> Result : data_3 = '622025', data_7 = '2050', data_8 = '033', data_9 = '113649',  : Changed
+16-Oct-2018 04:40:38 -> Result : data_3 = '1911250', data_7 = '3250', data_8 = '017', data_9 = '113201',  : Changed
+16-Oct-2018 04:40:38 -> Result : Update data Successfully 
+16-Oct-2018 04:40:43 -> Result : Swap:       7999484           0     7999484
+16-Oct-2018 04:40:43 -> Result : Render Processing from https://id.investing.com/commodities/metals where id cross_rate_1
+16-Oct-2018 04:40:52 -> Result : Render Done..
+16-Oct-2018 04:40:52 -> Result : Load data from directory webpage where File : cross_rate_1.html
+16-Oct-2018 04:40:52 -> Result : Get Element in Body Table
+16-Oct-2018 04:40:52 -> Result : Successfully Crawling data from https://id.investing.com/commodities/metals
+16-Oct-2018 04:40:52 -> Result : Record data is 11
+16-Oct-2018 04:40:52 -> Result : Created Json File -> cross_rate_1.json
+16-Oct-2018 04:40:52 -> Result : Compare Data
+16-Oct-2018 04:40:52 -> Result : data_3 = '203325', data_7 = '325', data_8 = '016', data_9 = '113400',  : Changed
+16-Oct-2018 04:40:52 -> Result : data_3 = '122970', data_7 = '060', data_8 = '005', data_9 = '113555',  : Changed
+16-Oct-2018 04:40:52 -> Result : data_3 = '208100', data_7 = '125', data_8 = '006', data_9 = '113656',  : Changed
+16-Oct-2018 04:40:52 -> Result : data_9 = '113625',  : Changed
+16-Oct-2018 04:40:52 -> Result : data_9 = '113631',  : Changed
+16-Oct-2018 04:40:52 -> Result : data_9 = '113558',  : Changed
+16-Oct-2018 04:40:52 -> Result : data_9 = '113615',  : Changed
+16-Oct-2018 04:40:52 -> Result : data_3 = '258125', data_7 = '1600', data_8 = '062', data_9 = '113657',  : Changed
+16-Oct-2018 04:40:52 -> Result : data_3 = '2778', data_7 = '0001', data_8 = '004', data_9 = '113628',  : Changed
+16-Oct-2018 04:40:52 -> Result : data_3 = '622025', data_7 = '2050', data_8 = '033', data_9 = '113649',  : Changed
+16-Oct-2018 04:40:52 -> Result : data_3 = '1911250', data_7 = '3250', data_8 = '017', data_9 = '113201',  : Changed
+16-Oct-2018 04:40:52 -> Result : Update data Successfully 
+16-Oct-2018 04:40:57 -> Result : Swap:       7999484           0     7999484
+16-Oct-2018 04:40:57 -> Result : Render Processing from https://id.investing.com/commodities/metals where id cross_rate_1
+16-Oct-2018 04:43:19 -> Result : Render Processing from https://id.investing.com/commodities/metals where id cross_rate_1
+16-Oct-2018 04:43:23 -> Result : Render Done..
+16-Oct-2018 04:43:23 -> Result : Load data from directory webpage where File : cross_rate_1.html
+16-Oct-2018 04:43:23 -> Result : Get Element in Body Table
+16-Oct-2018 04:43:23 -> Result : Successfully Crawling data from https://id.investing.com/commodities/metals
+16-Oct-2018 04:43:23 -> Result : Record data is 11
+16-Oct-2018 04:43:23 -> Result : Created Json File -> cross_rate_1.json
+16-Oct-2018 04:43:23 -> Result : Compare Data
+16-Oct-2018 04:43:23 -> Result : Update data Successfully 
+16-Oct-2018 04:43:28 -> Result : 
+16-Oct-2018 04:43:28 -> Result : Render Processing from https://id.investing.com/commodities/metals where id cross_rate_1
+16-Oct-2018 04:43:34 -> Result : Render Done..
+16-Oct-2018 04:43:34 -> Result : Load data from directory webpage where File : cross_rate_1.html
+16-Oct-2018 04:43:34 -> Result : Get Element in Body Table
+16-Oct-2018 04:43:34 -> Result : Successfully Crawling data from https://id.investing.com/commodities/metals
+16-Oct-2018 04:43:34 -> Result : Record data is 11
+16-Oct-2018 04:43:34 -> Result : Created Json File -> cross_rate_1.json
+16-Oct-2018 04:43:34 -> Result : Compare Data
+16-Oct-2018 04:43:34 -> Result : data_3 = '1249500', data_7 = '7500', data_8 = '060', data_9 = '114147',  : Changed
+16-Oct-2018 04:43:34 -> Result : data_9 = '114257',  : Changed
+16-Oct-2018 04:43:34 -> Result : data_9 = '114216',  : Changed
+16-Oct-2018 04:43:34 -> Result : data_3 = '258300', data_7 = '1425', data_8 = '055', data_9 = '114125',  : Changed
+16-Oct-2018 04:43:34 -> Result : data_3 = '622200', data_7 = '1875', data_9 = '114316',  : Changed
+16-Oct-2018 04:43:34 -> Result : Update data Successfully 
+16-Oct-2018 04:43:39 -> Result : 
+16-Oct-2018 04:43:39 -> Result : Render Processing from https://id.investing.com/commodities/metals where id cross_rate_1
+16-Oct-2018 04:43:43 -> Result : Render Done..
+16-Oct-2018 04:43:43 -> Result : Load data from directory webpage where File : cross_rate_1.html
+16-Oct-2018 04:43:43 -> Result : Get Element in Body Table
+16-Oct-2018 04:43:43 -> Result : Successfully Crawling data from https://id.investing.com/commodities/metals
+16-Oct-2018 04:43:43 -> Result : Record data is 11
+16-Oct-2018 04:43:43 -> Result : Created Json File -> cross_rate_1.json
+16-Oct-2018 04:43:43 -> Result : Compare Data
+16-Oct-2018 04:43:43 -> Result : data_3 = '122970', data_7 = '060', data_8 = '005', data_9 = '114236',  : Changed
+16-Oct-2018 04:43:43 -> Result : data_3 = '1249500', data_7 = '7500', data_8 = '060', data_9 = '114147',  : Changed
+16-Oct-2018 04:43:43 -> Result : data_9 = '114257',  : Changed
+16-Oct-2018 04:43:43 -> Result : data_9 = '114216',  : Changed
+16-Oct-2018 04:43:43 -> Result : data_3 = '258300', data_7 = '1425', data_8 = '055', data_9 = '114125',  : Changed
+16-Oct-2018 04:43:43 -> Result : data_3 = '622200', data_7 = '1875', data_9 = '114316',  : Changed
+16-Oct-2018 04:43:43 -> Result : Update data Successfully 
+16-Oct-2018 04:43:48 -> Result : 
+16-Oct-2018 04:43:48 -> Result : Render Processing from https://id.investing.com/commodities/metals where id cross_rate_1
+16-Oct-2018 04:43:52 -> Result : Render Done..
+16-Oct-2018 04:43:52 -> Result : Load data from directory webpage where File : cross_rate_1.html
+16-Oct-2018 04:43:52 -> Result : Get Element in Body Table
+16-Oct-2018 04:43:52 -> Result : Successfully Crawling data from https://id.investing.com/commodities/metals
+16-Oct-2018 04:43:52 -> Result : Record data is 11
+16-Oct-2018 04:43:52 -> Result : Created Json File -> cross_rate_1.json
+16-Oct-2018 04:43:52 -> Result : Compare Data
+16-Oct-2018 04:43:52 -> Result : data_3 = '122970', data_7 = '060', data_8 = '005', data_9 = '114236',  : Changed
+16-Oct-2018 04:43:52 -> Result : data_3 = '208150', data_7 = '175', data_8 = '008', data_9 = '114316',  : Changed
+16-Oct-2018 04:43:52 -> Result : data_9 = '114147',  : Changed
+16-Oct-2018 04:43:52 -> Result : data_9 = '114257',  : Changed
+16-Oct-2018 04:43:52 -> Result : data_9 = '114216',  : Changed
+16-Oct-2018 04:43:52 -> Result : data_3 = '258300', data_7 = '1425', data_8 = '055', data_9 = '114125',  : Changed
+16-Oct-2018 04:43:52 -> Result : data_9 = '114316',  : Changed
+16-Oct-2018 04:43:52 -> Result : Update data Successfully 
+16-Oct-2018 04:43:57 -> Result : 
+16-Oct-2018 04:43:57 -> Result : Render Processing from https://id.investing.com/commodities/metals where id cross_rate_1
+16-Oct-2018 04:44:02 -> Result : Render Done..
+16-Oct-2018 04:44:02 -> Result : Load data from directory webpage where File : cross_rate_1.html
+16-Oct-2018 04:44:02 -> Result : Get Element in Body Table
+16-Oct-2018 04:44:02 -> Result : Successfully Crawling data from https://id.investing.com/commodities/metals
+16-Oct-2018 04:44:02 -> Result : Record data is 11
+16-Oct-2018 04:44:02 -> Result : Created Json File -> cross_rate_1.json
+16-Oct-2018 04:44:02 -> Result : Compare Data
+16-Oct-2018 04:44:02 -> Result : data_3 = '122970', data_7 = '060', data_8 = '005', data_9 = '114236',  : Changed
+16-Oct-2018 04:44:02 -> Result : data_3 = '208150', data_7 = '175', data_8 = '008', data_9 = '114316',  : Changed
+16-Oct-2018 04:44:02 -> Result : data_9 = '114147',  : Changed
+16-Oct-2018 04:44:02 -> Result : data_9 = '114257',  : Changed
+16-Oct-2018 04:44:02 -> Result : data_9 = '114216',  : Changed
+16-Oct-2018 04:44:02 -> Result : data_3 = '258300', data_7 = '1425', data_8 = '055', data_9 = '114125',  : Changed
+16-Oct-2018 04:44:02 -> Result : data_9 = '114316',  : Changed
+16-Oct-2018 04:44:02 -> Result : Update data Successfully 
+16-Oct-2018 04:44:07 -> Result : 
+16-Oct-2018 04:44:07 -> Result : Render Processing from https://id.investing.com/commodities/metals where id cross_rate_1
+16-Oct-2018 04:44:16 -> Result : Render Done..
+16-Oct-2018 04:44:16 -> Result : Load data from directory webpage where File : cross_rate_1.html
+16-Oct-2018 04:44:16 -> Result : Get Element in Body Table
+16-Oct-2018 04:44:16 -> Result : Successfully Crawling data from https://id.investing.com/commodities/metals
+16-Oct-2018 04:44:16 -> Result : Record data is 11
+16-Oct-2018 04:44:16 -> Result : Created Json File -> cross_rate_1.json
+16-Oct-2018 04:44:16 -> Result : Compare Data
+16-Oct-2018 04:44:16 -> Result : data_3 = '122970', data_7 = '060', data_8 = '005', data_9 = '114236',  : Changed
+16-Oct-2018 04:44:16 -> Result : data_3 = '208150', data_7 = '175', data_8 = '008', data_9 = '114316',  : Changed
+16-Oct-2018 04:44:16 -> Result : data_9 = '114147',  : Changed
+16-Oct-2018 04:44:16 -> Result : data_9 = '114257',  : Changed
+16-Oct-2018 04:44:16 -> Result : data_3 = '84610', data_7 = '040', data_8 = '005', data_9 = '114216',  : Changed
+16-Oct-2018 04:44:16 -> Result : data_3 = '258300', data_7 = '1425', data_8 = '055', data_9 = '114125',  : Changed
+16-Oct-2018 04:44:16 -> Result : data_9 = '114235',  : Changed
+16-Oct-2018 04:44:16 -> Result : data_3 = '622200', data_7 = '1875', data_9 = '114316',  : Changed
+16-Oct-2018 04:44:16 -> Result : Update data Successfully 
+16-Oct-2018 04:44:21 -> Result : 
+16-Oct-2018 04:44:21 -> Result : Render Processing from https://id.investing.com/commodities/metals where id cross_rate_1
+16-Oct-2018 04:44:31 -> Result : Render Done..
+16-Oct-2018 04:44:31 -> Result : Load data from directory webpage where File : cross_rate_1.html
+16-Oct-2018 04:44:31 -> Result : Get Element in Body Table
+16-Oct-2018 04:44:31 -> Result : Successfully Crawling data from https://id.investing.com/commodities/metals
+16-Oct-2018 04:44:31 -> Result : Record data is 11
+16-Oct-2018 04:44:31 -> Result : Created Json File -> cross_rate_1.json
+16-Oct-2018 04:44:31 -> Result : Compare Data
+16-Oct-2018 04:44:31 -> Result : data_3 = '122970', data_7 = '060', data_8 = '005', data_9 = '114236',  : Changed
+16-Oct-2018 04:44:31 -> Result : data_3 = '208150', data_7 = '175', data_8 = '008', data_9 = '114316',  : Changed
+16-Oct-2018 04:44:31 -> Result : data_9 = '114147',  : Changed
+16-Oct-2018 04:44:31 -> Result : data_9 = '114257',  : Changed
+16-Oct-2018 04:44:31 -> Result : data_3 = '84610', data_7 = '040', data_8 = '005', data_9 = '114216',  : Changed
+16-Oct-2018 04:44:31 -> Result : data_3 = '258300', data_7 = '1425', data_8 = '055', data_9 = '114125',  : Changed
+16-Oct-2018 04:44:31 -> Result : data_9 = '114235',  : Changed
+16-Oct-2018 04:44:31 -> Result : data_3 = '622200', data_7 = '1875', data_9 = '114316',  : Changed
+16-Oct-2018 04:44:31 -> Result : Update data Successfully 
+16-Oct-2018 04:44:36 -> Result : 
+16-Oct-2018 04:44:36 -> Result : Render Processing from https://id.investing.com/commodities/metals where id cross_rate_1
