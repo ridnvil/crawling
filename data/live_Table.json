@@ -1,0 +1,2557 @@
+Array
+(
+    [0] => Array
+        (
+            [data_0] => 
+            [data_1] => Contest
+            [data_2] => Time
+            [data_3] => Status
+            [data_4] => Home
+            [data_5] => Score
+            [data_6] => Away
+            [data_7] => HT
+            [data_8] => 
+            [data_9] => TOP
+        )
+
+    [1] => Array
+        (
+            [data_0] => FavouriteRestore Defaults
+        )
+
+    [4] => Array
+        (
+            [data_0] => 16102018 Tuesday  
+        )
+
+    [6] => Array
+        (
+            [data_0] => 
+            [data_1] => INT CF
+            [data_2] => 1400
+            [data_3] => 1
+            [data_4] => 6NK Sesvete
+            [data_5] => 
+            [data_6] => HNK Gorica4
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [8] => Array
+        (
+            [data_0] => 
+            [data_1] => IDN D2
+            [data_2] => 1530
+            [data_3] => 1
+            [data_4] => PSIM Yogyakarta
+            [data_5] => 
+            [data_6] => Madura FC
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [10] => Array
+        (
+            [data_0] => 
+            [data_1] => JPN D2
+            [data_2] => 1700
+            [data_3] => 1
+            [data_4] => 8Tokushima Vortis
+            [data_5] => 
+            [data_6] => Ventforet Kofu11
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [12] => Array
+        (
+            [data_0] => 
+            [data_1] => INTERF
+            [data_2] => 1735
+            [data_3] => 1
+            [data_4] => 54Japan
+            [data_5] => 
+            [data_6] => Uruguay5
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [14] => Array
+        (
+            [data_0] => 
+            [data_1] => INTERF
+            [data_2] => 1800
+            [data_3] => 1
+            [data_4] => 55Korea Republic
+            [data_5] => 
+            [data_6] => Panama70
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [16] => Array
+        (
+            [data_0] => 
+            [data_1] => DEN RL
+            [data_2] => 1800
+            [data_3] => 1
+            [data_4] => A3FC Nordsjaelland Reserve
+            [data_5] => 
+            [data_6] => Kobenhavn ReserveA4
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [18] => Array
+        (
+            [data_0] => 
+            [data_1] => CAF NC
+            [data_2] => 1830
+            [data_3] => 1
+            [data_4] => A2Madagascar
+            [data_5] => 
+            [data_6] => Equatorial GuineaA3
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [20] => Array
+        (
+            [data_0] => 
+            [data_1] => INTERF
+            [data_2] => 1830
+            [data_3] => 1
+            [data_4] => 179Laos
+            [data_5] => 
+            [data_6] => Mongolia186
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [22] => Array
+        (
+            [data_0] => 
+            [data_1] => INTERF
+            [data_2] => 1830
+            [data_3] => 1
+            [data_4] => 164Indonesia
+            [data_5] => 
+            [data_6] => Hong KongChina143
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [24] => Array
+        (
+            [data_0] => 
+            [data_1] => INTERF
+            [data_2] => 1830
+            [data_3] => 1
+            [data_4] => 169Cambodia
+            [data_5] => 
+            [data_6] => Singapore166
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [26] => Array
+        (
+            [data_0] => 
+            [data_1] => IRN D1
+            [data_2] => 1845
+            [data_3] => 1
+            [data_4] => 5Aluminium Arak
+            [data_5] => 
+            [data_6] => Shahin Bushehr3
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [28] => Array
+        (
+            [data_0] => 
+            [data_1] => IRN D1
+            [data_2] => 1845
+            [data_3] => 1
+            [data_4] => 9Shahrdari Tabriz
+            [data_5] => 
+            [data_6] => Arvand Khorramshahr10
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [30] => Array
+        (
+            [data_0] => 
+            [data_1] => CAF NC
+            [data_2] => 1900
+            [data_3] => 1
+            [data_4] => B4Comoros
+            [data_5] => 
+            [data_6] => MoroccoB2
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [32] => Array
+        (
+            [data_0] => 
+            [data_1] => INTERF
+            [data_2] => 1900
+            [data_3] => 1
+            [data_4] => 76China
+            [data_5] => 
+            [data_6] => Syria74
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [34] => Array
+        (
+            [data_0] => 
+            [data_1] => UEFA U19
+            [data_2] => 1900
+            [data_3] => 1
+            [data_4] => H4AlbaniaU19
+            [data_5] => 
+            [data_6] => NorwayU19H2
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [36] => Array
+        (
+            [data_0] => 
+            [data_1] => UEFA U19
+            [data_2] => 1900
+            [data_3] => 1
+            [data_4] => B4EstoniaU19
+            [data_5] => 
+            [data_6] => FinlandU19B3
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [38] => Array
+        (
+            [data_0] => 
+            [data_1] => UEFA U19
+            [data_2] => 1900
+            [data_3] => 1
+            [data_4] => B2DenmarkU19N
+            [data_5] => 
+            [data_6] => ItalyU19B1
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [40] => Array
+        (
+            [data_0] => 
+            [data_1] => UEFA U19
+            [data_2] => 1900
+            [data_3] => 1
+            [data_4] => H1SlovakiaU19N
+            [data_5] => 
+            [data_6] => UkraineU19H3
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [42] => Array
+        (
+            [data_0] => 
+            [data_1] => UEFA U19
+            [data_2] => 1900
+            [data_3] => 1
+            [data_4] => J4Faroe IslandsU19N
+            [data_5] => 
+            [data_6] => Bosnia and HerzegovinaU19J3
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [44] => Array
+        (
+            [data_0] => 
+            [data_1] => UEFA U19
+            [data_2] => 1900
+            [data_3] => 1
+            [data_4] => J2IrelandU19
+            [data_5] => 
+            [data_6] => NetherlandsU19J1
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [46] => Array
+        (
+            [data_0] => 
+            [data_1] => URU RL
+            [data_2] => 1900
+            [data_3] => 1
+            [data_4] => Liverpool Montevideo Reserve
+            [data_5] => 
+            [data_6] => Defensor SC Reserve
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [48] => Array
+        (
+            [data_0] => 
+            [data_1] => CAF NC
+            [data_2] => 1930
+            [data_3] => 1
+            [data_4] => B3Malawi
+            [data_5] => 
+            [data_6] => CameroonB1
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [50] => Array
+        (
+            [data_0] => 
+            [data_1] => UEFA U21Q
+            [data_2] => 1930
+            [data_3] => 1
+            [data_4] => G5FYR MacedoniaU21
+            [data_5] => 
+            [data_6] => GibraltarU21G6
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [52] => Array
+        (
+            [data_0] => 
+            [data_1] => Italy C1C
+            [data_2] => 1930
+            [data_3] => 1
+            [data_4] => 9Rieti
+            [data_5] => 
+            [data_6] => Vibonese10
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [54] => Array
+        (
+            [data_0] => 
+            [data_1] => INTERF
+            [data_2] => 1945
+            [data_3] => 1
+            [data_4] => 171Malaysia
+            [data_5] => 
+            [data_6] => Kyrgyzstan91
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [56] => Array
+        (
+            [data_0] => 
+            [data_1] => Kos SL
+            [data_2] => 1945
+            [data_3] => 1
+            [data_4] => 4KF Flamurtari PristinaKOS
+            [data_5] => 
+            [data_6] => KF Drenica Srbica6
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [58] => Array
+        (
+            [data_0] => 
+            [data_1] => Kos SL
+            [data_2] => 1945
+            [data_3] => 1
+            [data_4] => 10KF Liria
+            [data_5] => 
+            [data_6] => KF Trepca 897
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [60] => Array
+        (
+            [data_0] => 
+            [data_1] => CAF NC
+            [data_2] => 2000
+            [data_3] => 1
+            [data_4] => J3Eswatini
+            [data_5] => 
+            [data_6] => EgyptJ2
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [62] => Array
+        (
+            [data_0] => 
+            [data_1] => CAF NC
+            [data_2] => 2000
+            [data_3] => 1
+            [data_4] => C2Burundi
+            [data_5] => 
+            [data_6] => MaliC1
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [64] => Array
+        (
+            [data_0] => 
+            [data_1] => CAF NC
+            [data_2] => 2000
+            [data_3] => 1
+            [data_4] => C4South Sudan
+            [data_5] => 
+            [data_6] => GabonC3
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [66] => Array
+        (
+            [data_0] => 
+            [data_1] => UEFA U17
+            [data_2] => 2000
+            [data_3] => 1
+            [data_4] => B2Bosnia and HerzegovinaU17
+            [data_5] => 
+            [data_6] => UkraineU17B1
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [68] => Array
+        (
+            [data_0] => 
+            [data_1] => UEFA U17
+            [data_2] => 2000
+            [data_3] => 1
+            [data_4] => B4GibraltarU17N
+            [data_5] => 
+            [data_6] => IcelandU17B3
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [70] => Array
+        (
+            [data_0] => 
+            [data_1] => UGA SL
+            [data_2] => 2000
+            [data_3] => 1
+            [data_4] => Police FCUGA
+            [data_5] => 
+            [data_6] => Express FC
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [72] => Array
+        (
+            [data_0] => 
+            [data_1] => URU RL
+            [data_2] => 2000
+            [data_3] => 1
+            [data_4] => Wanderers Reserve
+            [data_5] => 
+            [data_6] => Racing Club Montevideo Reserve
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [74] => Array
+        (
+            [data_0] => 
+            [data_1] => INT CF
+            [data_2] => 2000
+            [data_3] => 1
+            [data_4] => 6Motherwell FC Reserve
+            [data_5] => 
+            [data_6] => Dunfermline Reserve13
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [76] => Array
+        (
+            [data_0] => 
+            [data_1] => CAF NC
+            [data_2] => 2030
+            [data_3] => 1
+            [data_4] => H4Rwanda
+            [data_5] => 
+            [data_6] => GuineaH1
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [78] => Array
+        (
+            [data_0] => 
+            [data_1] => CAF NC
+            [data_2] => 2030
+            [data_3] => 1
+            [data_4] => E4Seychelles
+            [data_5] => 
+            [data_6] => South AfricaE1
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [80] => Array
+        (
+            [data_0] => 
+            [data_1] => UEFA U19
+            [data_2] => 2030
+            [data_3] => 1
+            [data_4] => G3KosovoU19N
+            [data_5] => 
+            [data_6] => SloveniaU19G4
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [82] => Array
+        (
+            [data_0] => 
+            [data_1] => UEFA U19
+            [data_2] => 2030
+            [data_3] => 1
+            [data_4] => G1HungaryU19
+            [data_5] => 
+            [data_6] => AustriaU19G2
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [84] => Array
+        (
+            [data_0] => 
+            [data_1] => UGA SL
+            [data_2] => 2030
+            [data_3] => 1
+            [data_4] => Bidco Bul Fc
+            [data_5] => 
+            [data_6] => Paidha BA
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [86] => Array
+        (
+            [data_0] => 
+            [data_1] => UGA SL
+            [data_2] => 2030
+            [data_3] => 1
+            [data_4] => Torro United
+            [data_5] => 
+            [data_6] => Kirinja Jinja SS
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [88] => Array
+        (
+            [data_0] => 
+            [data_1] => IRN D1
+            [data_2] => 2045
+            [data_3] => 1
+            [data_4] => 16Shahrdari Mahshahr
+            [data_5] => 
+            [data_6] => Malavan15
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [90] => Array
+        (
+            [data_0] => 
+            [data_1] => UEFA NL
+            [data_2] => 2100
+            [data_3] => 1
+            [data_4] => DA3Kazakhstan
+            [data_5] => 
+            [data_6] => AndorraDA4
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [92] => Array
+        (
+            [data_0] => 
+            [data_1] => CAF NC
+            [data_2] => 2100
+            [data_3] => 1
+            [data_4] => H3Central African Republic
+            [data_5] => 
+            [data_6] => Cote dIvoireH2
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [94] => Array
+        (
+            [data_0] => 
+            [data_1] => CAF NC
+            [data_2] => 2100
+            [data_3] => 1
+            [data_4] => L4Tanzania
+            [data_5] => 
+            [data_6] => Cape VerdeL2
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [96] => Array
+        (
+            [data_0] => 
+            [data_1] => INTERF
+            [data_2] => 2100
+            [data_3] => 1
+            [data_4] => 96Uzbekistan
+            [data_5] => 
+            [data_6] => Qatar94
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [98] => Array
+        (
+            [data_0] => 
+            [data_1] => INT EL20
+            [data_2] => 2100
+            [data_3] => 1
+            [data_4] => GermanyU20
+            [data_5] => 
+            [data_6] => SwitzerlandU20
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [100] => Array
+        (
+            [data_0] => 
+            [data_1] => UEFA U21Q
+            [data_2] => 2100
+            [data_3] => 1
+            [data_4] => I5Montenegro U21
+            [data_5] => 
+            [data_6] => KazakhstanU21I4
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [102] => Array
+        (
+            [data_0] => 
+            [data_1] => SWE U21AS
+            [data_2] => 2100
+            [data_3] => 1
+            [data_4] => 3GoteborgU21
+            [data_5] => 
+            [data_6] => Varbergs BoISU215
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [104] => Array
+        (
+            [data_0] => 
+            [data_1] => URU RL
+            [data_2] => 2100
+            [data_3] => 1
+            [data_4] => Atenas San Carlos Reserve
+            [data_5] => 
+            [data_6] => Rampla Juniors Reserve
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [106] => Array
+        (
+            [data_0] => 
+            [data_1] => KSA D1
+            [data_2] => 2155
+            [data_3] => 1
+            [data_4] => 15Al Khaleej Club
+            [data_5] => 
+            [data_6] => AlNahdha17
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [108] => Array
+        (
+            [data_0] => 
+            [data_1] => KSA D1
+            [data_2] => 2155
+            [data_3] => 1
+            [data_4] => 13AlAdalh
+            [data_5] => 
+            [data_6] => Al Mojzel18
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [110] => Array
+        (
+            [data_0] => 
+            [data_1] => CAF NC
+            [data_2] => 2200
+            [data_3] => 1
+            [data_4] => J4Niger
+            [data_5] => 
+            [data_6] => TunisiaJ1
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [112] => Array
+        (
+            [data_0] => 
+            [data_1] => CAF NC
+            [data_2] => 2200
+            [data_3] => 1
+            [data_4] => D2Benin
+            [data_5] => 
+            [data_6] => AlgeriaD1
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [114] => Array
+        (
+            [data_0] => 
+            [data_1] => INTERF
+            [data_2] => 2200
+            [data_3] => 1
+            [data_4] => Czech RepublicU19
+            [data_5] => 
+            [data_6] => PortugalU19
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [116] => Array
+        (
+            [data_0] => 
+            [data_1] => UEFA U21Q
+            [data_2] => 2200
+            [data_3] => 1
+            [data_4] => E5IsraelU21
+            [data_5] => 
+            [data_6] => Kosovo U21E4
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [118] => Array
+        (
+            [data_0] => 
+            [data_1] => UEFA U21Q
+            [data_2] => 2200
+            [data_3] => 1
+            [data_4] => F6MaltaU21
+            [data_5] => 
+            [data_6] => CyprusU21F5
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [120] => Array
+        (
+            [data_0] => 
+            [data_1] => SWE U21SS
+            [data_2] => 2200
+            [data_3] => 1
+            [data_4] => 1HelsingborgU21
+            [data_5] => 
+            [data_6] => Utsiktens BKU216
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [122] => Array
+        (
+            [data_0] => 
+            [data_1] => ESTWC
+            [data_2] => 2200
+            [data_3] => 1
+            [data_4] => Ajax Tallinna Womens
+            [data_5] => 
+            [data_6] => Tallinna JK Legion Womens
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [124] => Array
+        (
+            [data_0] => 
+            [data_1] => BHR D2
+            [data_2] => 2200
+            [data_3] => 1
+            [data_4] => AlIttihad BHR
+            [data_5] => 
+            [data_6] => Qalali
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [126] => Array
+        (
+            [data_0] => 
+            [data_1] => BHR D2
+            [data_2] => 2200
+            [data_3] => 1
+            [data_4] => Sitra
+            [data_5] => 
+            [data_6] => Isa Town
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [128] => Array
+        (
+            [data_0] => 
+            [data_1] => KSA D1
+            [data_2] => 2205
+            [data_3] => 1
+            [data_4] => 20AlKawkab
+            [data_5] => 
+            [data_6] => AlShoalah11
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [130] => Array
+        (
+            [data_0] => 
+            [data_1] => KSA D1
+            [data_2] => 2225
+            [data_3] => 1
+            [data_4] => 16AlTai
+            [data_5] => 
+            [data_6] => AlOrubah12
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [132] => Array
+        (
+            [data_0] => 
+            [data_1] => KSA D1
+            [data_2] => 2225
+            [data_3] => 1
+            [data_4] => 3Dhamk
+            [data_5] => 
+            [data_6] => Jeddah1
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [134] => Array
+        (
+            [data_0] => 
+            [data_1] => INTERF
+            [data_2] => 2230
+            [data_3] => 1
+            [data_4] => 85OmanN
+            [data_5] => 
+            [data_6] => Ecuador58
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [136] => Array
+        (
+            [data_0] => 
+            [data_1] => SPA T10
+            [data_2] => 2230
+            [data_3] => 1
+            [data_4] => 5Real Betis B
+            [data_5] => 
+            [data_6] => CD Utrera9
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [138] => Array
+        (
+            [data_0] => 
+            [data_1] => UEFA U17
+            [data_2] => 2245
+            [data_3] => 1
+            [data_4] => K2KazakhstanU17N
+            [data_5] => 
+            [data_6] => BelarusU17K4
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [140] => Array
+        (
+            [data_0] => 
+            [data_1] => UEFA U17
+            [data_2] => 2245
+            [data_3] => 1
+            [data_4] => K1PortugalU17
+            [data_5] => 
+            [data_6] => WalesU17K3
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [142] => Array
+        (
+            [data_0] => 
+            [data_1] => UEFA NL
+            [data_2] => 2259
+            [data_3] => 1
+            [data_4] => DD3Armenia
+            [data_5] => 
+            [data_6] => FYR MacedoniaDD1
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [144] => Array
+        (
+            [data_0] => 
+            [data_1] => CAF NC
+            [data_2] => 2259
+            [data_3] => 1
+            [data_4] => L3Lesotho
+            [data_5] => 
+            [data_6] => UgandaL1
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [146] => Array
+        (
+            [data_0] => 
+            [data_1] => INTERF
+            [data_2] => 2259
+            [data_3] => 1
+            [data_4] => 33Iran
+            [data_5] => 
+            [data_6] => Bolivia58
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [148] => Array
+        (
+            [data_0] => 
+            [data_1] => INTERF
+            [data_2] => 2259
+            [data_3] => 1
+            [data_4] => KuwaitU23
+            [data_5] => 
+            [data_6] => Saudi ArabiaU23
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [150] => Array
+        (
+            [data_0] => 
+            [data_1] => INTERF
+            [data_2] => 2259
+            [data_3] => 1
+            [data_4] => 77United Arab EmiratesN
+            [data_5] => 
+            [data_6] => Venezuela32
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [152] => Array
+        (
+            [data_0] => 
+            [data_1] => INT EL20
+            [data_2] => 2259
+            [data_3] => 1
+            [data_4] => ItalyU20
+            [data_5] => 
+            [data_6] => PortugalU20
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [154] => Array
+        (
+            [data_0] => 
+            [data_1] => ARG D2M1
+            [data_2] => 2259
+            [data_3] => 1
+            [data_4] => 17CA San Miguel
+            [data_5] => 
+            [data_6] => Justo Jose de Urquiza14
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [156] => Array
+        (
+            [data_0] => 
+            [data_1] => UEFA U19
+            [data_2] => 2259
+            [data_3] => 1
+            [data_4] => L2SwitzerlandU19
+            [data_5] => 
+            [data_6] => SpainU19L1
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [158] => Array
+        (
+            [data_0] => 
+            [data_1] => UEFA U19
+            [data_2] => 2259
+            [data_3] => 1
+            [data_4] => L4AndorraU19N
+            [data_5] => 
+            [data_6] => BelarusU19L3
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [160] => Array
+        (
+            [data_0] => 
+            [data_1] => UEFA U21Q
+            [data_2] => 2259
+            [data_3] => 1
+            [data_4] => B6EstoniaU21
+            [data_5] => 
+            [data_6] => AlbaniaU21B5
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [162] => Array
+        (
+            [data_0] => 
+            [data_1] => UEFA U21Q
+            [data_2] => 2259
+            [data_3] => 1
+            [data_4] => C4FinlandU21
+            [data_5] => 
+            [data_6] => LithuaniaU21C6
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [164] => Array
+        (
+            [data_0] => 
+            [data_1] => UEFA U21Q
+            [data_2] => 2259
+            [data_3] => 1
+            [data_4] => C2PolandU21
+            [data_5] => 
+            [data_6] => GeorgiaU21C3
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [166] => Array
+        (
+            [data_0] => 
+            [data_1] => UEFA U21Q
+            [data_2] => 2259
+            [data_3] => 1
+            [data_4] => C1DenmarkU21
+            [data_5] => 
+            [data_6] => Faroe IslandsU21C5
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [168] => Array
+        (
+            [data_0] => 
+            [data_1] => UEFA U21Q
+            [data_2] => 2259
+            [data_3] => 1
+            [data_4] => G2AustriaU21
+            [data_5] => 
+            [data_6] => RussiaU21G3
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [170] => Array
+        (
+            [data_0] => 
+            [data_1] => UEFA U21Q
+            [data_2] => 2259
+            [data_3] => 1
+            [data_4] => G1SerbiaU21
+            [data_5] => 
+            [data_6] => ArmeniaU21G4
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [172] => Array
+        (
+            [data_0] => 
+            [data_1] => SVK Cup
+            [data_2] => 2259
+            [data_3] => 1
+            [data_4] => 2FK Pohronie
+            [data_5] => 
+            [data_6] => SKF Sered7
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [174] => Array
+        (
+            [data_0] => 
+            [data_1] => INTERF
+            [data_2] => 2315
+            [data_3] => 1
+            [data_4] => 112Bahrain
+            [data_5] => 
+            [data_6] => Myanmar138
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [176] => Array
+        (
+            [data_0] => 
+            [data_1] => UEFA U21Q
+            [data_2] => 2315
+            [data_3] => 1
+            [data_4] => E2NorwayU21
+            [data_5] => 
+            [data_6] => AzerbaijanU21E6
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [178] => Array
+        (
+            [data_0] => 
+            [data_1] => UEFA U21Q
+            [data_2] => 2315
+            [data_3] => 1
+            [data_4] => E1GermanyU21
+            [data_5] => 
+            [data_6] => IrelandU21E3
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [180] => Array
+        (
+            [data_0] => 
+            [data_1] => DEN D1
+            [data_2] => 2330
+            [data_3] => 1
+            [data_4] => 12FC Roskilde
+            [data_5] => 
+            [data_6] => Naestved6
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [182] => Array
+        (
+            [data_0] => 
+            [data_1] => CAF NC
+            [data_2] => 2330
+            [data_3] => 1
+            [data_4] => D3Gambia
+            [data_5] => 
+            [data_6] => TogoD4
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [184] => Array
+        (
+            [data_0] => 
+            [data_1] => UEFA U21Q
+            [data_2] => 2330
+            [data_3] => 1
+            [data_4] => D4ScotlandU21
+            [data_5] => 
+            [data_6] => EnglandU21D1
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [186] => Array
+        (
+            [data_0] => 
+            [data_1] => UEFA U21Q
+            [data_2] => 2330
+            [data_3] => 1
+            [data_4] => D3NetherlandsU21
+            [data_5] => 
+            [data_6] => UkraineU21D2
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [188] => Array
+        (
+            [data_0] => 
+            [data_1] => UEFA U21Q
+            [data_2] => 2330
+            [data_3] => 1
+            [data_4] => D6AndorraU21
+            [data_5] => 
+            [data_6] => LatviaU21D5
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [190] => Array
+        (
+            [data_0] => 
+            [data_1] => UEFA U21Q
+            [data_2] => 2330
+            [data_3] => 1
+            [data_4] => F4HungaryU21
+            [data_5] => 
+            [data_6] => TurkeyU21F3
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [192] => Array
+        (
+            [data_0] => 
+            [data_1] => UEFA U21Q
+            [data_2] => 2330
+            [data_3] => 1
+            [data_4] => F2SwedenU21
+            [data_5] => 
+            [data_6] => Belgium U21F1
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [194] => Array
+        (
+            [data_0] => 
+            [data_1] => Italy C1C
+            [data_2] => 2330
+            [data_3] => 1
+            [data_4] => 4Catanzaro
+            [data_5] => 
+            [data_6] => Juve Stabia2
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [196] => Array
+        (
+            [data_0] => 
+            [data_1] => HOL RL
+            [data_2] => 2330
+            [data_3] => 1
+            [data_4] => NAC Breda Reserve
+            [data_5] => 
+            [data_6] => Fortuna Sittard Reserve
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [198] => Array
+        (
+            [data_0] => 
+            [data_1] => UEFA U21Q
+            [data_2] => 2345
+            [data_3] => 1
+            [data_4] => B4IcelandU21
+            [data_5] => 
+            [data_6] => SpainU21B1
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [200] => Array
+        (
+            [data_0] => 
+            [data_1] => UEFA U21Q
+            [data_2] => 2345
+            [data_3] => 1
+            [data_4] => I1FranceU21
+            [data_5] => 
+            [data_6] => SloveniaU21I2
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [202] => Array
+        (
+            [data_0] => 17102018 Wednesday  
+        )
+
+    [204] => Array
+        (
+            [data_0] => 
+            [data_1] => CAF NC
+            [data_2] => 0000
+            [data_3] => 1
+            [data_4] => K3Namibia
+            [data_5] => 
+            [data_6] => MozambiqueK2
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [206] => Array
+        (
+            [data_0] => 
+            [data_1] => CAF NC
+            [data_2] => 0000
+            [data_3] => 1
+            [data_4] => G1Zimbabwe
+            [data_5] => 
+            [data_6] => Democratic Rep CongoG2
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [208] => Array
+        (
+            [data_0] => 
+            [data_1] => CAF NC
+            [data_2] => 0000
+            [data_3] => 1
+            [data_4] => I4Botswana
+            [data_5] => 
+            [data_6] => Burkina FasoI1
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [210] => Array
+        (
+            [data_0] => 
+            [data_1] => CAF NC
+            [data_2] => 0000
+            [data_3] => 1
+            [data_4] => I3Mauritania
+            [data_5] => 
+            [data_6] => AngolaI2
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [212] => Array
+        (
+            [data_0] => 
+            [data_1] => INT EL20
+            [data_2] => 0000
+            [data_3] => 1
+            [data_4] => NetherlandsU20
+            [data_5] => 
+            [data_6] => PolandU20
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [214] => Array
+        (
+            [data_0] => 
+            [data_1] => GER D3
+            [data_2] => 0000
+            [data_3] => 1
+            [data_4] => 7Hallescher FC
+            [data_5] => 
+            [data_6] => Hansa Rostock11
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [216] => Array
+        (
+            [data_0] => 
+            [data_1] => UEFA U21Q
+            [data_2] => 0000
+            [data_3] => 1
+            [data_4] => H5WalesU21
+            [data_5] => 
+            [data_6] => SwitzerlandU21H4
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [218] => Array
+        (
+            [data_0] => 
+            [data_1] => UEFA U21Q
+            [data_2] => 0000
+            [data_3] => 1
+            [data_4] => I6LuxembourgU21
+            [data_5] => 
+            [data_6] => BulgariaU21I3
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [220] => Array
+        (
+            [data_0] => 
+            [data_1] => INT CF
+            [data_2] => 0000
+            [data_3] => 1
+            [data_4] => SC KapellenErft
+            [data_5] => 
+            [data_6] => Monchengladbach AM5
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [222] => Array
+        (
+            [data_0] => 
+            [data_1] => INT CF
+            [data_2] => 0000
+            [data_3] => 1
+            [data_4] => 2Wacker Burghausen
+            [data_5] => 
+            [data_6] => SV Kirchanschoring
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [224] => Array
+        (
+            [data_0] => 
+            [data_1] => CAF NC
+            [data_2] => 0030
+            [data_3] => 1
+            [data_4] => A4Sudan
+            [data_5] => 
+            [data_6] => SenegalA1
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [226] => Array
+        (
+            [data_0] => 
+            [data_1] => INT CF
+            [data_2] => 0030
+            [data_3] => 1
+            [data_4] => 18Koln Am
+            [data_5] => 
+            [data_6] => Hurth
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [228] => Array
+        (
+            [data_0] => 
+            [data_1] => INTERF
+            [data_2] => 0045
+            [data_3] => 1
+            [data_4] => 3BrazilN
+            [data_5] => 
+            [data_6] => Argentina11
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [230] => Array
+        (
+            [data_0] => 
+            [data_1] => SPA CUP
+            [data_2] => 0100
+            [data_3] => 1
+            [data_4] => 19Elche
+            [data_5] => 
+            [data_6] => Cordoba CF22
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [232] => Array
+        (
+            [data_0] => 
+            [data_1] => CAF NC
+            [data_2] => 0100
+            [data_3] => 1
+            [data_4] => G4Liberia
+            [data_5] => 
+            [data_6] => CongoG3
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [234] => Array
+        (
+            [data_0] => 
+            [data_1] => CAF NC
+            [data_2] => 0100
+            [data_3] => 1
+            [data_4] => E3LibyaN
+            [data_5] => 
+            [data_6] => NigeriaE2
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [236] => Array
+        (
+            [data_0] => 
+            [data_1] => UEFA U21Q
+            [data_2] => 0100
+            [data_3] => 1
+            [data_4] => H1RomaniaU21
+            [data_5] => 
+            [data_6] => LiechtensteinU21H6
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [238] => Array
+        (
+            [data_0] => 
+            [data_1] => UEFA U21Q
+            [data_2] => 0100
+            [data_3] => 1
+            [data_4] => H2PortugalU21
+            [data_5] => 
+            [data_6] => Bosnia and HerzegovinaU21H3
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [240] => Array
+        (
+            [data_0] => 
+            [data_1] => URU RL
+            [data_2] => 0100
+            [data_3] => 1
+            [data_4] => Boston River Reserve
+            [data_5] => 
+            [data_6] => Nacional Montevideo Reserve
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [242] => Array
+        (
+            [data_0] => 
+            [data_1] => MAL WD1
+            [data_2] => 0115
+            [data_3] => 1
+            [data_4] => Birkirkara Womens
+            [data_5] => 
+            [data_6] => Hibernians Womens
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [244] => Array
+        (
+            [data_0] => 
+            [data_1] => MAL WD1
+            [data_2] => 0115
+            [data_3] => 1
+            [data_4] => Mgarr United FC Womens
+            [data_5] => 
+            [data_6] => Fgura United Womens
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [246] => Array
+        (
+            [data_0] => 
+            [data_1] => UEFA U21Q
+            [data_2] => 0130
+            [data_3] => 1
+            [data_4] => B3Northern IrelandU21
+            [data_5] => 
+            [data_6] => SlovakiaU21B2
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [248] => Array
+        (
+            [data_0] => 
+            [data_1] => Italy C1C
+            [data_2] => 0130
+            [data_3] => 1
+            [data_4] => 7Bisceglie
+            [data_5] => 
+            [data_6] => Sicula Leonzio8
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [250] => Array
+        (
+            [data_0] => 
+            [data_1] => Italy C1C
+            [data_2] => 0130
+            [data_3] => 1
+            [data_4] => 6Catania
+            [data_5] => 
+            [data_6] => Trapani1
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [252] => Array
+        (
+            [data_0] => 
+            [data_1] => Italy C1C
+            [data_2] => 0130
+            [data_3] => 1
+            [data_4] => 15Cavese
+            [data_5] => 
+            [data_6] => Matera17
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [254] => Array
+        (
+            [data_0] => 
+            [data_1] => Italy C1C
+            [data_2] => 0130
+            [data_3] => 1
+            [data_4] => 13AC Monopoli
+            [data_5] => 
+            [data_6] => Paganese18
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [256] => Array
+        (
+            [data_0] => 
+            [data_1] => ARG D2M2
+            [data_2] => 0130
+            [data_3] => 1
+            [data_4] => 5Sportivo Italiano
+            [data_5] => 
+            [data_6] => Deportivo Merlo17
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [258] => Array
+        (
+            [data_0] => 
+            [data_1] => UEFA NL
+            [data_2] => 0145
+            [data_3] => 1
+            [data_4] => AA1France
+            [data_5] => 
+            [data_6] => GermanyAA3
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [260] => Array
+        (
+            [data_0] => 
+            [data_1] => UEFA NL
+            [data_2] => 0145
+            [data_3] => 1
+            [data_4] => BA1Ukraine
+            [data_5] => 
+            [data_6] => Czech RepublicBA2
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [262] => Array
+        (
+            [data_0] => 
+            [data_1] => UEFA NL
+            [data_2] => 0145
+            [data_3] => 1
+            [data_4] => BD3Republic of Ireland
+            [data_5] => 
+            [data_6] => WalesBD2
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [264] => Array
+        (
+            [data_0] => 
+            [data_1] => UEFA NL
+            [data_2] => 0145
+            [data_3] => 1
+            [data_4] => CC4Slovenia
+            [data_5] => 
+            [data_6] => CyprusCC3
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [266] => Array
+        (
+            [data_0] => 
+            [data_1] => UEFA NL
+            [data_2] => 0145
+            [data_3] => 1
+            [data_4] => CC2Norway
+            [data_5] => 
+            [data_6] => BulgariaCC1
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [268] => Array
+        (
+            [data_0] => 
+            [data_1] => UEFA NL
+            [data_2] => 0145
+            [data_3] => 1
+            [data_4] => DA2Latvia
+            [data_5] => 
+            [data_6] => GeorgiaDA1
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [270] => Array
+        (
+            [data_0] => 
+            [data_1] => UEFA NL
+            [data_2] => 0145
+            [data_3] => 1
+            [data_4] => DD4Gibraltar
+            [data_5] => 
+            [data_6] => LiechtensteinDD2
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [272] => Array
+        (
+            [data_0] => 
+            [data_1] => INTERF
+            [data_2] => 0145
+            [data_3] => 1
+            [data_4] => 10Denmark
+            [data_5] => 
+            [data_6] => Austria24
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [274] => Array
+        (
+            [data_0] => 
+            [data_1] => INTERF
+            [data_2] => 0145
+            [data_3] => 1
+            [data_4] => 15Sweden
+            [data_5] => 
+            [data_6] => Slovakia26
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [276] => Array
+        (
+            [data_0] => 
+            [data_1] => INTERF
+            [data_2] => 0145
+            [data_3] => 1
+            [data_4] => 1Belgium
+            [data_5] => 
+            [data_6] => Netherlands17
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [278] => Array
+        (
+            [data_0] => 
+            [data_1] => WAL PR
+            [data_2] => 0145
+            [data_3] => 1
+            [data_4] => 1Connahs Quay Nomads FC
+            [data_5] => 
+            [data_6] => Cefn Druids9
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [280] => Array
+        (
+            [data_0] => 
+            [data_1] => ENGN PR
+            [data_2] => 0145
+            [data_3] => 1
+            [data_4] => 16Hyde United
+            [data_5] => 
+            [data_6] => South Shields7
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [282] => Array
+        (
+            [data_0] => 
+            [data_1] => ENGN PR
+            [data_2] => 0145
+            [data_3] => 1
+            [data_4] => 20Workington
+            [data_5] => 
+            [data_6] => Whitby Town13
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [284] => Array
+        (
+            [data_0] => 
+            [data_1] => ENGN PR
+            [data_2] => 0145
+            [data_3] => 1
+            [data_4] => 11Grantham Town
+            [data_5] => 
+            [data_6] => Nantwich Town6
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [286] => Array
+        (
+            [data_0] => 
+            [data_1] => ENGN PR
+            [data_2] => 0145
+            [data_3] => 1
+            [data_4] => 18Mickleover Sports
+            [data_5] => 
+            [data_6] => Matlock Town15
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [288] => Array
+        (
+            [data_0] => 
+            [data_1] => ENGN PR
+            [data_2] => 0145
+            [data_3] => 1
+            [data_4] => 1Scarborough Athletic
+            [data_5] => 
+            [data_6] => Buxton FC5
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [290] => Array
+        (
+            [data_0] => 
+            [data_1] => ENGN PR
+            [data_2] => 0145
+            [data_3] => 1
+            [data_4] => 9Farsley Celtic
+            [data_5] => 
+            [data_6] => Bamber Bridge12
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [292] => Array
+        (
+            [data_0] => 
+            [data_1] => ENGN PR
+            [data_2] => 0145
+            [data_3] => 1
+            [data_4] => 10Hednesford Town
+            [data_5] => 
+            [data_6] => Lancaster City21
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [294] => Array
+        (
+            [data_0] => 
+            [data_1] => ENG JPT
+            [data_2] => 0145
+            [data_3] => 1
+            [data_4] => B4Bury
+            [data_5] => 
+            [data_6] => Leicester CityU21B2
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [296] => Array
+        (
+            [data_0] => 
+            [data_1] => ENG JPT
+            [data_2] => 0145
+            [data_3] => 1
+            [data_4] => E2Port Vale
+            [data_5] => 
+            [data_6] => Middlesbrough U21E3
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [298] => Array
+        (
+            [data_0] => 
+            [data_1] => ENGS PR
+            [data_2] => 0145
+            [data_3] => 1
+            [data_4] => 14Gosport Borough
+            [data_5] => 
+            [data_6] => Poole Town7
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [300] => Array
+        (
+            [data_0] => 
+            [data_1] => ENGS PR
+            [data_2] => 0145
+            [data_3] => 1
+            [data_4] => 8Salisbury City
+            [data_5] => 
+            [data_6] => Merthyr Town3
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [302] => Array
+        (
+            [data_0] => 
+            [data_1] => ENGS PR
+            [data_2] => 0145
+            [data_3] => 1
+            [data_4] => 20Swindon Supermarine
+            [data_5] => 
+            [data_6] => Farnborough Town11
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [304] => Array
+        (
+            [data_0] => 
+            [data_1] => ENGS PR
+            [data_2] => 0145
+            [data_3] => 1
+            [data_4] => 13Beaconsfield Town FC
+            [data_5] => 
+            [data_6] => Chesham United22
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [306] => Array
+        (
+            [data_0] => 
+            [data_1] => ENGS PR
+            [data_2] => 0145
+            [data_3] => 1
+            [data_4] => 16Dorchester Town
+            [data_5] => 
+            [data_6] => Taunton Town5
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [308] => Array
+        (
+            [data_0] => 
+            [data_1] => ENGS PR
+            [data_2] => 0145
+            [data_3] => 1
+            [data_4] => 19Wimborne Town
+            [data_5] => 
+            [data_6] => Frome Town17
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [310] => Array
+        (
+            [data_0] => 
+            [data_1] => ENGS PR
+            [data_2] => 0145
+            [data_3] => 1
+            [data_4] => 4Tiverton Town
+            [data_5] => 
+            [data_6] => Weymouth1
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [312] => Array
+        (
+            [data_0] => 
+            [data_1] => ENGS PR
+            [data_2] => 0145
+            [data_3] => 1
+            [data_4] => 15Walton Casuals
+            [data_5] => 
+            [data_6] => Staines Town21
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [314] => Array
+        (
+            [data_0] => 
+            [data_1] => ENGSLCD
+            [data_2] => 0145
+            [data_3] => 1
+            [data_4] => 12Needham Market
+            [data_5] => 
+            [data_6] => Lowestoft Town17
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [316] => Array
+        (
+            [data_0] => 
+            [data_1] => ENGSLCD
+            [data_2] => 0145
+            [data_3] => 1
+            [data_4] => 5Royston Town
+            [data_5] => 
+            [data_6] => St Neots Town19
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [318] => Array
+        (
+            [data_0] => 
+            [data_1] => ENGSLCD
+            [data_2] => 0145
+            [data_3] => 1
+            [data_4] => 14St Ives Town
+            [data_5] => 
+            [data_6] => Biggleswade Town8
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [320] => Array
+        (
+            [data_0] => 
+            [data_1] => ENGSLCD
+            [data_2] => 0145
+            [data_3] => 1
+            [data_4] => 16Tamworth
+            [data_5] => 
+            [data_6] => Kettering Town1
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [322] => Array
+        (
+            [data_0] => 
+            [data_1] => ENGSLCD
+            [data_2] => 0145
+            [data_3] => 1
+            [data_4] => 13Barwell
+            [data_5] => 
+            [data_6] => Banbury United7
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [324] => Array
+        (
+            [data_0] => 
+            [data_1] => ENGSLCD
+            [data_2] => 0145
+            [data_3] => 1
+            [data_4] => 4Leiston FC
+            [data_5] => 
+            [data_6] => Kings Lynn18
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [326] => Array
+        (
+            [data_0] => 
+            [data_1] => ENGSLCD
+            [data_2] => 0145
+            [data_3] => 1
+            [data_4] => 21Redditch United
+            [data_5] => 
+            [data_6] => Rushall Olympic15
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [328] => Array
+        (
+            [data_0] => 
+            [data_1] => ENG RYM
+            [data_2] => 0145
+            [data_3] => 1
+            [data_4] => 3Bognor Regis Town
+            [data_5] => 
+            [data_6] => Folkestone Invicta11
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [330] => Array
+        (
+            [data_0] => 
+            [data_1] => ENG RYM
+            [data_2] => 0145
+            [data_3] => 1
+            [data_4] => 5Enfield Town
+            [data_5] => 
+            [data_6] => Brightlingsea Regent20
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [332] => Array
+        (
+            [data_0] => 
+            [data_1] => ENG RYM
+            [data_2] => 0145
+            [data_3] => 1
+            [data_4] => 22Burgess Hill Town
+            [data_5] => 
+            [data_6] => Wingate  Finchley16
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [334] => Array
+        (
+            [data_0] => 
+            [data_1] => ENG RYM
+            [data_2] => 0145
+            [data_3] => 1
+            [data_4] => 9AFC Hornchurch
+            [data_5] => 
+            [data_6] => Lewes13
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [336] => Array
+        (
+            [data_0] => 
+            [data_1] => INT CF
+            [data_2] => 0145
+            [data_3] => 1
+            [data_4] => 4Ballymena United FC
+            [data_5] => 
+            [data_6] => Harland  Wolff Welders5
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [338] => Array
+        (
+            [data_0] => 
+            [data_1] => INT CF
+            [data_2] => 0145
+            [data_3] => 1
+            [data_4] => 6East Kilbride Reserve
+            [data_5] => 
+            [data_6] => Airdrieonians Reserve4
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [340] => Array
+        (
+            [data_0] => 
+            [data_1] => Eng N1
+            [data_2] => 0145
+            [data_3] => 1
+            [data_4] => Cleethorpes Town
+            [data_5] => 
+            [data_6] => Brighouse Town
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [342] => Array
+        (
+            [data_0] => 
+            [data_1] => SPA FDH
+            [data_2] => 0200
+            [data_3] => 1
+            [data_4] => 5Levante Futsal
+            [data_5] => 
+            [data_6] => FCBarcelona Futsal4
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [344] => Array
+        (
+            [data_0] => 
+            [data_1] => Nic D1
+            [data_2] => 0500
+            [data_3] => 1
+            [data_4] => Juventus Managua
+            [data_5] => 
+            [data_6] => Diriangen
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [346] => Array
+        (
+            [data_0] => 
+            [data_1] => INT CF
+            [data_2] => 0500
+            [data_3] => 1
+            [data_4] => Avenida RS
+            [data_5] => 
+            [data_6] => Gremio RS B
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [348] => Array
+        (
+            [data_0] => 
+            [data_1] => BRA D2
+            [data_2] => 0515
+            [data_3] => 1
+            [data_4] => 8Coritiba PR
+            [data_5] => 
+            [data_6] => Centro Sportivo Alagoano4
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [350] => Array
+        (
+            [data_0] => 
+            [data_1] => PAR D1
+            [data_2] => 0530
+            [data_3] => 1
+            [data_4] => 2Cerro Porteno
+            [data_5] => 
+            [data_6] => Club Libertad3
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [352] => Array
+        (
+            [data_0] => 
+            [data_1] => CON  NL
+            [data_2] => 0600
+            [data_3] => 1
+            [data_4] => 79Canada
+            [data_5] => 
+            [data_6] => Dominica177
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [354] => Array
+        (
+            [data_0] => 
+            [data_1] => INTERF
+            [data_2] => 0630
+            [data_3] => 1
+            [data_4] => 22USA
+            [data_5] => 
+            [data_6] => Peru21
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [356] => Array
+        (
+            [data_0] => 
+            [data_1] => INTERF
+            [data_2] => 0700
+            [data_3] => 1
+            [data_4] => 14ColombiaN
+            [data_5] => 
+            [data_6] => Costa Rica37
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [358] => Array
+        (
+            [data_0] => 
+            [data_1] => CON  NL
+            [data_2] => 0700
+            [data_3] => 1
+            [data_4] => Martinique
+            [data_5] => 
+            [data_6] => British Virgin Islands203
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [360] => Array
+        (
+            [data_0] => 
+            [data_1] => CON  NL
+            [data_2] => 0700
+            [data_3] => 1
+            [data_4] => Guadeloupe
+            [data_5] => 
+            [data_6] => Aruba185
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [362] => Array
+        (
+            [data_0] => 
+            [data_1] => BRA D2
+            [data_2] => 0730
+            [data_3] => 1
+            [data_4] => 15Brasil de Pelotas RS
+            [data_5] => 
+            [data_6] => Atletico Clube Goianiense7
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [364] => Array
+        (
+            [data_0] => 
+            [data_1] => CON  NL
+            [data_2] => 0815
+            [data_3] => 1
+            [data_4] => 166Saint Lucia
+            [data_5] => 
+            [data_6] => Haiti104
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [366] => Array
+        (
+            [data_0] => 
+            [data_1] => INTERF
+            [data_2] => 0845
+            [data_3] => 1
+            [data_4] => 15Mexico
+            [data_5] => 
+            [data_6] => Chile12
+            [data_7] => 
+            [data_8] => 
+            [data_9] => 
+        )
+
+    [368] => Array
+        (
+            [data_0] => Result
+        )
+
+)

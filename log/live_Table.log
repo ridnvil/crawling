@@ -1,0 +1,309 @@
+16-Oct-2018 04:36:59 -> Result : Render Processing from http://live.7msport.com where id live_Table
+16-Oct-2018 04:37:04 -> Result : Render Done..
+16-Oct-2018 04:37:04 -> Result : Load data from directory webpage where File : live_Table.html
+16-Oct-2018 04:37:04 -> Result : Get Element in Body Table
+16-Oct-2018 04:37:04 -> Result : Successfully Crawling data from http://live.7msport.com
+16-Oct-2018 04:37:04 -> Result : Record data is 185
+16-Oct-2018 04:37:04 -> Result : Created Json File -> live_Table.json
+16-Oct-2018 04:37:13 -> Result : Filed Insert to Table live_Table Error in query Insert
+16-Oct-2018 04:37:18 -> Result : Swap:       7999484           0     7999484
+16-Oct-2018 04:37:18 -> Result : Render Processing from http://live.7msport.com where id live_Table
+16-Oct-2018 04:37:21 -> Result : Render Done..
+16-Oct-2018 04:37:21 -> Result : Load data from directory webpage where File : live_Table.html
+16-Oct-2018 04:37:21 -> Result : Get Element in Body Table
+16-Oct-2018 04:37:21 -> Result : Successfully Crawling data from http://live.7msport.com
+16-Oct-2018 04:37:21 -> Result : Record data is 185
+16-Oct-2018 04:37:21 -> Result : Created Json File -> live_Table.json
+16-Oct-2018 04:37:21 -> Result : Compare Data
+16-Oct-2018 04:37:21 -> Result : Update data Successfully 
+16-Oct-2018 04:37:26 -> Result : Swap:       7999484           0     7999484
+16-Oct-2018 04:37:26 -> Result : Render Processing from http://live.7msport.com where id live_Table
+16-Oct-2018 04:37:31 -> Result : Render Done..
+16-Oct-2018 04:37:31 -> Result : Load data from directory webpage where File : live_Table.html
+16-Oct-2018 04:37:31 -> Result : Get Element in Body Table
+16-Oct-2018 04:37:31 -> Result : Successfully Crawling data from http://live.7msport.com
+16-Oct-2018 04:37:31 -> Result : Record data is 185
+16-Oct-2018 04:37:31 -> Result : Created Json File -> live_Table.json
+16-Oct-2018 04:37:31 -> Result : Compare Data
+16-Oct-2018 04:37:31 -> Result : Update data Successfully 
+16-Oct-2018 04:37:36 -> Result : Swap:       7999484           0     7999484
+16-Oct-2018 04:37:36 -> Result : Render Processing from http://live.7msport.com where id live_Table
+16-Oct-2018 04:37:40 -> Result : Render Done..
+16-Oct-2018 04:37:40 -> Result : Load data from directory webpage where File : live_Table.html
+16-Oct-2018 04:37:40 -> Result : Get Element in Body Table
+16-Oct-2018 04:37:40 -> Result : Successfully Crawling data from http://live.7msport.com
+16-Oct-2018 04:37:40 -> Result : Record data is 185
+16-Oct-2018 04:37:40 -> Result : Created Json File -> live_Table.json
+16-Oct-2018 04:37:40 -> Result : Compare Data
+16-Oct-2018 04:37:40 -> Result : Update data Successfully 
+16-Oct-2018 04:37:45 -> Result : Swap:       7999484           0     7999484
+16-Oct-2018 04:37:45 -> Result : Render Processing from http://live.7msport.com where id live_Table
+16-Oct-2018 04:37:50 -> Result : Render Done..
+16-Oct-2018 04:37:50 -> Result : Load data from directory webpage where File : live_Table.html
+16-Oct-2018 04:37:50 -> Result : Get Element in Body Table
+16-Oct-2018 04:37:50 -> Result : Successfully Crawling data from http://live.7msport.com
+16-Oct-2018 04:37:50 -> Result : Record data is 185
+16-Oct-2018 04:37:50 -> Result : Created Json File -> live_Table.json
+16-Oct-2018 04:37:50 -> Result : Compare Data
+16-Oct-2018 04:37:50 -> Result : Update data Successfully 
+16-Oct-2018 04:37:55 -> Result : Swap:       7999484           0     7999484
+16-Oct-2018 04:37:55 -> Result : Render Processing from http://live.7msport.com where id live_Table
+16-Oct-2018 04:37:58 -> Result : Render Done..
+16-Oct-2018 04:37:58 -> Result : Load data from directory webpage where File : live_Table.html
+16-Oct-2018 04:37:58 -> Result : Get Element in Body Table
+16-Oct-2018 04:37:58 -> Result : Successfully Crawling data from http://live.7msport.com
+16-Oct-2018 04:37:58 -> Result : Record data is 185
+16-Oct-2018 04:37:58 -> Result : Created Json File -> live_Table.json
+16-Oct-2018 04:37:58 -> Result : Compare Data
+16-Oct-2018 04:37:58 -> Result : Update data Successfully 
+16-Oct-2018 04:38:03 -> Result : Swap:       7999484           0     7999484
+16-Oct-2018 04:38:03 -> Result : Render Processing from http://live.7msport.com where id live_Table
+16-Oct-2018 04:38:13 -> Result : Render Done..
+16-Oct-2018 04:38:13 -> Result : Load data from directory webpage where File : live_Table.html
+16-Oct-2018 04:38:13 -> Result : Get Element in Body Table
+16-Oct-2018 04:38:13 -> Result : Successfully Crawling data from http://live.7msport.com
+16-Oct-2018 04:38:13 -> Result : Record data is 185
+16-Oct-2018 04:38:13 -> Result : Created Json File -> live_Table.json
+16-Oct-2018 04:38:13 -> Result : Compare Data
+16-Oct-2018 04:38:13 -> Result : Update data Successfully 
+16-Oct-2018 04:38:18 -> Result : Swap:       7999484           0     7999484
+16-Oct-2018 04:38:18 -> Result : Render Processing from http://live.7msport.com where id live_Table
+16-Oct-2018 04:38:23 -> Result : Render Done..
+16-Oct-2018 04:38:23 -> Result : Load data from directory webpage where File : live_Table.html
+16-Oct-2018 04:38:23 -> Result : Get Element in Body Table
+16-Oct-2018 04:38:23 -> Result : Successfully Crawling data from http://live.7msport.com
+16-Oct-2018 04:38:23 -> Result : Record data is 185
+16-Oct-2018 04:38:23 -> Result : Created Json File -> live_Table.json
+16-Oct-2018 04:38:23 -> Result : Compare Data
+16-Oct-2018 04:38:23 -> Result : Update data Successfully 
+16-Oct-2018 04:38:28 -> Result : Swap:       7999484           0     7999484
+16-Oct-2018 04:38:28 -> Result : Render Processing from http://live.7msport.com where id live_Table
+16-Oct-2018 04:38:32 -> Result : Render Done..
+16-Oct-2018 04:38:32 -> Result : Load data from directory webpage where File : live_Table.html
+16-Oct-2018 04:38:32 -> Result : Get Element in Body Table
+16-Oct-2018 04:38:32 -> Result : Successfully Crawling data from http://live.7msport.com
+16-Oct-2018 04:38:32 -> Result : Record data is 185
+16-Oct-2018 04:38:32 -> Result : Created Json File -> live_Table.json
+16-Oct-2018 04:38:32 -> Result : Compare Data
+16-Oct-2018 04:38:32 -> Result : Update data Successfully 
+16-Oct-2018 04:38:37 -> Result : Swap:       7999484           0     7999484
+16-Oct-2018 04:38:37 -> Result : Render Processing from http://live.7msport.com where id live_Table
+16-Oct-2018 04:38:41 -> Result : Render Done..
+16-Oct-2018 04:38:41 -> Result : Load data from directory webpage where File : live_Table.html
+16-Oct-2018 04:38:41 -> Result : Get Element in Body Table
+16-Oct-2018 04:38:41 -> Result : Successfully Crawling data from http://live.7msport.com
+16-Oct-2018 04:38:41 -> Result : Record data is 185
+16-Oct-2018 04:38:41 -> Result : Created Json File -> live_Table.json
+16-Oct-2018 04:38:41 -> Result : Compare Data
+16-Oct-2018 04:38:41 -> Result : Update data Successfully 
+16-Oct-2018 04:38:46 -> Result : Swap:       7999484           0     7999484
+16-Oct-2018 04:38:46 -> Result : Render Processing from http://live.7msport.com where id live_Table
+16-Oct-2018 04:38:50 -> Result : Render Done..
+16-Oct-2018 04:38:50 -> Result : Load data from directory webpage where File : live_Table.html
+16-Oct-2018 04:38:50 -> Result : Get Element in Body Table
+16-Oct-2018 04:38:50 -> Result : Successfully Crawling data from http://live.7msport.com
+16-Oct-2018 04:38:50 -> Result : Record data is 185
+16-Oct-2018 04:38:50 -> Result : Created Json File -> live_Table.json
+16-Oct-2018 04:38:50 -> Result : Compare Data
+16-Oct-2018 04:38:50 -> Result : Update data Successfully 
+16-Oct-2018 04:38:55 -> Result : Swap:       7999484           0     7999484
+16-Oct-2018 04:38:55 -> Result : Render Processing from http://live.7msport.com where id live_Table
+16-Oct-2018 04:38:58 -> Result : Render Done..
+16-Oct-2018 04:38:58 -> Result : Load data from directory webpage where File : live_Table.html
+16-Oct-2018 04:38:58 -> Result : Get Element in Body Table
+16-Oct-2018 04:38:58 -> Result : Successfully Crawling data from http://live.7msport.com
+16-Oct-2018 04:38:58 -> Result : Record data is 185
+16-Oct-2018 04:38:58 -> Result : Created Json File -> live_Table.json
+16-Oct-2018 04:38:58 -> Result : Compare Data
+16-Oct-2018 04:38:58 -> Result : Update data Successfully 
+16-Oct-2018 04:39:03 -> Result : Swap:       7999484           0     7999484
+16-Oct-2018 04:39:03 -> Result : Render Processing from http://live.7msport.com where id live_Table
+16-Oct-2018 04:39:33 -> Result : Render Done..
+16-Oct-2018 04:39:33 -> Result : Load data from directory webpage where File : live_Table.html
+16-Oct-2018 04:39:33 -> Result : Get Element in Body Table
+16-Oct-2018 04:39:33 -> Result : Successfully Crawling data from http://live.7msport.com
+16-Oct-2018 04:39:33 -> Result : Record data is 185
+16-Oct-2018 04:39:33 -> Result : Created Json File -> live_Table.json
+16-Oct-2018 04:39:33 -> Result : Compare Data
+16-Oct-2018 04:39:33 -> Result : Update data Successfully 
+16-Oct-2018 04:39:38 -> Result : Swap:       7999484           0     7999484
+16-Oct-2018 04:39:38 -> Result : Render Processing from http://live.7msport.com where id live_Table
+16-Oct-2018 04:40:11 -> Result : Render Done..
+16-Oct-2018 04:40:11 -> Result : Load data from directory webpage where File : live_Table.html
+16-Oct-2018 04:40:11 -> Result : Get Element in Body Table
+16-Oct-2018 04:40:11 -> Result : Successfully Crawling data from http://live.7msport.com
+16-Oct-2018 04:40:11 -> Result : Record data is 185
+16-Oct-2018 04:40:11 -> Result : Created Json File -> live_Table.json
+16-Oct-2018 04:40:11 -> Result : Compare Data
+16-Oct-2018 04:40:11 -> Result : Update data Successfully 
+16-Oct-2018 04:40:16 -> Result : Swap:       7999484           0     7999484
+16-Oct-2018 04:40:16 -> Result : Render Processing from http://live.7msport.com where id live_Table
+16-Oct-2018 04:40:20 -> Result : Render Done..
+16-Oct-2018 04:40:20 -> Result : Load data from directory webpage where File : live_Table.html
+16-Oct-2018 04:40:20 -> Result : Get Element in Body Table
+16-Oct-2018 04:40:20 -> Result : Successfully Crawling data from http://live.7msport.com
+16-Oct-2018 04:40:20 -> Result : Record data is 185
+16-Oct-2018 04:40:20 -> Result : Created Json File -> live_Table.json
+16-Oct-2018 04:40:20 -> Result : Compare Data
+16-Oct-2018 04:40:20 -> Result : Update data Successfully 
+16-Oct-2018 04:40:25 -> Result : Swap:       7999484           0     7999484
+16-Oct-2018 04:40:25 -> Result : Render Processing from http://live.7msport.com where id live_Table
+16-Oct-2018 04:40:28 -> Result : Render Done..
+16-Oct-2018 04:40:28 -> Result : Load data from directory webpage where File : live_Table.html
+16-Oct-2018 04:40:28 -> Result : Get Element in Body Table
+16-Oct-2018 04:40:29 -> Result : Successfully Crawling data from http://live.7msport.com
+16-Oct-2018 04:40:29 -> Result : Record data is 185
+16-Oct-2018 04:40:29 -> Result : Created Json File -> live_Table.json
+16-Oct-2018 04:40:29 -> Result : Compare Data
+16-Oct-2018 04:40:29 -> Result : Update data Successfully 
+16-Oct-2018 04:40:34 -> Result : Swap:       7999484           0     7999484
+16-Oct-2018 04:40:34 -> Result : Render Processing from http://live.7msport.com where id live_Table
+16-Oct-2018 04:40:38 -> Result : Render Done..
+16-Oct-2018 04:40:38 -> Result : Load data from directory webpage where File : live_Table.html
+16-Oct-2018 04:40:38 -> Result : Get Element in Body Table
+16-Oct-2018 04:40:38 -> Result : Successfully Crawling data from http://live.7msport.com
+16-Oct-2018 04:40:38 -> Result : Record data is 185
+16-Oct-2018 04:40:38 -> Result : Created Json File -> live_Table.json
+16-Oct-2018 04:40:38 -> Result : Compare Data
+16-Oct-2018 04:40:38 -> Result : Update data Successfully 
+16-Oct-2018 04:40:43 -> Result : Swap:       7999484           0     7999484
+16-Oct-2018 04:40:43 -> Result : Render Processing from http://live.7msport.com where id live_Table
+16-Oct-2018 04:40:47 -> Result : Render Done..
+16-Oct-2018 04:40:47 -> Result : Load data from directory webpage where File : live_Table.html
+16-Oct-2018 04:40:47 -> Result : Get Element in Body Table
+16-Oct-2018 04:40:47 -> Result : Successfully Crawling data from http://live.7msport.com
+16-Oct-2018 04:40:47 -> Result : Record data is 185
+16-Oct-2018 04:40:47 -> Result : Created Json File -> live_Table.json
+16-Oct-2018 04:40:47 -> Result : Compare Data
+16-Oct-2018 04:40:47 -> Result : Update data Successfully 
+16-Oct-2018 04:40:52 -> Result : Swap:       7999484           0     7999484
+16-Oct-2018 04:40:52 -> Result : Render Processing from http://live.7msport.com where id live_Table
+16-Oct-2018 04:40:56 -> Result : Render Done..
+16-Oct-2018 04:40:56 -> Result : Load data from directory webpage where File : live_Table.html
+16-Oct-2018 04:40:56 -> Result : Get Element in Body Table
+16-Oct-2018 04:40:56 -> Result : Successfully Crawling data from http://live.7msport.com
+16-Oct-2018 04:40:56 -> Result : Record data is 185
+16-Oct-2018 04:40:56 -> Result : Created Json File -> live_Table.json
+16-Oct-2018 04:40:56 -> Result : Compare Data
+16-Oct-2018 04:40:56 -> Result : Update data Successfully 
+16-Oct-2018 04:43:19 -> Result : Render Processing from http://live.7msport.com where id live_Table
+16-Oct-2018 04:43:23 -> Result : Render Done..
+16-Oct-2018 04:43:23 -> Result : Load data from directory webpage where File : live_Table.html
+16-Oct-2018 04:43:23 -> Result : Get Element in Body Table
+16-Oct-2018 04:43:23 -> Result : Successfully Crawling data from http://live.7msport.com
+16-Oct-2018 04:43:23 -> Result : Record data is 185
+16-Oct-2018 04:43:23 -> Result : Created Json File -> live_Table.json
+16-Oct-2018 04:43:23 -> Result : Compare Data
+16-Oct-2018 04:43:23 -> Result : Update data Successfully 
+16-Oct-2018 04:43:28 -> Result : 
+16-Oct-2018 04:43:28 -> Result : Render Processing from http://live.7msport.com where id live_Table
+16-Oct-2018 04:43:31 -> Result : Render Done..
+16-Oct-2018 04:43:31 -> Result : Load data from directory webpage where File : live_Table.html
+16-Oct-2018 04:43:31 -> Result : Get Element in Body Table
+16-Oct-2018 04:43:31 -> Result : Successfully Crawling data from http://live.7msport.com
+16-Oct-2018 04:43:31 -> Result : Record data is 185
+16-Oct-2018 04:43:31 -> Result : Created Json File -> live_Table.json
+16-Oct-2018 04:43:31 -> Result : Compare Data
+16-Oct-2018 04:43:31 -> Result : Update data Successfully 
+16-Oct-2018 04:43:36 -> Result : 
+16-Oct-2018 04:43:36 -> Result : Render Processing from http://live.7msport.com where id live_Table
+16-Oct-2018 04:43:40 -> Result : Render Done..
+16-Oct-2018 04:43:40 -> Result : Load data from directory webpage where File : live_Table.html
+16-Oct-2018 04:43:40 -> Result : Get Element in Body Table
+16-Oct-2018 04:43:40 -> Result : Successfully Crawling data from http://live.7msport.com
+16-Oct-2018 04:43:40 -> Result : Record data is 185
+16-Oct-2018 04:43:40 -> Result : Created Json File -> live_Table.json
+16-Oct-2018 04:43:40 -> Result : Compare Data
+16-Oct-2018 04:43:40 -> Result : Update data Successfully 
+16-Oct-2018 04:43:45 -> Result : 
+16-Oct-2018 04:43:45 -> Result : Render Processing from http://live.7msport.com where id live_Table
+16-Oct-2018 04:43:50 -> Result : Render Done..
+16-Oct-2018 04:43:50 -> Result : Load data from directory webpage where File : live_Table.html
+16-Oct-2018 04:43:50 -> Result : Get Element in Body Table
+16-Oct-2018 04:43:50 -> Result : Successfully Crawling data from http://live.7msport.com
+16-Oct-2018 04:43:50 -> Result : Record data is 185
+16-Oct-2018 04:43:50 -> Result : Created Json File -> live_Table.json
+16-Oct-2018 04:43:50 -> Result : Compare Data
+16-Oct-2018 04:43:50 -> Result : Update data Successfully 
+16-Oct-2018 04:43:55 -> Result : 
+16-Oct-2018 04:43:55 -> Result : Render Processing from http://live.7msport.com where id live_Table
+16-Oct-2018 04:44:01 -> Result : Render Done..
+16-Oct-2018 04:44:01 -> Result : Load data from directory webpage where File : live_Table.html
+16-Oct-2018 04:44:01 -> Result : Get Element in Body Table
+16-Oct-2018 04:44:01 -> Result : Successfully Crawling data from http://live.7msport.com
+16-Oct-2018 04:44:01 -> Result : Record data is 185
+16-Oct-2018 04:44:01 -> Result : Created Json File -> live_Table.json
+16-Oct-2018 04:44:01 -> Result : Compare Data
+16-Oct-2018 04:44:01 -> Result : Update data Successfully 
+16-Oct-2018 04:44:06 -> Result : 
+16-Oct-2018 04:44:06 -> Result : Render Processing from http://live.7msport.com where id live_Table
+16-Oct-2018 04:44:15 -> Result : Render Done..
+16-Oct-2018 04:44:15 -> Result : Load data from directory webpage where File : live_Table.html
+16-Oct-2018 04:44:15 -> Result : Get Element in Body Table
+16-Oct-2018 04:44:15 -> Result : Successfully Crawling data from http://live.7msport.com
+16-Oct-2018 04:44:15 -> Result : Record data is 185
+16-Oct-2018 04:44:15 -> Result : Created Json File -> live_Table.json
+16-Oct-2018 04:44:15 -> Result : Compare Data
+16-Oct-2018 04:44:15 -> Result : Update data Successfully 
+16-Oct-2018 04:44:20 -> Result : 
+16-Oct-2018 04:44:20 -> Result : Render Processing from http://live.7msport.com where id live_Table
+16-Oct-2018 04:44:27 -> Result : Render Done..
+16-Oct-2018 04:44:27 -> Result : Load data from directory webpage where File : live_Table.html
+16-Oct-2018 04:44:27 -> Result : Get Element in Body Table
+16-Oct-2018 04:44:27 -> Result : Successfully Crawling data from http://live.7msport.com
+16-Oct-2018 04:44:27 -> Result : Record data is 185
+16-Oct-2018 04:44:27 -> Result : Created Json File -> live_Table.json
+16-Oct-2018 04:44:27 -> Result : Compare Data
+16-Oct-2018 04:44:27 -> Result : Update data Successfully 
+16-Oct-2018 04:44:32 -> Result : 
+16-Oct-2018 04:44:32 -> Result : Render Processing from http://live.7msport.com where id live_Table
+16-Oct-2018 04:44:41 -> Result : Render Done..
+16-Oct-2018 04:44:41 -> Result : Load data from directory webpage where File : live_Table.html
+16-Oct-2018 04:44:41 -> Result : Get Element in Body Table
+16-Oct-2018 04:44:41 -> Result : Successfully Crawling data from http://live.7msport.com
+16-Oct-2018 04:44:41 -> Result : Record data is 185
+16-Oct-2018 04:44:41 -> Result : Created Json File -> live_Table.json
+16-Oct-2018 04:44:41 -> Result : Compare Data
+16-Oct-2018 04:44:41 -> Result : Update data Successfully 
+16-Oct-2018 04:51:06 -> Result : Render Processing from http://live.7msport.com where id live_Table
+16-Oct-2018 04:51:13 -> Result : Render Done..
+16-Oct-2018 04:51:13 -> Result : Load data from directory webpage where File : live_Table.html
+16-Oct-2018 04:51:13 -> Result : Get Element in Body Table
+16-Oct-2018 04:51:13 -> Result : Successfully Crawling data from http://live.7msport.com
+16-Oct-2018 04:51:13 -> Result : Record data is 185
+16-Oct-2018 04:51:13 -> Result : Created Json File -> live_Table.json
+16-Oct-2018 04:51:13 -> Result : Compare Data
+16-Oct-2018 04:51:13 -> Result : Update data Successfully 
+16-Oct-2018 04:51:18 -> Result : Swap:       7999484           0     7999484
+16-Oct-2018 04:51:18 -> Result : Render Processing from http://live.7msport.com where id live_Table
+16-Oct-2018 04:51:24 -> Result : Render Done..
+16-Oct-2018 04:51:24 -> Result : Load data from directory webpage where File : live_Table.html
+16-Oct-2018 04:51:24 -> Result : Get Element in Body Table
+16-Oct-2018 04:51:24 -> Result : Successfully Crawling data from http://live.7msport.com
+16-Oct-2018 04:51:24 -> Result : Record data is 185
+16-Oct-2018 04:51:24 -> Result : Created Json File -> live_Table.json
+16-Oct-2018 04:51:24 -> Result : Compare Data
+16-Oct-2018 04:51:24 -> Result : Update data Successfully 
+16-Oct-2018 04:51:29 -> Result : Swap:       7999484           0     7999484
+16-Oct-2018 04:51:29 -> Result : Render Processing from http://live.7msport.com where id live_Table
+16-Oct-2018 04:56:55 -> Result : Render Processing from http://live.7msport.com where id live_Table
+16-Oct-2018 04:57:03 -> Result : Render Done..
+16-Oct-2018 04:57:03 -> Result : Load data from directory webpage where File : live_Table.html
+16-Oct-2018 04:57:03 -> Result : Get Element in Body Table
+16-Oct-2018 04:57:03 -> Result : Successfully Crawling data from http://live.7msport.com
+16-Oct-2018 04:57:03 -> Result : Record data is 185
+16-Oct-2018 04:57:03 -> Result : Created Json File -> live_Table.json
+16-Oct-2018 04:57:03 -> Result : Compare Data
+16-Oct-2018 04:57:03 -> Result : Update data Successfully 
+16-Oct-2018 04:57:08 -> Result : Swap:       7999484           0     7999484
+16-Oct-2018 04:57:08 -> Result : Render Processing from http://live.7msport.com where id live_Table
+16-Oct-2018 04:57:25 -> Result : Render Done..
+16-Oct-2018 04:57:25 -> Result : Load data from directory webpage where File : live_Table.html
+16-Oct-2018 04:57:25 -> Result : Get Element in Body Table
+16-Oct-2018 04:57:25 -> Result : Successfully Crawling data from http://live.7msport.com
+16-Oct-2018 04:57:25 -> Result : Record data is 185
+16-Oct-2018 04:57:25 -> Result : Created Json File -> live_Table.json
+16-Oct-2018 04:57:25 -> Result : Compare Data
+16-Oct-2018 04:57:25 -> Result : Update data Successfully 
+16-Oct-2018 04:57:30 -> Result : Swap:       7999484           0     7999484
+16-Oct-2018 04:57:30 -> Result : Render Processing from http://live.7msport.com where id live_Table

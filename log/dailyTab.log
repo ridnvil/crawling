@@ -1,0 +1,225 @@
+30-Oct-2018 05:45:54 -> Result : Render Processing from https://id.investing.com/commodities/ where id dailyTab
+30-Oct-2018 05:46:56 -> Result : Render Done..
+30-Oct-2018 05:46:56 -> Result : Load data from directory webpage where File : dailyTab.html
+30-Oct-2018 05:46:56 -> Result : Successfully Crawling data from https://id.investing.com/commodities/
+30-Oct-2018 05:46:56 -> Result : Record data is 13
+30-Oct-2018 05:46:56 -> Result : Created Json File -> dailyTab.json
+30-Oct-2018 05:47:03 -> Result : Render Processing from https://id.investing.com/commodities/ where id dailyTab
+30-Oct-2018 05:48:03 -> Result : Render Done..
+30-Oct-2018 05:48:03 -> Result : Load data from directory webpage where File : dailyTab.html
+30-Oct-2018 05:48:03 -> Result : Successfully Crawling data from https://id.investing.com/commodities/
+30-Oct-2018 05:48:03 -> Result : Record data is 0
+30-Oct-2018 05:48:03 -> Result : Created Json File -> dailyTab.json
+30-Oct-2018 05:48:03 -> Result : Data Crawl Not Found.!!
+30-Oct-2018 05:48:08 -> Result : Swap:       7999484           0     7999484
+30-Oct-2018 05:48:08 -> Result : Render Processing from https://id.investing.com/commodities/ where id dailyTab
+30-Oct-2018 05:48:48 -> Result : Render Done..
+30-Oct-2018 05:48:48 -> Result : Load data from directory webpage where File : dailyTab.html
+30-Oct-2018 05:48:48 -> Result : Successfully Crawling data from https://id.investing.com/commodities/
+30-Oct-2018 05:48:48 -> Result : Record data is 13
+30-Oct-2018 05:48:48 -> Result : Created Json File -> dailyTab.json
+30-Oct-2018 05:48:50 -> Result : Inserted to Table dailyTab where data 13
+30-Oct-2018 05:48:55 -> Result : Swap:       7999484           0     7999484
+30-Oct-2018 05:48:55 -> Result : Render Processing from https://id.investing.com/commodities/ where id dailyTab
+30-Oct-2018 05:49:01 -> Result : Render Done..
+30-Oct-2018 05:49:01 -> Result : Load data from directory webpage where File : dailyTab.html
+30-Oct-2018 05:49:01 -> Result : Successfully Crawling data from https://id.investing.com/commodities/
+30-Oct-2018 05:49:01 -> Result : Record data is 13
+30-Oct-2018 05:49:01 -> Result : Created Json File -> dailyTab.json
+30-Oct-2018 05:49:01 -> Result : Compare Data
+30-Oct-2018 05:49:01 -> Result : Update data Successfully 
+30-Oct-2018 05:49:06 -> Result : Swap:       7999484           0     7999484
+30-Oct-2018 05:49:06 -> Result : Render Processing from https://id.investing.com/commodities/ where id dailyTab
+30-Oct-2018 05:50:07 -> Result : Render Done..
+30-Oct-2018 05:50:07 -> Result : Load data from directory webpage where File : dailyTab.html
+30-Oct-2018 05:50:07 -> Result : Successfully Crawling data from https://id.investing.com/commodities/
+30-Oct-2018 05:50:07 -> Result : Record data is 0
+30-Oct-2018 05:50:07 -> Result : Created Json File -> dailyTab.json
+30-Oct-2018 05:50:07 -> Result : Data Crawl Not Found.!!
+30-Oct-2018 05:50:12 -> Result : Swap:       7999484           0     7999484
+30-Oct-2018 05:50:12 -> Result : Render Processing from https://id.investing.com/commodities/ where id dailyTab
+30-Oct-2018 05:51:11 -> Result : Render Done..
+30-Oct-2018 05:51:11 -> Result : Load data from directory webpage where File : dailyTab.html
+30-Oct-2018 05:51:11 -> Result : Successfully Crawling data from https://id.investing.com/commodities/
+30-Oct-2018 05:51:11 -> Result : Record data is 0
+30-Oct-2018 05:51:11 -> Result : Created Json File -> dailyTab.json
+30-Oct-2018 05:51:11 -> Result : Data Crawl Not Found.!!
+30-Oct-2018 05:51:16 -> Result : Render Processing from https://id.investing.com/commodities/ where id dailyTab
+30-Oct-2018 05:51:30 -> Result : Render Done..
+30-Oct-2018 05:51:30 -> Result : Load data from directory webpage where File : dailyTab.html
+30-Oct-2018 05:51:30 -> Result : Successfully Crawling data from https://id.investing.com/commodities/
+30-Oct-2018 05:51:30 -> Result : Record data is 13
+30-Oct-2018 05:51:30 -> Result : Created Json File -> dailyTab.json
+30-Oct-2018 05:51:30 -> Result : Compare Data
+30-Oct-2018 05:51:30 -> Result : Update data Successfully 
+30-Oct-2018 05:51:35 -> Result : Swap:       7999484           0     7999484
+30-Oct-2018 05:51:35 -> Result : Render Processing from https://id.investing.com/commodities/ where id dailyTab
+30-Oct-2018 05:51:43 -> Result : Render Done..
+30-Oct-2018 05:51:43 -> Result : Load data from directory webpage where File : dailyTab.html
+30-Oct-2018 05:51:43 -> Result : Successfully Crawling data from https://id.investing.com/commodities/
+30-Oct-2018 05:51:43 -> Result : Record data is 13
+30-Oct-2018 05:51:43 -> Result : Created Json File -> dailyTab.json
+30-Oct-2018 05:51:43 -> Result : Compare Data
+30-Oct-2018 05:51:43 -> Result : Update data Successfully 
+30-Oct-2018 05:51:48 -> Result : Swap:       7999484           0     7999484
+30-Oct-2018 05:51:48 -> Result : Render Processing from https://id.investing.com/commodities/ where id dailyTab
+30-Oct-2018 05:52:02 -> Result : Render Done..
+30-Oct-2018 05:52:02 -> Result : Load data from directory webpage where File : dailyTab.html
+30-Oct-2018 05:52:02 -> Result : Successfully Crawling data from https://id.investing.com/commodities/
+30-Oct-2018 05:52:02 -> Result : Record data is 13
+30-Oct-2018 05:52:02 -> Result : Created Json File -> dailyTab.json
+30-Oct-2018 05:52:02 -> Result : Compare Data
+30-Oct-2018 05:52:02 -> Result : Update data Successfully 
+30-Oct-2018 05:52:07 -> Result : Swap:       7999484           0     7999484
+30-Oct-2018 05:52:07 -> Result : Render Processing from https://id.investing.com/commodities/ where id dailyTab
+30-Oct-2018 05:52:13 -> Result : Render Done..
+30-Oct-2018 05:52:13 -> Result : Load data from directory webpage where File : dailyTab.html
+30-Oct-2018 05:52:13 -> Result : Successfully Crawling data from https://id.investing.com/commodities/
+30-Oct-2018 05:52:13 -> Result : Record data is 13
+30-Oct-2018 05:52:13 -> Result : Created Json File -> dailyTab.json
+30-Oct-2018 05:52:13 -> Result : Compare Data
+30-Oct-2018 05:52:13 -> Result : Update data Successfully 
+30-Oct-2018 05:52:18 -> Result : Swap:       7999484           0     7999484
+30-Oct-2018 05:52:18 -> Result : Render Processing from https://id.investing.com/commodities/ where id dailyTab
+30-Oct-2018 05:52:24 -> Result : Render Done..
+30-Oct-2018 05:52:24 -> Result : Load data from directory webpage where File : dailyTab.html
+30-Oct-2018 05:52:24 -> Result : Successfully Crawling data from https://id.investing.com/commodities/
+30-Oct-2018 05:52:24 -> Result : Record data is 13
+30-Oct-2018 05:52:24 -> Result : Created Json File -> dailyTab.json
+30-Oct-2018 05:52:24 -> Result : Compare Data
+30-Oct-2018 05:52:24 -> Result : Update data Successfully 
+30-Oct-2018 05:52:29 -> Result : Swap:       7999484           0     7999484
+30-Oct-2018 05:52:29 -> Result : Render Processing from https://id.investing.com/commodities/ where id dailyTab
+30-Oct-2018 05:52:36 -> Result : Render Done..
+30-Oct-2018 05:52:36 -> Result : Load data from directory webpage where File : dailyTab.html
+30-Oct-2018 05:52:36 -> Result : Successfully Crawling data from https://id.investing.com/commodities/
+30-Oct-2018 05:52:36 -> Result : Record data is 13
+30-Oct-2018 05:52:36 -> Result : Created Json File -> dailyTab.json
+30-Oct-2018 05:52:36 -> Result : Compare Data
+30-Oct-2018 05:52:36 -> Result : Update data Successfully 
+30-Oct-2018 05:52:41 -> Result : Swap:       7999484           0     7999484
+30-Oct-2018 05:52:41 -> Result : Render Processing from https://id.investing.com/commodities/ where id dailyTab
+30-Oct-2018 05:52:50 -> Result : Render Done..
+30-Oct-2018 05:52:50 -> Result : Load data from directory webpage where File : dailyTab.html
+30-Oct-2018 05:52:50 -> Result : Successfully Crawling data from https://id.investing.com/commodities/
+30-Oct-2018 05:52:50 -> Result : Record data is 13
+30-Oct-2018 05:52:50 -> Result : Created Json File -> dailyTab.json
+30-Oct-2018 05:52:50 -> Result : Compare Data
+30-Oct-2018 05:52:50 -> Result : Update data Successfully 
+30-Oct-2018 05:52:55 -> Result : Swap:       7999484           0     7999484
+30-Oct-2018 05:52:55 -> Result : Render Processing from https://id.investing.com/commodities/ where id dailyTab
+30-Oct-2018 05:53:10 -> Result : Render Done..
+30-Oct-2018 05:53:10 -> Result : Load data from directory webpage where File : dailyTab.html
+30-Oct-2018 05:53:10 -> Result : Successfully Crawling data from https://id.investing.com/commodities/
+30-Oct-2018 05:53:10 -> Result : Record data is 13
+30-Oct-2018 05:53:10 -> Result : Created Json File -> dailyTab.json
+30-Oct-2018 05:53:10 -> Result : Compare Data
+30-Oct-2018 05:53:10 -> Result : Update data Successfully 
+30-Oct-2018 05:53:15 -> Result : Swap:       7999484           0     7999484
+30-Oct-2018 05:53:15 -> Result : Render Processing from https://id.investing.com/commodities/ where id dailyTab
+30-Oct-2018 05:54:15 -> Result : Render Done..
+30-Oct-2018 05:54:15 -> Result : Load data from directory webpage where File : dailyTab.html
+30-Oct-2018 05:54:15 -> Result : Successfully Crawling data from https://id.investing.com/commodities/
+30-Oct-2018 05:54:15 -> Result : Record data is 0
+30-Oct-2018 05:54:15 -> Result : Created Json File -> dailyTab.json
+30-Oct-2018 05:54:15 -> Result : Data Crawl Not Found.!!
+30-Oct-2018 05:54:20 -> Result : Swap:       7999484           0     7999484
+30-Oct-2018 05:54:20 -> Result : Render Processing from https://id.investing.com/commodities/ where id dailyTab
+30-Oct-2018 05:54:45 -> Result : Render Processing from https://id.investing.com/commodities/ where id dailyTab
+30-Oct-2018 05:55:53 -> Result : Render Done..
+30-Oct-2018 05:55:53 -> Result : Load data from directory webpage where File : dailyTab.html
+30-Oct-2018 05:55:53 -> Result : Successfully Crawling data from https://id.investing.com/commodities/
+30-Oct-2018 05:55:53 -> Result : Record data is 13
+30-Oct-2018 05:55:53 -> Result : Created Json File -> dailyTab.json
+30-Oct-2018 05:55:53 -> Result : Compare Data
+30-Oct-2018 05:55:53 -> Result : Update data Successfully 
+30-Oct-2018 05:55:58 -> Result : Swap:       7999484           0     7999484
+30-Oct-2018 05:55:58 -> Result : Render Processing from https://id.investing.com/commodities/ where id dailyTab
+30-Oct-2018 05:56:58 -> Result : Render Done..
+30-Oct-2018 05:56:58 -> Result : Load data from directory webpage where File : dailyTab.html
+30-Oct-2018 05:56:58 -> Result : Successfully Crawling data from https://id.investing.com/commodities/
+30-Oct-2018 05:56:58 -> Result : Record data is 0
+30-Oct-2018 05:56:58 -> Result : Created Json File -> dailyTab.json
+30-Oct-2018 05:56:58 -> Result : Data Crawl Not Found.!!
+30-Oct-2018 05:57:03 -> Result : Swap:       7999484           0     7999484
+30-Oct-2018 05:57:03 -> Result : Render Processing from https://id.investing.com/commodities/ where id dailyTab
+30-Oct-2018 05:58:53 -> Result : Render Processing from https://id.investing.com/commodities/ where id dailyTab
+30-Oct-2018 05:59:26 -> Result : Render Processing from https://id.investing.com/commodities/ where id dailyTab
+30-Oct-2018 06:00:27 -> Result : Render Done..
+30-Oct-2018 06:00:27 -> Result : Load data from directory webpage where File : dailyTab.html
+30-Oct-2018 06:00:27 -> Result : Successfully Crawling data from https://id.investing.com/commodities/
+30-Oct-2018 06:00:27 -> Result : Record data is 0
+30-Oct-2018 06:00:27 -> Result : Created Json File -> dailyTab.json
+30-Oct-2018 06:00:27 -> Result : Data Crawl Not Found.!!
+30-Oct-2018 06:00:32 -> Result : Swap:       7999484           0     7999484
+30-Oct-2018 06:00:32 -> Result : Render Processing from https://id.investing.com/commodities/ where id dailyTab
+30-Oct-2018 06:00:57 -> Result : Render Done..
+30-Oct-2018 06:00:57 -> Result : Load data from directory webpage where File : dailyTab.html
+30-Oct-2018 06:00:57 -> Result : Successfully Crawling data from https://id.investing.com/commodities/
+30-Oct-2018 06:00:57 -> Result : Record data is 13
+30-Oct-2018 06:00:57 -> Result : Created Json File -> dailyTab.json
+30-Oct-2018 06:00:57 -> Result : Compare Data
+30-Oct-2018 06:00:57 -> Result : Update data Successfully 
+30-Oct-2018 06:01:02 -> Result : Swap:       7999484           0     7999484
+30-Oct-2018 06:01:02 -> Result : Render Processing from https://id.investing.com/commodities/ where id dailyTab
+30-Oct-2018 06:01:35 -> Result : Render Processing from https://id.investing.com/commodities/ where id dailyTab
+30-Oct-2018 06:02:29 -> Result : Render Done..
+30-Oct-2018 06:02:29 -> Result : Load data from directory webpage where File : dailyTab.html
+30-Oct-2018 06:02:29 -> Result : Successfully Crawling data from https://id.investing.com/commodities/
+30-Oct-2018 06:02:29 -> Result : Record data is 13
+30-Oct-2018 06:02:29 -> Result : Created Json File -> dailyTab.json
+30-Oct-2018 06:02:29 -> Result : Compare Data
+30-Oct-2018 06:02:29 -> Result : Update data Successfully 
+30-Oct-2018 06:02:34 -> Result : Swap:       7999484           0     7999484
+30-Oct-2018 06:02:34 -> Result : Render Processing from https://id.investing.com/commodities/ where id dailyTab
+30-Oct-2018 06:03:34 -> Result : Render Done..
+30-Oct-2018 06:03:34 -> Result : Load data from directory webpage where File : dailyTab.html
+30-Oct-2018 06:03:34 -> Result : Successfully Crawling data from https://id.investing.com/commodities/
+30-Oct-2018 06:03:34 -> Result : Record data is 0
+30-Oct-2018 06:03:34 -> Result : Created Json File -> dailyTab.json
+30-Oct-2018 06:03:34 -> Result : Data Crawl Not Found.!!
+30-Oct-2018 06:03:39 -> Result : Swap:       7999484           0     7999484
+30-Oct-2018 06:03:39 -> Result : Render Processing from https://id.investing.com/commodities/ where id dailyTab
+30-Oct-2018 06:04:47 -> Result : Render Done..
+30-Oct-2018 06:04:47 -> Result : Load data from directory webpage where File : dailyTab.html
+30-Oct-2018 06:04:47 -> Result : Successfully Crawling data from https://id.investing.com/commodities/
+30-Oct-2018 06:04:47 -> Result : Record data is 13
+30-Oct-2018 06:04:47 -> Result : Created Json File -> dailyTab.json
+30-Oct-2018 06:04:47 -> Result : Compare Data
+30-Oct-2018 06:04:47 -> Result : Update data Successfully 
+30-Oct-2018 06:04:52 -> Result : Swap:       7999484           0     7999484
+30-Oct-2018 06:04:52 -> Result : Render Processing from https://id.investing.com/commodities/ where id dailyTab
+30-Oct-2018 06:05:52 -> Result : Render Done..
+30-Oct-2018 06:05:52 -> Result : Load data from directory webpage where File : dailyTab.html
+30-Oct-2018 06:05:52 -> Result : Successfully Crawling data from https://id.investing.com/commodities/
+30-Oct-2018 06:05:52 -> Result : Record data is 0
+30-Oct-2018 06:05:52 -> Result : Created Json File -> dailyTab.json
+30-Oct-2018 06:05:52 -> Result : Data Crawl Not Found.!!
+30-Oct-2018 06:05:57 -> Result : Swap:       7999484           0     7999484
+30-Oct-2018 06:05:57 -> Result : Render Processing from https://id.investing.com/commodities/ where id dailyTab
+30-Oct-2018 06:06:20 -> Result : Render Done..
+30-Oct-2018 06:06:20 -> Result : Load data from directory webpage where File : dailyTab.html
+30-Oct-2018 06:06:20 -> Result : Successfully Crawling data from https://id.investing.com/commodities/
+30-Oct-2018 06:06:20 -> Result : Record data is 13
+30-Oct-2018 06:06:20 -> Result : Created Json File -> dailyTab.json
+30-Oct-2018 06:06:20 -> Result : Compare Data
+30-Oct-2018 06:06:20 -> Result : Update data Successfully 
+30-Oct-2018 06:06:25 -> Result : Swap:       7999484           0     7999484
+30-Oct-2018 06:06:25 -> Result : Render Processing from https://id.investing.com/commodities/ where id dailyTab
+30-Oct-2018 06:06:33 -> Result : Render Done..
+30-Oct-2018 06:06:33 -> Result : Load data from directory webpage where File : dailyTab.html
+30-Oct-2018 06:06:33 -> Result : Successfully Crawling data from https://id.investing.com/commodities/
+30-Oct-2018 06:06:33 -> Result : Record data is 13
+30-Oct-2018 06:06:33 -> Result : Created Json File -> dailyTab.json
+30-Oct-2018 06:06:33 -> Result : Compare Data
+30-Oct-2018 06:06:33 -> Result : Update data Successfully 
+30-Oct-2018 06:06:38 -> Result : Swap:       7999484           0     7999484
+30-Oct-2018 06:06:38 -> Result : Render Processing from https://id.investing.com/commodities/ where id dailyTab
+30-Oct-2018 06:07:39 -> Result : Render Done..
+30-Oct-2018 06:07:39 -> Result : Load data from directory webpage where File : dailyTab.html
+30-Oct-2018 06:07:39 -> Result : Successfully Crawling data from https://id.investing.com/commodities/
+30-Oct-2018 06:07:39 -> Result : Record data is 0
+30-Oct-2018 06:07:39 -> Result : Created Json File -> dailyTab.json
+30-Oct-2018 06:07:39 -> Result : Data Crawl Not Found.!!
+30-Oct-2018 06:07:44 -> Result : Swap:       7999484           0     7999484
+30-Oct-2018 06:07:44 -> Result : Render Processing from https://id.investing.com/commodities/ where id dailyTab
