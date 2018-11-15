@@ -117,11 +117,9 @@
 					    	}
 
 					    	if ($exec === true) {
-					    		for ($i=0; $i < $tempTB; $i++) { 
-									$putfild = array_keys($data[$i]);
-								}
+								
+								$fild = $this->array_keys($data);
 
-								$fild = implode(', ', $putfild);
 								$value = array();
 
 								foreach ($data as $rowvalue) {
@@ -144,11 +142,6 @@
 									$log->log("Filed Insert to Table ".$url." Error in query Insert",$this->id);
 								}
 					    	}else{
-					    		for ($i=0; $i < $tempTB; $i++) { 
-									$putfild = array_keys($data[$i]);
-								}
-
-								$fild = implode(', ', $putfild);
 					    		
 					    		$comparearray = array();
 					    		$arrayload = array();
@@ -231,6 +224,17 @@
 
 		}
 
+		public function array_keys($data){
+			$putfild = '';
+			$fild = '';
+
+			for ($i=0; $i < count($data); $i++) { 
+				$putfild = ' '.array_keys($data[$i]).','; 
+			}
+
+			$fild = $putfild;
+		}
+
 		public function update($arraydiff,$arrayintersect){
 			$log = new LogMessage();
 
@@ -242,7 +246,6 @@
 			}else{
 
 				try{
-
 
 					$countdiff = 0;
 					$fielddiff = '';
@@ -294,8 +297,8 @@
 
 	}
 
-	$temp_url = array('https://coinmarketcap.com/coins/');
-	$temp_id = array('currencies');
+	$temp_url = array('http://live.7msport.com/');
+	$temp_id = array('live_Table');
 
 	for ($i=0; $i < count($temp_url); $i++) {
 		$mulai[$i] = new Render($temp_url[$i],$temp_id[$i]);

@@ -307,3 +307,250 @@
 16-Oct-2018 04:57:25 -> Result : Update data Successfully 
 16-Oct-2018 04:57:30 -> Result : Swap:       7999484           0     7999484
 16-Oct-2018 04:57:30 -> Result : Render Processing from http://live.7msport.com where id live_Table
+15-Nov-2018 04:12:50 -> Result : Render Processing from https://live.7msport.com where id live_Table
+15-Nov-2018 04:12:51 -> Result : Render Done..
+15-Nov-2018 04:12:51 -> Result : Load data from directory webpage where File : live_Table.html
+15-Nov-2018 04:12:51 -> Result : Successfully Crawling data from https://live.7msport.com
+15-Nov-2018 04:12:51 -> Result : Record data is 0
+15-Nov-2018 04:12:51 -> Result : Created Json File -> live_Table.json
+15-Nov-2018 04:12:51 -> Result : Data Crawl Not Found.!!
+15-Nov-2018 04:13:14 -> Result : Render Processing from https://live.7msport.com where id live_Table
+15-Nov-2018 04:13:14 -> Result : Render Done..
+15-Nov-2018 04:13:14 -> Result : Load data from directory webpage where File : live_Table.html
+15-Nov-2018 04:13:14 -> Result : Successfully Crawling data from https://live.7msport.com
+15-Nov-2018 04:13:14 -> Result : Record data is 0
+15-Nov-2018 04:13:14 -> Result : Created Json File -> live_Table.json
+15-Nov-2018 04:13:14 -> Result : Data Crawl Not Found.!!
+15-Nov-2018 04:13:19 -> Result : Swap:       7999484           0     7999484
+15-Nov-2018 04:13:19 -> Result : Render Processing from https://live.7msport.com where id live_Table
+15-Nov-2018 04:13:20 -> Result : Render Done..
+15-Nov-2018 04:13:20 -> Result : Load data from directory webpage where File : live_Table.html
+15-Nov-2018 04:13:20 -> Result : Successfully Crawling data from https://live.7msport.com
+15-Nov-2018 04:13:20 -> Result : Record data is 0
+15-Nov-2018 04:13:20 -> Result : Created Json File -> live_Table.json
+15-Nov-2018 04:13:20 -> Result : Data Crawl Not Found.!!
+15-Nov-2018 04:13:25 -> Result : Swap:       7999484           0     7999484
+15-Nov-2018 04:13:25 -> Result : Render Processing from https://live.7msport.com where id live_Table
+15-Nov-2018 04:13:25 -> Result : Render Done..
+15-Nov-2018 04:13:25 -> Result : Load data from directory webpage where File : live_Table.html
+15-Nov-2018 04:13:25 -> Result : Successfully Crawling data from https://live.7msport.com
+15-Nov-2018 04:13:25 -> Result : Record data is 0
+15-Nov-2018 04:13:25 -> Result : Created Json File -> live_Table.json
+15-Nov-2018 04:13:25 -> Result : Data Crawl Not Found.!!
+15-Nov-2018 04:13:30 -> Result : Swap:       7999484           0     7999484
+15-Nov-2018 04:13:30 -> Result : Render Processing from https://live.7msport.com where id live_Table
+15-Nov-2018 04:13:31 -> Result : Render Done..
+15-Nov-2018 04:13:31 -> Result : Load data from directory webpage where File : live_Table.html
+15-Nov-2018 04:13:31 -> Result : Successfully Crawling data from https://live.7msport.com
+15-Nov-2018 04:13:31 -> Result : Record data is 0
+15-Nov-2018 04:13:31 -> Result : Created Json File -> live_Table.json
+15-Nov-2018 04:13:31 -> Result : Data Crawl Not Found.!!
+15-Nov-2018 04:13:36 -> Result : Swap:       7999484           0     7999484
+15-Nov-2018 04:13:36 -> Result : Render Processing from https://live.7msport.com where id live_Table
+15-Nov-2018 04:13:36 -> Result : Render Done..
+15-Nov-2018 04:13:36 -> Result : Load data from directory webpage where File : live_Table.html
+15-Nov-2018 04:13:36 -> Result : Successfully Crawling data from https://live.7msport.com
+15-Nov-2018 04:13:36 -> Result : Record data is 0
+15-Nov-2018 04:13:36 -> Result : Created Json File -> live_Table.json
+15-Nov-2018 04:13:36 -> Result : Data Crawl Not Found.!!
+15-Nov-2018 04:13:41 -> Result : Swap:       7999484           0     7999484
+15-Nov-2018 04:13:41 -> Result : Render Processing from https://live.7msport.com where id live_Table
+15-Nov-2018 04:13:42 -> Result : Render Done..
+15-Nov-2018 04:13:42 -> Result : Load data from directory webpage where File : live_Table.html
+15-Nov-2018 04:13:42 -> Result : Successfully Crawling data from https://live.7msport.com
+15-Nov-2018 04:13:42 -> Result : Record data is 0
+15-Nov-2018 04:13:42 -> Result : Created Json File -> live_Table.json
+15-Nov-2018 04:13:42 -> Result : Data Crawl Not Found.!!
+15-Nov-2018 04:13:47 -> Result : Swap:       7999484           0     7999484
+15-Nov-2018 04:13:47 -> Result : Render Processing from https://live.7msport.com where id live_Table
+15-Nov-2018 04:13:47 -> Result : Render Done..
+15-Nov-2018 04:13:47 -> Result : Load data from directory webpage where File : live_Table.html
+15-Nov-2018 04:13:47 -> Result : Successfully Crawling data from https://live.7msport.com
+15-Nov-2018 04:13:47 -> Result : Record data is 0
+15-Nov-2018 04:13:47 -> Result : Created Json File -> live_Table.json
+15-Nov-2018 04:13:47 -> Result : Data Crawl Not Found.!!
+15-Nov-2018 04:13:52 -> Result : Swap:       7999484           0     7999484
+15-Nov-2018 04:13:52 -> Result : Render Processing from https://live.7msport.com where id live_Table
+15-Nov-2018 04:13:53 -> Result : Render Done..
+15-Nov-2018 04:13:53 -> Result : Load data from directory webpage where File : live_Table.html
+15-Nov-2018 04:13:53 -> Result : Successfully Crawling data from https://live.7msport.com
+15-Nov-2018 04:13:53 -> Result : Record data is 0
+15-Nov-2018 04:13:53 -> Result : Created Json File -> live_Table.json
+15-Nov-2018 04:13:53 -> Result : Data Crawl Not Found.!!
+15-Nov-2018 04:14:01 -> Result : Render Processing from https://live.7msport.com where id live_Table
+15-Nov-2018 04:14:01 -> Result : Render Done..
+15-Nov-2018 04:14:01 -> Result : Load data from directory webpage where File : live_Table.html
+15-Nov-2018 04:14:01 -> Result : Successfully Crawling data from https://live.7msport.com
+15-Nov-2018 04:14:01 -> Result : Record data is 0
+15-Nov-2018 04:14:01 -> Result : Created Json File -> live_Table.json
+15-Nov-2018 04:14:01 -> Result : Data Crawl Not Found.!!
+15-Nov-2018 04:14:06 -> Result : Swap:       7999484           0     7999484
+15-Nov-2018 04:14:06 -> Result : Render Processing from https://live.7msport.com where id live_Table
+15-Nov-2018 04:14:07 -> Result : Render Done..
+15-Nov-2018 04:14:07 -> Result : Load data from directory webpage where File : live_Table.html
+15-Nov-2018 04:14:07 -> Result : Successfully Crawling data from https://live.7msport.com
+15-Nov-2018 04:14:07 -> Result : Record data is 0
+15-Nov-2018 04:14:07 -> Result : Created Json File -> live_Table.json
+15-Nov-2018 04:14:07 -> Result : Data Crawl Not Found.!!
+15-Nov-2018 04:15:42 -> Result : Render Processing from http://live.7msport.com/ where id live_Table
+15-Nov-2018 04:15:48 -> Result : Render Done..
+15-Nov-2018 04:15:48 -> Result : Load data from directory webpage where File : live_Table.html
+15-Nov-2018 04:15:48 -> Result : Successfully Crawling data from http://live.7msport.com/
+15-Nov-2018 04:15:48 -> Result : Record data is 130
+15-Nov-2018 04:15:48 -> Result : Created Json File -> live_Table.json
+15-Nov-2018 04:15:53 -> Result : Filed Insert to Table live_Table Error in query Insert
+15-Nov-2018 04:15:58 -> Result : Swap:       7999484           0     7999484
+15-Nov-2018 04:15:58 -> Result : Render Processing from http://live.7msport.com/ where id live_Table
+15-Nov-2018 04:16:13 -> Result : Render Done..
+15-Nov-2018 04:16:13 -> Result : Load data from directory webpage where File : live_Table.html
+15-Nov-2018 04:16:13 -> Result : Successfully Crawling data from http://live.7msport.com/
+15-Nov-2018 04:16:13 -> Result : Record data is 130
+15-Nov-2018 04:16:13 -> Result : Created Json File -> live_Table.json
+15-Nov-2018 04:16:13 -> Result : Compare Data
+15-Nov-2018 04:16:13 -> Result : Update data Successfully 
+15-Nov-2018 04:16:18 -> Result : Swap:       7999484           0     7999484
+15-Nov-2018 04:16:18 -> Result : Render Processing from http://live.7msport.com/ where id live_Table
+15-Nov-2018 04:23:12 -> Result : Render Processing from http://live.7msport.com/ where id live_Table
+15-Nov-2018 04:23:27 -> Result : Render Processing from http://live.7msport.com/ where id live_Table
+15-Nov-2018 04:23:33 -> Result : Render Done..
+15-Nov-2018 04:23:33 -> Result : Load data from directory webpage where File : live_Table.html
+15-Nov-2018 04:23:33 -> Result : Successfully Crawling data from http://live.7msport.com/
+15-Nov-2018 04:23:33 -> Result : Record data is 131
+15-Nov-2018 04:23:33 -> Result : Created Json File -> live_Table.json
+15-Nov-2018 04:23:38 -> Result : Filed Insert to Table live_Table Error in query Insert
+15-Nov-2018 04:23:43 -> Result : Swap:       7999484           0     7999484
+15-Nov-2018 04:23:43 -> Result : Render Processing from http://live.7msport.com/ where id live_Table
+15-Nov-2018 04:23:49 -> Result : Render Done..
+15-Nov-2018 04:23:49 -> Result : Load data from directory webpage where File : live_Table.html
+15-Nov-2018 04:23:49 -> Result : Successfully Crawling data from http://live.7msport.com/
+15-Nov-2018 04:23:49 -> Result : Record data is 131
+15-Nov-2018 04:23:49 -> Result : Created Json File -> live_Table.json
+15-Nov-2018 04:23:49 -> Result : Compare Data
+15-Nov-2018 04:23:49 -> Result : Update data Successfully 
+15-Nov-2018 04:25:28 -> Result : Render Processing from http://live.7msport.com/ where id live_Table
+15-Nov-2018 04:25:34 -> Result : Render Done..
+15-Nov-2018 04:25:34 -> Result : Load data from directory webpage where File : live_Table.html
+15-Nov-2018 04:25:34 -> Result : Successfully Crawling data from http://live.7msport.com/
+15-Nov-2018 04:25:34 -> Result : Record data is 131
+15-Nov-2018 04:25:34 -> Result : Created Json File -> live_Table.json
+15-Nov-2018 04:25:39 -> Result : Filed Insert to Table live_Table Error in query Insert
+15-Nov-2018 04:25:44 -> Result : Swap:       7999484           0     7999484
+15-Nov-2018 04:25:44 -> Result : Render Processing from http://live.7msport.com/ where id live_Table
+15-Nov-2018 04:25:51 -> Result : Render Done..
+15-Nov-2018 04:25:51 -> Result : Load data from directory webpage where File : live_Table.html
+15-Nov-2018 04:25:51 -> Result : Successfully Crawling data from http://live.7msport.com/
+15-Nov-2018 04:25:51 -> Result : Record data is 131
+15-Nov-2018 04:25:51 -> Result : Created Json File -> live_Table.json
+15-Nov-2018 04:25:51 -> Result : Compare Data
+15-Nov-2018 04:25:51 -> Result : Update data Successfully 
+15-Nov-2018 04:26:51 -> Result : Render Processing from http://live.7msport.com/ where id live_Table
+15-Nov-2018 04:26:57 -> Result : Render Done..
+15-Nov-2018 04:26:57 -> Result : Load data from directory webpage where File : live_Table.html
+15-Nov-2018 04:26:57 -> Result : Successfully Crawling data from http://live.7msport.com/
+15-Nov-2018 04:26:57 -> Result : Record data is 131
+15-Nov-2018 04:26:57 -> Result : Created Json File -> live_Table.json
+15-Nov-2018 04:27:02 -> Result : Filed Insert to Table live_Table Error in query Insert
+15-Nov-2018 04:27:07 -> Result : Swap:       7999484           0     7999484
+15-Nov-2018 04:27:07 -> Result : Render Processing from http://live.7msport.com/ where id live_Table
+15-Nov-2018 04:27:13 -> Result : Render Done..
+15-Nov-2018 04:27:13 -> Result : Load data from directory webpage where File : live_Table.html
+15-Nov-2018 04:27:13 -> Result : Successfully Crawling data from http://live.7msport.com/
+15-Nov-2018 04:27:13 -> Result : Record data is 131
+15-Nov-2018 04:27:13 -> Result : Created Json File -> live_Table.json
+15-Nov-2018 04:27:13 -> Result : Compare Data
+15-Nov-2018 04:27:13 -> Result : Update data Successfully 
+15-Nov-2018 04:27:18 -> Result : Swap:       7999484           0     7999484
+15-Nov-2018 04:27:18 -> Result : Render Processing from http://live.7msport.com/ where id live_Table
+15-Nov-2018 04:27:24 -> Result : Render Done..
+15-Nov-2018 04:27:24 -> Result : Load data from directory webpage where File : live_Table.html
+15-Nov-2018 04:27:24 -> Result : Successfully Crawling data from http://live.7msport.com/
+15-Nov-2018 04:27:24 -> Result : Record data is 131
+15-Nov-2018 04:27:24 -> Result : Created Json File -> live_Table.json
+15-Nov-2018 04:27:24 -> Result : Compare Data
+15-Nov-2018 04:27:24 -> Result : Update data Successfully 
+15-Nov-2018 04:27:29 -> Result : Swap:       7999484           0     7999484
+15-Nov-2018 04:27:29 -> Result : Render Processing from http://live.7msport.com/ where id live_Table
+15-Nov-2018 04:27:34 -> Result : Render Done..
+15-Nov-2018 04:27:34 -> Result : Load data from directory webpage where File : live_Table.html
+15-Nov-2018 04:27:34 -> Result : Successfully Crawling data from http://live.7msport.com/
+15-Nov-2018 04:27:34 -> Result : Record data is 131
+15-Nov-2018 04:27:34 -> Result : Created Json File -> live_Table.json
+15-Nov-2018 04:27:34 -> Result : Compare Data
+15-Nov-2018 04:27:34 -> Result : Update data Successfully 
+15-Nov-2018 04:27:39 -> Result : Swap:       7999484           0     7999484
+15-Nov-2018 04:27:39 -> Result : Render Processing from http://live.7msport.com/ where id live_Table
+15-Nov-2018 04:28:03 -> Result : Render Processing from http://live.7msport.com/ where id live_Table
+15-Nov-2018 04:28:09 -> Result : Render Done..
+15-Nov-2018 04:28:09 -> Result : Load data from directory webpage where File : live_Table.html
+15-Nov-2018 04:28:09 -> Result : Successfully Crawling data from http://live.7msport.com/
+15-Nov-2018 04:28:09 -> Result : Record data is 131
+15-Nov-2018 04:28:09 -> Result : Created Json File -> live_Table.json
+15-Nov-2018 04:28:14 -> Result : Filed Insert to Table live_Table Error in query Insert
+15-Nov-2018 04:28:19 -> Result : Swap:       7999484           0     7999484
+15-Nov-2018 04:28:19 -> Result : Render Processing from http://live.7msport.com/ where id live_Table
+15-Nov-2018 04:28:26 -> Result : Render Done..
+15-Nov-2018 04:28:26 -> Result : Load data from directory webpage where File : live_Table.html
+15-Nov-2018 04:28:26 -> Result : Successfully Crawling data from http://live.7msport.com/
+15-Nov-2018 04:28:26 -> Result : Record data is 131
+15-Nov-2018 04:28:26 -> Result : Created Json File -> live_Table.json
+15-Nov-2018 04:28:26 -> Result : Compare Data
+15-Nov-2018 04:28:26 -> Result : Update data Successfully 
+15-Nov-2018 04:28:31 -> Result : Swap:       7999484           0     7999484
+15-Nov-2018 04:28:31 -> Result : Render Processing from http://live.7msport.com/ where id live_Table
+15-Nov-2018 04:28:53 -> Result : Render Processing from http://live.7msport.com/ where id live_Table
+15-Nov-2018 04:28:58 -> Result : Render Done..
+15-Nov-2018 04:28:58 -> Result : Load data from directory webpage where File : live_Table.html
+15-Nov-2018 04:28:58 -> Result : Successfully Crawling data from http://live.7msport.com/
+15-Nov-2018 04:28:58 -> Result : Record data is 131
+15-Nov-2018 04:28:58 -> Result : Created Json File -> live_Table.json
+15-Nov-2018 04:29:03 -> Result : Filed Insert to Table live_Table Error in query Insert
+15-Nov-2018 04:29:08 -> Result : Swap:       7999484           0     7999484
+15-Nov-2018 04:29:08 -> Result : Render Processing from http://live.7msport.com/ where id live_Table
+15-Nov-2018 04:29:13 -> Result : Render Done..
+15-Nov-2018 04:29:13 -> Result : Load data from directory webpage where File : live_Table.html
+15-Nov-2018 04:29:13 -> Result : Successfully Crawling data from http://live.7msport.com/
+15-Nov-2018 04:29:13 -> Result : Record data is 131
+15-Nov-2018 04:29:13 -> Result : Created Json File -> live_Table.json
+15-Nov-2018 04:29:13 -> Result : Compare Data
+15-Nov-2018 04:29:13 -> Result : Update data Successfully 
+15-Nov-2018 04:29:18 -> Result : Swap:       7999484           0     7999484
+15-Nov-2018 04:29:18 -> Result : Render Processing from http://live.7msport.com/ where id live_Table
+15-Nov-2018 04:34:59 -> Result : Render Processing from http://live.7msport.com/ where id live_Table
+15-Nov-2018 04:35:04 -> Result : Render Done..
+15-Nov-2018 04:35:04 -> Result : Load data from directory webpage where File : live_Table.html
+15-Nov-2018 04:35:04 -> Result : Successfully Crawling data from http://live.7msport.com/
+15-Nov-2018 04:35:04 -> Result : Record data is 131
+15-Nov-2018 04:35:04 -> Result : Created Json File -> live_Table.json
+15-Nov-2018 04:35:09 -> Result : Filed Insert to Table live_Table Error in query Insert
+15-Nov-2018 04:35:14 -> Result : Swap:       7999484           0     7999484
+15-Nov-2018 04:35:14 -> Result : Render Processing from http://live.7msport.com/ where id live_Table
+15-Nov-2018 04:35:46 -> Result : Render Processing from http://live.7msport.com/ where id live_Table
+15-Nov-2018 04:35:52 -> Result : Render Done..
+15-Nov-2018 04:35:52 -> Result : Load data from directory webpage where File : live_Table.html
+15-Nov-2018 04:35:52 -> Result : Successfully Crawling data from http://live.7msport.com/
+15-Nov-2018 04:35:52 -> Result : Record data is 131
+15-Nov-2018 04:35:52 -> Result : Created Json File -> live_Table.json
+15-Nov-2018 04:35:52 -> Result : Compare Data
+15-Nov-2018 04:35:52 -> Result : Update data Successfully 
+15-Nov-2018 04:35:57 -> Result : Swap:       7999484           0     7999484
+15-Nov-2018 04:35:57 -> Result : Render Processing from http://live.7msport.com/ where id live_Table
+15-Nov-2018 04:36:09 -> Result : Render Done..
+15-Nov-2018 04:36:09 -> Result : Load data from directory webpage where File : live_Table.html
+15-Nov-2018 04:36:09 -> Result : Successfully Crawling data from http://live.7msport.com/
+15-Nov-2018 04:36:09 -> Result : Record data is 131
+15-Nov-2018 04:36:09 -> Result : Created Json File -> live_Table.json
+15-Nov-2018 04:36:09 -> Result : Compare Data
+15-Nov-2018 04:36:09 -> Result : Update data Successfully 
+15-Nov-2018 04:36:14 -> Result : Swap:       7999484           0     7999484
+15-Nov-2018 04:36:14 -> Result : Render Processing from http://live.7msport.com/ where id live_Table
+15-Nov-2018 04:37:07 -> Result : Render Processing from http://live.7msport.com/ where id live_Table
+15-Nov-2018 04:39:54 -> Result : Render Processing from http://live.7msport.com/ where id live_Table
+15-Nov-2018 04:47:03 -> Result : Render Processing from http://live.7msport.com/ where id live_Table
+15-Nov-2018 04:47:07 -> Result : Render Done..
+15-Nov-2018 04:47:07 -> Result : Load data from directory webpage where File : live_Table.html
+15-Nov-2018 04:47:07 -> Result : Successfully Crawling data from http://live.7msport.com/
+15-Nov-2018 04:47:07 -> Result : Record data is 131
+15-Nov-2018 04:47:07 -> Result : Created Json File -> live_Table.json
+15-Nov-2018 04:47:12 -> Result : Filed Insert to Table live_Table Error in query Insert
+15-Nov-2018 04:47:17 -> Result : Swap:       7999484           0     7999484
+15-Nov-2018 04:47:17 -> Result : Render Processing from http://live.7msport.com/ where id live_Table

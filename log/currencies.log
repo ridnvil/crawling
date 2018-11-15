@@ -4786,3 +4786,122 @@
 15-Nov-2018 03:43:58 -> Result : data_2 = '0497193', data_3 = '2118', data_4 = '1170 M', data_6 = '14535 K',  : Changed
 15-Nov-2018 03:43:58 -> Result : data_2 = '0198392', data_3 = '1869', data_4 = '1139 M', data_6 = '3529 K',  : Changed
 15-Nov-2018 03:43:58 -> Result : Update data Successfully 
+15-Nov-2018 04:06:54 -> Result : Render Processing from https://coinmarketcap.com/coins/ where id currencies
+15-Nov-2018 04:07:07 -> Result : Render Done..
+15-Nov-2018 04:07:07 -> Result : Load data from directory webpage where File : currencies.html
+15-Nov-2018 04:07:07 -> Result : Successfully Crawling data from https://coinmarketcap.com/coins/
+15-Nov-2018 04:07:07 -> Result : Record data is 100
+15-Nov-2018 04:07:07 -> Result : Created Json File -> currencies.json
+15-Nov-2018 04:07:07 -> Result : Compare Data
+15-Nov-2018 04:07:07 -> Result : Update data Successfully 
+15-Nov-2018 04:07:12 -> Result : Swap:       7999484           0     7999484
+15-Nov-2018 04:07:12 -> Result : Render Processing from https://coinmarketcap.com/coins/ where id currencies
+15-Nov-2018 04:07:22 -> Result : Render Done..
+15-Nov-2018 04:07:22 -> Result : Load data from directory webpage where File : currencies.html
+15-Nov-2018 04:07:22 -> Result : Successfully Crawling data from https://coinmarketcap.com/coins/
+15-Nov-2018 04:07:22 -> Result : Record data is 100
+15-Nov-2018 04:07:22 -> Result : Created Json File -> currencies.json
+15-Nov-2018 04:07:22 -> Result : Compare Data
+15-Nov-2018 04:07:22 -> Result : Update data Successfully 
+15-Nov-2018 04:07:27 -> Result : Swap:       7999484           0     7999484
+15-Nov-2018 04:07:27 -> Result : Render Processing from https://coinmarketcap.com/coins/ where id currencies
+15-Nov-2018 04:07:32 -> Result : Render Done..
+15-Nov-2018 04:07:32 -> Result : Load data from directory webpage where File : currencies.html
+15-Nov-2018 04:07:32 -> Result : Successfully Crawling data from https://coinmarketcap.com/coins/
+15-Nov-2018 04:07:32 -> Result : Record data is 100
+15-Nov-2018 04:07:32 -> Result : Created Json File -> currencies.json
+15-Nov-2018 04:07:32 -> Result : Compare Data
+15-Nov-2018 04:07:32 -> Result : Update data Successfully 
+15-Nov-2018 04:07:37 -> Result : Swap:       7999484           0     7999484
+15-Nov-2018 04:07:37 -> Result : Render Processing from https://coinmarketcap.com/coins/ where id currencies
+15-Nov-2018 04:07:47 -> Result : Render Done..
+15-Nov-2018 04:07:47 -> Result : Load data from directory webpage where File : currencies.html
+15-Nov-2018 04:07:47 -> Result : Successfully Crawling data from https://coinmarketcap.com/coins/
+15-Nov-2018 04:07:47 -> Result : Record data is 100
+15-Nov-2018 04:07:47 -> Result : Created Json File -> currencies.json
+15-Nov-2018 04:07:47 -> Result : Compare Data
+15-Nov-2018 04:07:47 -> Result : Update data Successfully 
+15-Nov-2018 04:07:52 -> Result : Swap:       7999484           0     7999484
+15-Nov-2018 04:07:52 -> Result : Render Processing from https://coinmarketcap.com/coins/ where id currencies
+15-Nov-2018 04:08:30 -> Result : Render Done..
+15-Nov-2018 04:08:30 -> Result : Load data from directory webpage where File : currencies.html
+15-Nov-2018 04:08:30 -> Result : Successfully Crawling data from https://coinmarketcap.com/coins/
+15-Nov-2018 04:08:30 -> Result : Record data is 100
+15-Nov-2018 04:08:30 -> Result : Created Json File -> currencies.json
+15-Nov-2018 04:08:30 -> Result : Compare Data
+15-Nov-2018 04:08:30 -> Result : Update data Successfully 
+15-Nov-2018 04:08:35 -> Result : Swap:       7999484           0     7999484
+15-Nov-2018 04:08:35 -> Result : Render Processing from https://coinmarketcap.com/coins/ where id currencies
+15-Nov-2018 04:08:44 -> Result : Render Done..
+15-Nov-2018 04:08:44 -> Result : Load data from directory webpage where File : currencies.html
+15-Nov-2018 04:08:44 -> Result : Successfully Crawling data from https://coinmarketcap.com/coins/
+15-Nov-2018 04:08:44 -> Result : Record data is 100
+15-Nov-2018 04:08:44 -> Result : Created Json File -> currencies.json
+15-Nov-2018 04:08:44 -> Result : Compare Data
+15-Nov-2018 04:08:44 -> Result : Update data Successfully 
+15-Nov-2018 04:08:49 -> Result : Swap:       7999484           0     7999484
+15-Nov-2018 04:08:49 -> Result : Render Processing from https://coinmarketcap.com/coins/ where id currencies
+15-Nov-2018 04:08:55 -> Result : Render Done..
+15-Nov-2018 04:08:55 -> Result : Load data from directory webpage where File : currencies.html
+15-Nov-2018 04:08:55 -> Result : Successfully Crawling data from https://coinmarketcap.com/coins/
+15-Nov-2018 04:08:55 -> Result : Record data is 100
+15-Nov-2018 04:08:55 -> Result : Created Json File -> currencies.json
+15-Nov-2018 04:08:55 -> Result : Compare Data
+15-Nov-2018 04:08:55 -> Result : Update data Successfully 
+15-Nov-2018 04:09:00 -> Result : Swap:       7999484           0     7999484
+15-Nov-2018 04:09:00 -> Result : Render Processing from https://coinmarketcap.com/coins/ where id currencies
+15-Nov-2018 04:09:05 -> Result : Render Done..
+15-Nov-2018 04:09:05 -> Result : Load data from directory webpage where File : currencies.html
+15-Nov-2018 04:09:05 -> Result : Successfully Crawling data from https://coinmarketcap.com/coins/
+15-Nov-2018 04:09:05 -> Result : Record data is 100
+15-Nov-2018 04:09:05 -> Result : Created Json File -> currencies.json
+15-Nov-2018 04:09:05 -> Result : Compare Data
+15-Nov-2018 04:09:05 -> Result : Update data Successfully 
+15-Nov-2018 04:09:10 -> Result : Swap:       7999484           0     7999484
+15-Nov-2018 04:09:10 -> Result : Render Processing from https://coinmarketcap.com/coins/ where id currencies
+15-Nov-2018 04:09:20 -> Result : Render Done..
+15-Nov-2018 04:09:20 -> Result : Load data from directory webpage where File : currencies.html
+15-Nov-2018 04:09:20 -> Result : Successfully Crawling data from https://coinmarketcap.com/coins/
+15-Nov-2018 04:09:20 -> Result : Record data is 100
+15-Nov-2018 04:09:20 -> Result : Created Json File -> currencies.json
+15-Nov-2018 04:09:20 -> Result : Compare Data
+15-Nov-2018 04:09:20 -> Result : Update data Successfully 
+15-Nov-2018 04:09:25 -> Result : Swap:       7999484           0     7999484
+15-Nov-2018 04:09:25 -> Result : Render Processing from https://coinmarketcap.com/coins/ where id currencies
+15-Nov-2018 04:09:31 -> Result : Render Done..
+15-Nov-2018 04:09:31 -> Result : Load data from directory webpage where File : currencies.html
+15-Nov-2018 04:09:31 -> Result : Successfully Crawling data from https://coinmarketcap.com/coins/
+15-Nov-2018 04:09:31 -> Result : Record data is 100
+15-Nov-2018 04:09:31 -> Result : Created Json File -> currencies.json
+15-Nov-2018 04:09:31 -> Result : Compare Data
+15-Nov-2018 04:09:31 -> Result : Update data Successfully 
+15-Nov-2018 04:09:36 -> Result : Swap:       7999484           0     7999484
+15-Nov-2018 04:09:36 -> Result : Render Processing from https://coinmarketcap.com/coins/ where id currencies
+15-Nov-2018 04:09:41 -> Result : Render Done..
+15-Nov-2018 04:09:41 -> Result : Load data from directory webpage where File : currencies.html
+15-Nov-2018 04:09:41 -> Result : Successfully Crawling data from https://coinmarketcap.com/coins/
+15-Nov-2018 04:09:41 -> Result : Record data is 100
+15-Nov-2018 04:09:41 -> Result : Created Json File -> currencies.json
+15-Nov-2018 04:09:41 -> Result : Compare Data
+15-Nov-2018 04:09:41 -> Result : Update data Successfully 
+15-Nov-2018 04:09:46 -> Result : Swap:       7999484           0     7999484
+15-Nov-2018 04:09:46 -> Result : Render Processing from https://coinmarketcap.com/coins/ where id currencies
+15-Nov-2018 04:10:23 -> Result : Render Processing from https://coinmarketcap.com/coins/ where id currencies
+15-Nov-2018 04:10:33 -> Result : Render Done..
+15-Nov-2018 04:10:33 -> Result : Load data from directory webpage where File : currencies.html
+15-Nov-2018 04:10:33 -> Result : Successfully Crawling data from https://coinmarketcap.com/coins/
+15-Nov-2018 04:10:33 -> Result : Record data is 100
+15-Nov-2018 04:10:33 -> Result : Created Json File -> currencies.json
+15-Nov-2018 04:10:33 -> Result : Compare Data
+15-Nov-2018 04:10:33 -> Result : Update data Successfully 
+15-Nov-2018 04:10:38 -> Result : Swap:       7999484           0     7999484
+15-Nov-2018 04:10:38 -> Result : Render Processing from https://coinmarketcap.com/coins/ where id currencies
+15-Nov-2018 04:10:43 -> Result : Render Done..
+15-Nov-2018 04:10:43 -> Result : Load data from directory webpage where File : currencies.html
+15-Nov-2018 04:10:43 -> Result : Successfully Crawling data from https://coinmarketcap.com/coins/
+15-Nov-2018 04:10:43 -> Result : Record data is 100
+15-Nov-2018 04:10:43 -> Result : Created Json File -> currencies.json
+15-Nov-2018 04:10:43 -> Result : Compare Data
+15-Nov-2018 04:10:43 -> Result : Update data Successfully 
+15-Nov-2018 04:10:48 -> Result : Swap:       7999484           0     7999484
+15-Nov-2018 04:10:48 -> Result : Render Processing from https://coinmarketcap.com/coins/ where id currencies
