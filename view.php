@@ -1,13 +1,14 @@
 <?php
 	session_start();
 	require_once 'log.php';
+	require_once 'db.php';
 
 	class Render extends Thread
 	{
-		private $host = '127.0.0.1';
-		private $username = "root";
-		private $password = "a2zsolusindo";
-		private $database = 'coba';
+		// public $host = '192.168.1.249';
+		// public $username = "admin";
+		// public $password = "a1b2c3d4";
+		// public $database = 'ridwan';
 
 		public $url;
 		public $id;
@@ -20,7 +21,7 @@
 		}
 
 		public function run(){
-			echo "Proses Render Data.."."\n";
+
 			$this->Crawling($this->id);
 			// $this->render();
 			// echo $this->url;
@@ -29,10 +30,9 @@
 
 		public function render(){
 			$log = new LogMessage();
-			echo "\n";
-			echo "Website : ".$this->url." ID : ".$this->id." "."\n";
+			echo "Proses Render Data From Website : ".$this->url." ID is ".$this->id."\n";
 			$log->log("Render Processing from ".$this->url." where id ".$this->id,$this->id);
-			$result = exec('/var/www/html/bckend/phantomjs /var/www/html/bckend/render.js '.$this->url.' '.$this->id);
+			$result = exec('phantomjs render.js '.$this->url.' '.$this->id);
 			$log->log("Render Done..",$this->id);
 			
 		}
@@ -43,15 +43,16 @@
 			$arrayresult = array();
 			$log = new LogMessage();
 
-			$conn = new mysqli($this->host,$this->username,$this->password,$this->database);
+			$database = new Database();
+			$conn = $database->getConnections();
+
 			if (!$conn) {
-				$log->log('Connection Filed..'.$e->getMessage(),$this->id);
+				//$log->log('Connection Filed..'.$e->getMessage(),$this->id);
 			}else{
 
 				while (true) {
-					$countarr = 0;
-
 					$this->render();
+
 					$urls = str_replace("-", "_", $url);
 					$dom=new DOMDocument();
 					$log->log("Load data from directory webpage where File : ".$url.".html",$this->id);
@@ -103,26 +104,38 @@
 						}
 
 					    $createTB = "CREATE TABLE IF NOT EXISTS $urls (id INT(10) NOT NULL AUTO_INCREMENT PRIMARY KEY)";
-					    $cek = mysqli_query($conn,$createTB);
+
+					    var_dump($createTB);
+					    $cek = $conn->query($createTB);
+
 					    // $log->log("Table ".$urls." Successfully create in database ".$this->database);
-				    	if ($cek === true) {
+				    	if ($cek) {
 
 				    		$count = 0;
-				    		$updateTB = "ALTER TABLE $urls ADD data_0 VARCHAR(500) AFTER id";
-				    		while ($count < $tempTB) {
-					    		$exec = mysqli_query($conn,$updateTB);
+				    		$updateTB1 = "ALTER TABLE $urls ADD data_0 VARCHAR(500) AFTER id";
+				    		$conn->query($updateTB1);
+				    		var_dump($updateTB);
 
-					    		$updateTB = "ALTER TABLE $urls ADD data_".($count+1)." VARCHAR(500) AFTER data_".($count)."";
+				    		while ($count < $tempTB) {
+
+					    		$updateTB2 = "ALTER TABLE $urls ADD data_".($count+1)." VARCHAR(500) AFTER data_".($count)."";
+					    		$conn->query($updateTB2);
 					    		$count++;
+
+					    		var_dump($updateTB);
 					    	}
 
 					    	if ($exec === true) {
-					    		for ($i=0; $i < $tempTB; $i++) { 
-									$putfild = array_keys($data[$i]);
+					    		for ($i=0; $i <= $tempTB; $i++) { 
+									$putfild[] = array_keys($data[$i]);
+									// var_dump($putfild);
+									// $fild = implode(',', $putfild);
 								}
 
-								$fild = implode(', ', $putfild);
+								$fild = implode(',', $putfild);
 								$value = array();
+
+								// var_dump($fild);
 
 								foreach ($data as $rowvalue) {
 									foreach ($rowvalue as $key => $row) {
@@ -135,8 +148,8 @@
 
 								$query = "INSERT INTO $urls ($fild) VALUES " . implode(',', $value);
 								$querys = mysqli_query($conn,$query);
-								
-								var_dump($query);
+								// var_dump($query);
+								// var_dump($querys);
 								if ($querys) {
 									$log->log("Inserted to Table ".$url." where data ".count($data),$this->id);
 
@@ -144,11 +157,6 @@
 									$log->log("Filed Insert to Table ".$url." Error in query Insert",$this->id);
 								}
 					    	}else{
-					    		for ($i=0; $i < $tempTB; $i++) { 
-									$putfild = array_keys($data[$i]);
-								}
-
-								$fild = implode(', ', $putfild);
 					    		
 					    		$comparearray = array();
 					    		$arrayload = array();
@@ -172,25 +180,9 @@
 				    			$arraydiff = array();
 				    			if (count($comparearray) > 0) {
 				    	
-				    				for ($i=0; $i < count($comparearray); $i++) {
-				    					try{
-				    						$arrayintersect[] = array_intersect_assoc($globaltemp[$i], $comparearray[$i]);
-				    						// print_r($arrayintersect);
-				    					}catch(Exception $e){
-				    						return $e;
-				    					}
-
-				    				}
-
-				    				for ($i=0; $i < count($comparearray); $i++) { 
-				    					try{
-				    						$arraydiff[] = array_diff($globaltemp[$i], $comparearray[$i]);
-				    						// print_r($arraydiff);
-				    					}catch(Exception $e){
-				    						return $e;
-				    					}
-
-				    				}
+				    				$arrayintersect[] = $this->array_intersect_fixed($globaltemp,$comparearray);
+				    				$arraydiff[] = $this->arrayRecursiveDiff($globaltemp,$comparearray);
+				    				// print_r($arrayintersect);
 
 				    				if (count($arraydiff) > 0) {
 			    						if ($arraydiff == 0) {
@@ -198,6 +190,7 @@
 			    							$log->log("Not Data to Changed ",$this->id);
 
 			    						}else{
+
 
 			    							$this->update($arraydiff,$arrayintersect);
 			    						}
@@ -207,95 +200,66 @@
 				    			$log->log("Update data Successfully ",$this->id);
 					    	}
 				    	}else{
-
-		
 				    		$result = print_r("Query Error!!");
 				    		$log->log("Query not execute",$this->id);
 				    	}
 			
 				    }else{
-
 				    	$result = print_r("Data Crawl Not Found.!!");
-				    	$log->log("Data Crawl Not Found.!!",$this->id);
-				    	$count = count($data);
-				    	//$log-log("The Data is : ".$count,$this->id);
+				    	$log->log("Data Crawl Not Found.!!",$this->id."\n");
 				    }
 
 
 					sleep(5);
-
-					$log->log(system('free'),$this->id);
 				}	
 
 			}	
 
 		}
 
-		public function update($arraydiff,$arrayintersect){
-			$log = new LogMessage();
-
-			$urls = str_replace('-', '_', $this->id);
-
-			$conn = new mysqli($this->host,$this->username,$this->password,$this->database);
-			if (!$conn) {
-				$log->log('Problems for Update data : Connection Filed..'.$conn->connect_error,$this->id);
-			}else{
-
-				try{
-
-
-					$countdiff = 0;
-					$fielddiff = '';
-					$diff = array();
-					foreach ($arraydiff as $tempvaluediff) {
-						$diff[$countdiff] = "";
-						foreach ($tempvaluediff as $key => $value) {
-							$fielddiff[$countdiff] .= $key ." = '". $value."', ";
-						}
-						$countdiff++;
-					}
-
-
-					$countintersect = 0;
-					$fielintersect = '';
-					$intersect = array();
-					foreach ($arrayintersect as $tempvalueintersect) {
-						$intersect[$countintersect] = "";
-						foreach ($tempvalueintersect as $keys => $values) {
-							$fielintersect[$countintersect] .= $keys ." = '". $values ."' && ";
-						}
-						$countintersect++;
-					}
-
-					for ($i=0; $i < count($arraydiff); $i++) { 
-						$diffarr = substr($diff[$i], 0, -2);
-						$intersectarr = substr($intersect[$i], 0, -4);
-
-						$query = "UPDATE $urls SET $diffarr WHERE $intersectarr";
-						$querys = mysqli_query($conn, $query);
-
-						//var_dump($query);
-
-						if ($querys) {
-							$log->log($diff[$i]." : Changed",$this->id);
-						}
-						
-					}
-
-				}catch(Exception $e){
-
-					return $e->getMessage();
-					
-				}
-
-			}
+		function array_intersect_fixed($array1, $array2) { 
+		    $result = array();
+		    foreach ($array1 as $val) { 
+		      if (($key = array_search($val, $array2, TRUE))!==false) { 
+		         $result[] = $val; 
+		         unset($array2[$key]); 
+		      } 
+		    } 
+		    return $result; 
 		}
-		
 
+		public function arrayRecursiveDiff($aArray1, $aArray2) { 
+		    $aReturn = array(); 
+		   
+		    foreach ($aArray1 as $mKey => $mValue) { 
+		        if (array_key_exists($mKey, $aArray2)) { 
+		            if (is_array($mValue)) { 
+		                $aRecursiveDiff = $this->arrayRecursiveDiff($mValue, $aArray2[$mKey]); 
+		                if (count($aRecursiveDiff)) { $aReturn[$mKey] = $aRecursiveDiff; } 
+		            } else { 
+		                if ($mValue != $aArray2[$mKey]) { 
+		                    $aReturn[$mKey] = $mValue; 
+		                } 
+		            } 
+		        } else { 
+		            $aReturn[$mKey] = $mValue; 
+		        } 
+		    } 
+		   
+		    return $aReturn;
+		}
+
+		public function update($arraydiff, $arrayintersect){
+
+			foreach (array_keys($arraydiff) as  $key) {
+				var_dump($key);
+			}
+
+		}
 	}
 
-	$temp_url = array('https://coinmarketcap.com/coins/');
-	$temp_id = array('currencies');
+	$temp_url = array('https://www.enterkomputer.com/processor.php');
+	$temp_id = array('left-0');
 
 	for ($i=0; $i < count($temp_url); $i++) {
 		$mulai[$i] = new Render($temp_url[$i],$temp_id[$i]);
